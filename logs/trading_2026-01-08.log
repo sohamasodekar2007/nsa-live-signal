@@ -1,0 +1,1139 @@
+2026-01-08 11:45:32 | INFO     | Starting NSE Trading Engine (Root Mode)...
+2026-01-08 11:45:33 | INFO     | GUI Started Successfully.
+2026-01-08 11:49:31 | INFO     | Starting NSE Trading Engine (Root Mode)...
+2026-01-08 11:49:35 | INFO     | Fetching historical data for TATAMOTORS.NS (period=1d, interval=1m)
+2026-01-08 11:49:38 | WARNING  | No data returned for TATAMOTORS.NS
+2026-01-08 11:49:38 | ERROR    | Fatal Error: unsupported format string passed to NoneType.__format__
+2026-01-08 11:50:43 | INFO     | Starting NSE Trading Engine (Root Mode)...
+2026-01-08 11:50:48 | INFO     | Fetching historical data for TATAMOTORS.NS (period=1d, interval=1m)
+2026-01-08 11:50:49 | WARNING  | No data returned for TATAMOTORS.NS
+2026-01-08 11:50:50 | INFO     | Fetching historical data for RELIANCE.NS (period=1mo, interval=1d)
+2026-01-08 11:50:51 | INFO     | Fetched 23 candles for RELIANCE.NS
+2026-01-08 11:50:51 | INFO     | GUI Started Successfully.
+2026-01-08 11:50:58 | INFO     | Fetching historical data for TCS.NS (period=1mo, interval=1d)
+2026-01-08 11:50:59 | INFO     | Fetched 23 candles for TCS.NS
+2026-01-08 11:51:00 | INFO     | Fetching historical data for INFY.NS (period=1mo, interval=1d)
+2026-01-08 11:51:00 | INFO     | Fetched 23 candles for INFY.NS
+2026-01-08 11:51:01 | INFO     | Fetching historical data for HDFCBANK.NS (period=1mo, interval=1d)
+2026-01-08 11:51:01 | INFO     | Fetched 23 candles for HDFCBANK.NS
+2026-01-08 11:51:28 | INFO     | Fetching historical data for HDFCBANK.NS (period=1mo, interval=1d)
+2026-01-08 11:51:28 | INFO     | Fetched 23 candles for HDFCBANK.NS
+2026-01-08 11:51:29 | INFO     | Fetching historical data for HDFCBANK.NS (period=1mo, interval=1d)
+2026-01-08 11:51:29 | INFO     | Fetched 23 candles for HDFCBANK.NS
+2026-01-08 11:53:06 | INFO     | Fetching historical data for HDFCBANK.NS (period=1mo, interval=1d)
+2026-01-08 11:53:06 | INFO     | Fetched 23 candles for HDFCBANK.NS
+2026-01-08 11:53:20 | INFO     | Fetching historical data for RELIANCE.NS (period=1mo, interval=1d)
+2026-01-08 11:53:21 | INFO     | Fetched 23 candles for RELIANCE.NS
+2026-01-08 11:57:43 | INFO     | Starting NSE Trading Engine (Root Mode)...
+2026-01-08 11:57:44 | INFO     | Fetching historical data for RELIANCE.NS (period=1mo, interval=1d)
+2026-01-08 11:57:46 | INFO     | Fetched 23 candles for RELIANCE.NS
+2026-01-08 11:57:55 | INFO     | GUI Started Successfully.
+2026-01-08 11:57:58 | INFO     | Fetching historical data for TATAMOTORS.NS (period=1d, interval=1m)
+2026-01-08 11:58:00 | WARNING  | No data returned for TATAMOTORS.NS
+2026-01-08 11:58:04 | INFO     | Fetching historical data for TATAMOTORS.NS (period=1d, interval=1m)
+2026-01-08 11:58:06 | WARNING  | No data returned for TATAMOTORS.NS
+2026-01-08 11:58:06 | INFO     | Evaluating trade opportunity for BHARTIARTL.NS
+2026-01-08 11:58:06 | INFO     | Fetching historical data for BHARTIARTL.NS (period=5d, interval=15m)
+2026-01-08 11:58:06 | INFO     | Fetched 111 candles for BHARTIARTL.NS
+2026-01-08 11:58:06 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1d, interval=5m)
+2026-01-08 11:58:06 | INFO     | Fetched 33 candles for BHARTIARTL.NS
+2026-01-08 11:58:06 | INFO     | BHARTIARTL.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 11:58:06 | INFO     | Evaluating trade opportunity for ULTRACEMCO.NS
+2026-01-08 11:58:06 | INFO     | Fetching historical data for ULTRACEMCO.NS (period=5d, interval=15m)
+2026-01-08 11:58:06 | INFO     | Fetched 111 candles for ULTRACEMCO.NS
+2026-01-08 11:58:06 | INFO     | Fetching historical data for ULTRACEMCO.NS (period=1d, interval=5m)
+2026-01-08 11:58:06 | INFO     | Fetched 33 candles for ULTRACEMCO.NS
+2026-01-08 11:58:06 | INFO     | ULTRACEMCO.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 11:58:06 | INFO     | Evaluating trade opportunity for SBIN.NS
+2026-01-08 11:58:06 | INFO     | Fetching historical data for SBIN.NS (period=5d, interval=15m)
+2026-01-08 11:58:07 | INFO     | Fetched 111 candles for SBIN.NS
+2026-01-08 11:58:07 | INFO     | Fetching historical data for SBIN.NS (period=1d, interval=5m)
+2026-01-08 11:58:07 | INFO     | Fetched 33 candles for SBIN.NS
+2026-01-08 11:58:07 | INFO     | SBIN.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 11:58:07 | INFO     | Evaluating trade opportunity for AXISBANK.NS
+2026-01-08 11:58:07 | INFO     | Fetching historical data for AXISBANK.NS (period=5d, interval=15m)
+2026-01-08 11:58:07 | INFO     | Fetched 111 candles for AXISBANK.NS
+2026-01-08 11:58:07 | INFO     | Fetching historical data for AXISBANK.NS (period=1d, interval=5m)
+2026-01-08 11:58:08 | INFO     | Fetched 33 candles for AXISBANK.NS
+2026-01-08 11:58:08 | INFO     | AXISBANK.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 11:58:08 | INFO     | Evaluating trade opportunity for ICICIBANK.NS
+2026-01-08 11:58:08 | INFO     | Fetching historical data for ICICIBANK.NS (period=5d, interval=15m)
+2026-01-08 11:58:08 | INFO     | Fetched 111 candles for ICICIBANK.NS
+2026-01-08 11:58:08 | INFO     | Fetching historical data for ICICIBANK.NS (period=1d, interval=5m)
+2026-01-08 11:58:08 | INFO     | Fetched 33 candles for ICICIBANK.NS
+2026-01-08 11:58:08 | INFO     | ICICIBANK.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 11:58:08 | INFO     | Evaluating trade opportunity for INFY.NS
+2026-01-08 11:58:08 | INFO     | Fetching historical data for INFY.NS (period=5d, interval=15m)
+2026-01-08 11:58:08 | INFO     | Fetched 111 candles for INFY.NS
+2026-01-08 11:58:08 | INFO     | Fetching historical data for INFY.NS (period=1d, interval=5m)
+2026-01-08 11:58:08 | INFO     | Fetched 33 candles for INFY.NS
+2026-01-08 11:58:08 | INFO     | INFY.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 11:58:08 | INFO     | Evaluating trade opportunity for WIPRO.NS
+2026-01-08 11:58:08 | INFO     | Fetching historical data for WIPRO.NS (period=5d, interval=15m)
+2026-01-08 11:58:09 | INFO     | Fetched 111 candles for WIPRO.NS
+2026-01-08 11:58:09 | INFO     | Fetching historical data for WIPRO.NS (period=1d, interval=5m)
+2026-01-08 11:58:09 | INFO     | Fetched 33 candles for WIPRO.NS
+2026-01-08 11:58:09 | INFO     | WIPRO.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 11:58:09 | INFO     | Evaluating trade opportunity for RELIANCE.NS
+2026-01-08 11:58:09 | INFO     | Fetching historical data for RELIANCE.NS (period=5d, interval=15m)
+2026-01-08 11:58:09 | INFO     | Fetched 111 candles for RELIANCE.NS
+2026-01-08 11:58:09 | INFO     | Fetching historical data for RELIANCE.NS (period=1d, interval=5m)
+2026-01-08 11:58:09 | INFO     | Fetched 33 candles for RELIANCE.NS
+2026-01-08 11:58:09 | INFO     | RELIANCE.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 11:58:09 | INFO     | Evaluating trade opportunity for TATAMOTORS.NS
+2026-01-08 11:58:09 | INFO     | Fetching historical data for TATAMOTORS.NS (period=5d, interval=15m)
+2026-01-08 11:58:10 | WARNING  | No data returned for TATAMOTORS.NS
+2026-01-08 11:58:10 | INFO     | Fetching historical data for TATAMOTORS.NS (period=1d, interval=5m)
+2026-01-08 11:58:11 | WARNING  | No data returned for TATAMOTORS.NS
+2026-01-08 11:58:11 | INFO     | TATAMOTORS.NS: HOLD - Multi-timeframe misalignment: Insufficient data
+2026-01-08 11:58:11 | INFO     | Evaluating trade opportunity for HDFCBANK.NS
+2026-01-08 11:58:11 | INFO     | Fetching historical data for HDFCBANK.NS (period=5d, interval=15m)
+2026-01-08 11:58:11 | INFO     | Fetched 111 candles for HDFCBANK.NS
+2026-01-08 11:58:11 | INFO     | Fetching historical data for HDFCBANK.NS (period=1d, interval=5m)
+2026-01-08 11:58:11 | INFO     | Fetched 33 candles for HDFCBANK.NS
+2026-01-08 11:58:11 | INFO     | HDFCBANK.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 11:58:11 | INFO     | Evaluating trade opportunity for LTIM.NS
+2026-01-08 11:58:11 | INFO     | Fetching historical data for LTIM.NS (period=5d, interval=15m)
+2026-01-08 11:58:11 | INFO     | Fetched 111 candles for LTIM.NS
+2026-01-08 11:58:11 | INFO     | Fetching historical data for LTIM.NS (period=1d, interval=5m)
+2026-01-08 11:58:11 | INFO     | Fetched 33 candles for LTIM.NS
+2026-01-08 11:58:11 | INFO     | LTIM.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 11:58:11 | INFO     | Evaluating trade opportunity for ITC.NS
+2026-01-08 11:58:11 | INFO     | Fetching historical data for ITC.NS (period=5d, interval=15m)
+2026-01-08 11:58:12 | INFO     | Fetched 111 candles for ITC.NS
+2026-01-08 11:58:12 | INFO     | Fetching historical data for ITC.NS (period=1d, interval=5m)
+2026-01-08 11:58:12 | INFO     | Fetched 33 candles for ITC.NS
+2026-01-08 11:58:12 | INFO     | ITC.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 11:58:12 | INFO     | Evaluating trade opportunity for MARUTI.NS
+2026-01-08 11:58:12 | INFO     | Fetching historical data for MARUTI.NS (period=5d, interval=15m)
+2026-01-08 11:58:12 | INFO     | Fetched 111 candles for MARUTI.NS
+2026-01-08 11:58:12 | INFO     | Fetching historical data for MARUTI.NS (period=1d, interval=5m)
+2026-01-08 11:58:12 | INFO     | Fetched 33 candles for MARUTI.NS
+2026-01-08 11:58:12 | INFO     | MARUTI.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 11:58:12 | INFO     | Evaluating trade opportunity for HCLTECH.NS
+2026-01-08 11:58:12 | INFO     | Fetching historical data for HCLTECH.NS (period=5d, interval=15m)
+2026-01-08 11:58:13 | INFO     | Fetched 111 candles for HCLTECH.NS
+2026-01-08 11:58:13 | INFO     | Fetching historical data for HCLTECH.NS (period=1d, interval=5m)
+2026-01-08 11:58:13 | INFO     | Fetched 33 candles for HCLTECH.NS
+2026-01-08 11:58:13 | INFO     | HCLTECH.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 11:58:13 | INFO     | Evaluating trade opportunity for TCS.NS
+2026-01-08 11:58:13 | INFO     | Fetching historical data for TCS.NS (period=5d, interval=15m)
+2026-01-08 11:58:13 | INFO     | Fetched 111 candles for TCS.NS
+2026-01-08 11:58:13 | INFO     | Fetching historical data for TCS.NS (period=1d, interval=5m)
+2026-01-08 11:58:13 | INFO     | Fetched 33 candles for TCS.NS
+2026-01-08 11:58:13 | INFO     | TCS.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 11:58:13 | INFO     | Evaluating trade opportunity for KOTAKBANK.NS
+2026-01-08 11:58:13 | INFO     | Fetching historical data for KOTAKBANK.NS (period=5d, interval=15m)
+2026-01-08 11:58:13 | INFO     | Fetched 111 candles for KOTAKBANK.NS
+2026-01-08 11:58:13 | INFO     | Fetching historical data for KOTAKBANK.NS (period=1d, interval=5m)
+2026-01-08 11:58:13 | INFO     | Fetched 33 candles for KOTAKBANK.NS
+2026-01-08 11:58:13 | INFO     | KOTAKBANK.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 11:58:13 | INFO     | Evaluating trade opportunity for LT.NS
+2026-01-08 11:58:13 | INFO     | Fetching historical data for LT.NS (period=5d, interval=15m)
+2026-01-08 11:58:14 | INFO     | Fetched 111 candles for LT.NS
+2026-01-08 11:58:14 | INFO     | Fetching historical data for LT.NS (period=1d, interval=5m)
+2026-01-08 11:58:14 | INFO     | Fetched 33 candles for LT.NS
+2026-01-08 11:58:14 | INFO     | LT.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 11:58:14 | INFO     | Evaluating trade opportunity for TITAN.NS
+2026-01-08 11:58:14 | INFO     | Fetching historical data for TITAN.NS (period=5d, interval=15m)
+2026-01-08 11:58:14 | INFO     | Fetched 111 candles for TITAN.NS
+2026-01-08 11:58:14 | INFO     | Fetching historical data for TITAN.NS (period=1d, interval=5m)
+2026-01-08 11:58:14 | INFO     | Fetched 33 candles for TITAN.NS
+2026-01-08 11:58:14 | INFO     | TITAN.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 11:58:14 | INFO     | Evaluating trade opportunity for BAJFINANCE.NS
+2026-01-08 11:58:14 | INFO     | Fetching historical data for BAJFINANCE.NS (period=5d, interval=15m)
+2026-01-08 11:58:15 | INFO     | Fetched 111 candles for BAJFINANCE.NS
+2026-01-08 11:58:15 | INFO     | Fetching historical data for BAJFINANCE.NS (period=1d, interval=5m)
+2026-01-08 11:58:15 | INFO     | Fetched 33 candles for BAJFINANCE.NS
+2026-01-08 11:58:15 | INFO     | BAJFINANCE.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 11:58:15 | INFO     | Evaluating trade opportunity for SUNPHARMA.NS
+2026-01-08 11:58:15 | INFO     | Fetching historical data for SUNPHARMA.NS (period=5d, interval=15m)
+2026-01-08 11:58:16 | INFO     | Fetched 111 candles for SUNPHARMA.NS
+2026-01-08 11:58:16 | INFO     | Fetching historical data for SUNPHARMA.NS (period=1d, interval=5m)
+2026-01-08 11:58:16 | INFO     | Fetched 33 candles for SUNPHARMA.NS
+2026-01-08 11:58:16 | INFO     | SUNPHARMA.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 11:58:19 | INFO     | Fetching historical data for TATAMOTORS.NS (period=1d, interval=1m)
+2026-01-08 11:58:20 | WARNING  | No data returned for TATAMOTORS.NS
+2026-01-08 11:58:21 | INFO     | Fetching historical data for TCS.NS (period=1mo, interval=1d)
+2026-01-08 11:58:21 | INFO     | Fetched 23 candles for TCS.NS
+2026-01-08 11:58:22 | INFO     | Fetching historical data for TATAMOTORS.NS (period=1mo, interval=1d)
+2026-01-08 11:58:24 | WARNING  | No data returned for TATAMOTORS.NS
+2026-01-08 11:58:24 | INFO     | Fetching historical data for TATAMOTORS.NS (period=1d, interval=1m)
+2026-01-08 11:58:24 | INFO     | Fetching historical data for TATAMOTORS.NS (period=1mo, interval=1d)
+2026-01-08 11:58:25 | WARNING  | No data returned for TATAMOTORS.NS
+2026-01-08 11:58:25 | WARNING  | No data returned for TATAMOTORS.NS
+2026-01-08 11:58:26 | INFO     | Fetching historical data for SBIN.NS (period=1mo, interval=1d)
+2026-01-08 11:58:27 | INFO     | Fetched 23 candles for SBIN.NS
+2026-01-08 11:58:28 | INFO     | Fetching historical data for IDEA.NS (period=1mo, interval=1d)
+2026-01-08 11:58:28 | INFO     | Fetched 23 candles for IDEA.NS
+2026-01-08 11:58:28 | INFO     | Fetching historical data for TATAMOTORS.NS (period=1d, interval=1m)
+2026-01-08 11:58:29 | WARNING  | No data returned for TATAMOTORS.NS
+2026-01-08 11:58:32 | INFO     | Fetching historical data for TATAMOTORS.NS (period=1d, interval=1m)
+2026-01-08 11:58:33 | WARNING  | No data returned for TATAMOTORS.NS
+2026-01-08 12:02:22 | INFO     | Starting NSE Trading Engine (Root Mode)...
+2026-01-08 12:02:22 | INFO     | Fetching historical data for RELIANCE.NS (period=1mo, interval=1d)
+2026-01-08 12:02:24 | INFO     | Fetched 23 candles for RELIANCE.NS
+2026-01-08 12:02:25 | INFO     | GUI Started Successfully.
+2026-01-08 12:02:43 | INFO     | Fetching historical data for RELIANCE.NS (period=1mo, interval=1d)
+2026-01-08 12:02:44 | INFO     | Fetched 23 candles for RELIANCE.NS
+2026-01-08 12:02:44 | INFO     | Fetching historical data for RELIANCE.NS (period=1mo, interval=1d)
+2026-01-08 12:02:44 | INFO     | Fetched 23 candles for RELIANCE.NS
+2026-01-08 12:02:44 | INFO     | Fetching historical data for RELIANCE.NS (period=1mo, interval=1d)
+2026-01-08 12:02:45 | INFO     | Fetched 23 candles for RELIANCE.NS
+2026-01-08 12:02:45 | INFO     | Fetching historical data for TCS.NS (period=1mo, interval=1d)
+2026-01-08 12:02:45 | INFO     | Fetched 23 candles for TCS.NS
+2026-01-08 12:02:45 | INFO     | Fetching historical data for TATAMOTORS.NS (period=1d, interval=1m)
+2026-01-08 12:02:47 | WARNING  | No data returned for TATAMOTORS.NS
+2026-01-08 12:03:00 | INFO     | Fetching historical data for TATA.NS (period=1mo, interval=1d)
+2026-01-08 12:03:00 | INFO     | Fetching historical data for TATAMOTORS.NS (period=1d, interval=1m)
+2026-01-08 12:03:01 | WARNING  | No data returned for TATA.NS
+2026-01-08 12:03:01 | WARNING  | No data returned for TATAMOTORS.NS
+2026-01-08 12:03:07 | INFO     | Fetching historical data for TATA.NS (period=1d, interval=1m)
+2026-01-08 12:03:07 | WARNING  | No data returned for TATA.NS
+2026-01-08 12:03:10 | INFO     | Fetching historical data for TATAMOTORS.NS (period=1mo, interval=1d)
+2026-01-08 12:03:10 | WARNING  | No data returned for TATAMOTORS.NS
+2026-01-08 12:03:15 | INFO     | Fetching historical data for RELIANCE.NS (period=1mo, interval=1d)
+2026-01-08 12:03:16 | INFO     | Fetched 23 candles for RELIANCE.NS
+2026-01-08 12:03:29 | INFO     | Evaluating trade opportunity for LT.NS
+2026-01-08 12:03:29 | INFO     | Fetching historical data for LT.NS (period=5d, interval=15m)
+2026-01-08 12:03:29 | INFO     | Fetched 112 candles for LT.NS
+2026-01-08 12:03:29 | INFO     | Fetching historical data for LT.NS (period=1d, interval=5m)
+2026-01-08 12:03:29 | INFO     | Fetched 34 candles for LT.NS
+2026-01-08 12:03:29 | INFO     | LT.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:03:29 | INFO     | Evaluating trade opportunity for TCS.NS
+2026-01-08 12:03:29 | INFO     | Fetching historical data for TCS.NS (period=5d, interval=15m)
+2026-01-08 12:03:29 | INFO     | Fetched 112 candles for TCS.NS
+2026-01-08 12:03:29 | INFO     | Fetching historical data for TCS.NS (period=1d, interval=5m)
+2026-01-08 12:03:29 | INFO     | Fetched 34 candles for TCS.NS
+2026-01-08 12:03:29 | INFO     | TCS.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:03:29 | INFO     | Evaluating trade opportunity for SBIN.NS
+2026-01-08 12:03:29 | INFO     | Fetching historical data for SBIN.NS (period=5d, interval=15m)
+2026-01-08 12:03:29 | INFO     | Fetched 112 candles for SBIN.NS
+2026-01-08 12:03:29 | INFO     | Fetching historical data for SBIN.NS (period=1d, interval=5m)
+2026-01-08 12:03:30 | INFO     | Fetched 34 candles for SBIN.NS
+2026-01-08 12:03:30 | INFO     | SBIN.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:03:30 | INFO     | Evaluating trade opportunity for HDFCBANK.NS
+2026-01-08 12:03:30 | INFO     | Fetching historical data for HDFCBANK.NS (period=5d, interval=15m)
+2026-01-08 12:03:30 | INFO     | Fetched 112 candles for HDFCBANK.NS
+2026-01-08 12:03:30 | INFO     | Fetching historical data for HDFCBANK.NS (period=1d, interval=5m)
+2026-01-08 12:03:30 | INFO     | Fetched 34 candles for HDFCBANK.NS
+2026-01-08 12:03:30 | INFO     | HDFCBANK.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:03:30 | INFO     | Evaluating trade opportunity for AXISBANK.NS
+2026-01-08 12:03:30 | INFO     | Fetching historical data for AXISBANK.NS (period=5d, interval=15m)
+2026-01-08 12:03:30 | INFO     | Fetched 112 candles for AXISBANK.NS
+2026-01-08 12:03:30 | INFO     | Fetching historical data for AXISBANK.NS (period=1d, interval=5m)
+2026-01-08 12:03:30 | INFO     | Fetched 34 candles for AXISBANK.NS
+2026-01-08 12:03:30 | INFO     | AXISBANK.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:03:30 | INFO     | Evaluating trade opportunity for ITC.NS
+2026-01-08 12:03:30 | INFO     | Fetching historical data for ITC.NS (period=5d, interval=15m)
+2026-01-08 12:03:31 | INFO     | Fetched 112 candles for ITC.NS
+2026-01-08 12:03:31 | INFO     | Fetching historical data for ITC.NS (period=1d, interval=5m)
+2026-01-08 12:03:31 | INFO     | Fetched 34 candles for ITC.NS
+2026-01-08 12:03:31 | INFO     | ITC.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:03:31 | INFO     | Evaluating trade opportunity for TATAMOTORS.NS
+2026-01-08 12:03:31 | INFO     | Fetching historical data for TATAMOTORS.NS (period=5d, interval=15m)
+2026-01-08 12:03:31 | WARNING  | No data returned for TATAMOTORS.NS
+2026-01-08 12:03:31 | INFO     | Fetching historical data for TATAMOTORS.NS (period=1d, interval=5m)
+2026-01-08 12:03:32 | WARNING  | No data returned for TATAMOTORS.NS
+2026-01-08 12:03:32 | INFO     | TATAMOTORS.NS: HOLD - Multi-timeframe misalignment: Insufficient data
+2026-01-08 12:03:32 | INFO     | Evaluating trade opportunity for INFY.NS
+2026-01-08 12:03:32 | INFO     | Fetching historical data for INFY.NS (period=5d, interval=15m)
+2026-01-08 12:03:32 | INFO     | Fetched 112 candles for INFY.NS
+2026-01-08 12:03:32 | INFO     | Fetching historical data for INFY.NS (period=1d, interval=5m)
+2026-01-08 12:03:32 | INFO     | Fetched 34 candles for INFY.NS
+2026-01-08 12:03:32 | INFO     | INFY.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:03:32 | INFO     | Evaluating trade opportunity for ULTRACEMCO.NS
+2026-01-08 12:03:32 | INFO     | Fetching historical data for ULTRACEMCO.NS (period=5d, interval=15m)
+2026-01-08 12:03:32 | INFO     | Fetched 112 candles for ULTRACEMCO.NS
+2026-01-08 12:03:32 | INFO     | Fetching historical data for ULTRACEMCO.NS (period=1d, interval=5m)
+2026-01-08 12:03:33 | INFO     | Fetched 34 candles for ULTRACEMCO.NS
+2026-01-08 12:03:33 | INFO     | ULTRACEMCO.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:03:33 | INFO     | Evaluating trade opportunity for TITAN.NS
+2026-01-08 12:03:33 | INFO     | Fetching historical data for TITAN.NS (period=5d, interval=15m)
+2026-01-08 12:03:33 | INFO     | Fetched 112 candles for TITAN.NS
+2026-01-08 12:03:33 | INFO     | Fetching historical data for TITAN.NS (period=1d, interval=5m)
+2026-01-08 12:03:33 | INFO     | Fetched 34 candles for TITAN.NS
+2026-01-08 12:03:33 | INFO     | TITAN.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:03:33 | INFO     | Evaluating trade opportunity for BHARTIARTL.NS
+2026-01-08 12:03:33 | INFO     | Fetching historical data for BHARTIARTL.NS (period=5d, interval=15m)
+2026-01-08 12:03:33 | INFO     | Fetched 112 candles for BHARTIARTL.NS
+2026-01-08 12:03:33 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1d, interval=5m)
+2026-01-08 12:03:34 | INFO     | Fetched 34 candles for BHARTIARTL.NS
+2026-01-08 12:03:34 | INFO     | BHARTIARTL.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:03:34 | INFO     | Evaluating trade opportunity for WIPRO.NS
+2026-01-08 12:03:34 | INFO     | Fetching historical data for WIPRO.NS (period=5d, interval=15m)
+2026-01-08 12:03:34 | INFO     | Fetched 112 candles for WIPRO.NS
+2026-01-08 12:03:34 | INFO     | Fetching historical data for WIPRO.NS (period=1d, interval=5m)
+2026-01-08 12:03:34 | INFO     | Fetched 34 candles for WIPRO.NS
+2026-01-08 12:03:34 | INFO     | WIPRO.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:03:34 | INFO     | Evaluating trade opportunity for MARUTI.NS
+2026-01-08 12:03:34 | INFO     | Fetching historical data for MARUTI.NS (period=5d, interval=15m)
+2026-01-08 12:03:34 | INFO     | Fetched 112 candles for MARUTI.NS
+2026-01-08 12:03:34 | INFO     | Fetching historical data for MARUTI.NS (period=1d, interval=5m)
+2026-01-08 12:03:34 | INFO     | Fetched 34 candles for MARUTI.NS
+2026-01-08 12:03:34 | INFO     | MARUTI.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:03:34 | INFO     | Evaluating trade opportunity for RELIANCE.NS
+2026-01-08 12:03:34 | INFO     | Fetching historical data for RELIANCE.NS (period=5d, interval=15m)
+2026-01-08 12:03:34 | INFO     | Fetched 112 candles for RELIANCE.NS
+2026-01-08 12:03:34 | INFO     | Fetching historical data for RELIANCE.NS (period=1d, interval=5m)
+2026-01-08 12:03:35 | INFO     | Fetched 34 candles for RELIANCE.NS
+2026-01-08 12:03:35 | INFO     | RELIANCE.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:03:35 | INFO     | Evaluating trade opportunity for BAJFINANCE.NS
+2026-01-08 12:03:35 | INFO     | Fetching historical data for BAJFINANCE.NS (period=5d, interval=15m)
+2026-01-08 12:03:35 | INFO     | Fetched 112 candles for BAJFINANCE.NS
+2026-01-08 12:03:35 | INFO     | Fetching historical data for BAJFINANCE.NS (period=1d, interval=5m)
+2026-01-08 12:03:35 | INFO     | Fetched 34 candles for BAJFINANCE.NS
+2026-01-08 12:03:35 | INFO     | BAJFINANCE.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:03:35 | INFO     | Evaluating trade opportunity for ICICIBANK.NS
+2026-01-08 12:03:35 | INFO     | Fetching historical data for ICICIBANK.NS (period=5d, interval=15m)
+2026-01-08 12:03:35 | INFO     | Fetched 112 candles for ICICIBANK.NS
+2026-01-08 12:03:35 | INFO     | Fetching historical data for ICICIBANK.NS (period=1d, interval=5m)
+2026-01-08 12:03:35 | INFO     | Fetched 34 candles for ICICIBANK.NS
+2026-01-08 12:03:35 | INFO     | ICICIBANK.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:03:35 | INFO     | Evaluating trade opportunity for HCLTECH.NS
+2026-01-08 12:03:35 | INFO     | Fetching historical data for HCLTECH.NS (period=5d, interval=15m)
+2026-01-08 12:03:35 | INFO     | Fetched 112 candles for HCLTECH.NS
+2026-01-08 12:03:35 | INFO     | Fetching historical data for HCLTECH.NS (period=1d, interval=5m)
+2026-01-08 12:03:36 | INFO     | Fetched 34 candles for HCLTECH.NS
+2026-01-08 12:03:36 | INFO     | HCLTECH.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:03:36 | INFO     | Evaluating trade opportunity for KOTAKBANK.NS
+2026-01-08 12:03:36 | INFO     | Fetching historical data for KOTAKBANK.NS (period=5d, interval=15m)
+2026-01-08 12:03:36 | INFO     | Fetched 112 candles for KOTAKBANK.NS
+2026-01-08 12:03:36 | INFO     | Fetching historical data for KOTAKBANK.NS (period=1d, interval=5m)
+2026-01-08 12:03:36 | INFO     | Fetched 34 candles for KOTAKBANK.NS
+2026-01-08 12:03:36 | INFO     | KOTAKBANK.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:03:36 | INFO     | Evaluating trade opportunity for SUNPHARMA.NS
+2026-01-08 12:03:36 | INFO     | Fetching historical data for SUNPHARMA.NS (period=5d, interval=15m)
+2026-01-08 12:03:36 | INFO     | Fetched 112 candles for SUNPHARMA.NS
+2026-01-08 12:03:36 | INFO     | Fetching historical data for SUNPHARMA.NS (period=1d, interval=5m)
+2026-01-08 12:03:36 | INFO     | Fetched 34 candles for SUNPHARMA.NS
+2026-01-08 12:03:36 | INFO     | SUNPHARMA.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:03:36 | INFO     | Evaluating trade opportunity for LTIM.NS
+2026-01-08 12:03:36 | INFO     | Fetching historical data for LTIM.NS (period=5d, interval=15m)
+2026-01-08 12:03:37 | INFO     | Fetched 112 candles for LTIM.NS
+2026-01-08 12:03:37 | INFO     | Fetching historical data for LTIM.NS (period=1d, interval=5m)
+2026-01-08 12:03:37 | INFO     | Fetched 34 candles for LTIM.NS
+2026-01-08 12:03:37 | INFO     | LTIM.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:03:47 | INFO     | Evaluating trade opportunity for LT.NS
+2026-01-08 12:03:47 | INFO     | Fetching historical data for LT.NS (period=5d, interval=15m)
+2026-01-08 12:03:47 | INFO     | Fetched 112 candles for LT.NS
+2026-01-08 12:03:47 | INFO     | Fetching historical data for LT.NS (period=1d, interval=5m)
+2026-01-08 12:03:47 | INFO     | Fetched 34 candles for LT.NS
+2026-01-08 12:03:47 | INFO     | LT.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:03:47 | INFO     | Evaluating trade opportunity for TCS.NS
+2026-01-08 12:03:47 | INFO     | Fetching historical data for TCS.NS (period=5d, interval=15m)
+2026-01-08 12:03:47 | INFO     | Fetched 112 candles for TCS.NS
+2026-01-08 12:03:47 | INFO     | Fetching historical data for TCS.NS (period=1d, interval=5m)
+2026-01-08 12:03:48 | INFO     | Fetched 34 candles for TCS.NS
+2026-01-08 12:03:48 | INFO     | TCS.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:03:48 | INFO     | Evaluating trade opportunity for SBIN.NS
+2026-01-08 12:03:48 | INFO     | Fetching historical data for SBIN.NS (period=5d, interval=15m)
+2026-01-08 12:03:48 | INFO     | Fetched 112 candles for SBIN.NS
+2026-01-08 12:03:48 | INFO     | Fetching historical data for SBIN.NS (period=1d, interval=5m)
+2026-01-08 12:03:48 | INFO     | Fetched 34 candles for SBIN.NS
+2026-01-08 12:03:48 | INFO     | SBIN.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:03:48 | INFO     | Evaluating trade opportunity for HDFCBANK.NS
+2026-01-08 12:03:48 | INFO     | Fetching historical data for HDFCBANK.NS (period=5d, interval=15m)
+2026-01-08 12:03:48 | INFO     | Fetched 112 candles for HDFCBANK.NS
+2026-01-08 12:03:48 | INFO     | Fetching historical data for HDFCBANK.NS (period=1d, interval=5m)
+2026-01-08 12:03:48 | INFO     | Fetched 34 candles for HDFCBANK.NS
+2026-01-08 12:03:48 | INFO     | HDFCBANK.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:03:48 | INFO     | Evaluating trade opportunity for AXISBANK.NS
+2026-01-08 12:03:48 | INFO     | Fetching historical data for AXISBANK.NS (period=5d, interval=15m)
+2026-01-08 12:03:49 | INFO     | Fetched 112 candles for AXISBANK.NS
+2026-01-08 12:03:49 | INFO     | Fetching historical data for AXISBANK.NS (period=1d, interval=5m)
+2026-01-08 12:03:49 | INFO     | Fetched 34 candles for AXISBANK.NS
+2026-01-08 12:03:49 | INFO     | AXISBANK.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:03:49 | INFO     | Evaluating trade opportunity for ITC.NS
+2026-01-08 12:03:49 | INFO     | Fetching historical data for ITC.NS (period=5d, interval=15m)
+2026-01-08 12:03:49 | INFO     | Fetched 112 candles for ITC.NS
+2026-01-08 12:03:49 | INFO     | Fetching historical data for ITC.NS (period=1d, interval=5m)
+2026-01-08 12:03:49 | INFO     | Fetched 34 candles for ITC.NS
+2026-01-08 12:03:49 | INFO     | ITC.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:03:49 | INFO     | Evaluating trade opportunity for TATAMOTORS.NS
+2026-01-08 12:03:49 | INFO     | Fetching historical data for TATAMOTORS.NS (period=5d, interval=15m)
+2026-01-08 12:03:50 | WARNING  | No data returned for TATAMOTORS.NS
+2026-01-08 12:03:50 | INFO     | Fetching historical data for TATAMOTORS.NS (period=1d, interval=5m)
+2026-01-08 12:03:51 | WARNING  | No data returned for TATAMOTORS.NS
+2026-01-08 12:03:51 | INFO     | TATAMOTORS.NS: HOLD - Multi-timeframe misalignment: Insufficient data
+2026-01-08 12:03:51 | INFO     | Evaluating trade opportunity for INFY.NS
+2026-01-08 12:03:51 | INFO     | Fetching historical data for INFY.NS (period=5d, interval=15m)
+2026-01-08 12:03:51 | INFO     | Fetched 112 candles for INFY.NS
+2026-01-08 12:03:51 | INFO     | Fetching historical data for INFY.NS (period=1d, interval=5m)
+2026-01-08 12:03:51 | INFO     | Fetched 34 candles for INFY.NS
+2026-01-08 12:03:51 | INFO     | INFY.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:03:51 | INFO     | Evaluating trade opportunity for ULTRACEMCO.NS
+2026-01-08 12:03:51 | INFO     | Fetching historical data for ULTRACEMCO.NS (period=5d, interval=15m)
+2026-01-08 12:03:51 | INFO     | Fetched 112 candles for ULTRACEMCO.NS
+2026-01-08 12:03:51 | INFO     | Fetching historical data for ULTRACEMCO.NS (period=1d, interval=5m)
+2026-01-08 12:03:51 | INFO     | Fetched 34 candles for ULTRACEMCO.NS
+2026-01-08 12:03:51 | INFO     | ULTRACEMCO.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:03:51 | INFO     | Evaluating trade opportunity for TITAN.NS
+2026-01-08 12:03:51 | INFO     | Fetching historical data for TITAN.NS (period=5d, interval=15m)
+2026-01-08 12:03:52 | INFO     | Fetched 112 candles for TITAN.NS
+2026-01-08 12:03:52 | INFO     | Fetching historical data for TITAN.NS (period=1d, interval=5m)
+2026-01-08 12:03:52 | INFO     | Fetched 34 candles for TITAN.NS
+2026-01-08 12:03:52 | INFO     | TITAN.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:03:52 | INFO     | Evaluating trade opportunity for BHARTIARTL.NS
+2026-01-08 12:03:52 | INFO     | Fetching historical data for BHARTIARTL.NS (period=5d, interval=15m)
+2026-01-08 12:03:52 | INFO     | Fetched 112 candles for BHARTIARTL.NS
+2026-01-08 12:03:52 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1d, interval=5m)
+2026-01-08 12:03:52 | INFO     | Fetched 34 candles for BHARTIARTL.NS
+2026-01-08 12:03:52 | INFO     | BHARTIARTL.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:03:52 | INFO     | Evaluating trade opportunity for WIPRO.NS
+2026-01-08 12:03:52 | INFO     | Fetching historical data for WIPRO.NS (period=5d, interval=15m)
+2026-01-08 12:03:52 | INFO     | Fetched 112 candles for WIPRO.NS
+2026-01-08 12:03:52 | INFO     | Fetching historical data for WIPRO.NS (period=1d, interval=5m)
+2026-01-08 12:03:52 | INFO     | Fetched 34 candles for WIPRO.NS
+2026-01-08 12:03:52 | INFO     | WIPRO.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:03:52 | INFO     | Evaluating trade opportunity for MARUTI.NS
+2026-01-08 12:03:52 | INFO     | Fetching historical data for MARUTI.NS (period=5d, interval=15m)
+2026-01-08 12:03:53 | INFO     | Fetched 112 candles for MARUTI.NS
+2026-01-08 12:03:53 | INFO     | Fetching historical data for MARUTI.NS (period=1d, interval=5m)
+2026-01-08 12:03:53 | INFO     | Fetched 34 candles for MARUTI.NS
+2026-01-08 12:03:53 | INFO     | MARUTI.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:03:53 | INFO     | Evaluating trade opportunity for RELIANCE.NS
+2026-01-08 12:03:53 | INFO     | Fetching historical data for RELIANCE.NS (period=5d, interval=15m)
+2026-01-08 12:03:53 | INFO     | Fetched 112 candles for RELIANCE.NS
+2026-01-08 12:03:53 | INFO     | Fetching historical data for RELIANCE.NS (period=1d, interval=5m)
+2026-01-08 12:03:53 | INFO     | Fetched 34 candles for RELIANCE.NS
+2026-01-08 12:03:53 | INFO     | RELIANCE.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:03:53 | INFO     | Evaluating trade opportunity for BAJFINANCE.NS
+2026-01-08 12:03:53 | INFO     | Fetching historical data for BAJFINANCE.NS (period=5d, interval=15m)
+2026-01-08 12:03:53 | INFO     | Fetched 112 candles for BAJFINANCE.NS
+2026-01-08 12:03:53 | INFO     | Fetching historical data for BAJFINANCE.NS (period=1d, interval=5m)
+2026-01-08 12:03:54 | INFO     | Fetched 34 candles for BAJFINANCE.NS
+2026-01-08 12:03:54 | INFO     | BAJFINANCE.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:03:54 | INFO     | Evaluating trade opportunity for ICICIBANK.NS
+2026-01-08 12:03:54 | INFO     | Fetching historical data for ICICIBANK.NS (period=5d, interval=15m)
+2026-01-08 12:03:54 | INFO     | Fetched 112 candles for ICICIBANK.NS
+2026-01-08 12:03:54 | INFO     | Fetching historical data for ICICIBANK.NS (period=1d, interval=5m)
+2026-01-08 12:03:54 | INFO     | Fetched 34 candles for ICICIBANK.NS
+2026-01-08 12:03:54 | INFO     | ICICIBANK.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:03:54 | INFO     | Evaluating trade opportunity for HCLTECH.NS
+2026-01-08 12:03:54 | INFO     | Fetching historical data for HCLTECH.NS (period=5d, interval=15m)
+2026-01-08 12:03:54 | INFO     | Fetched 112 candles for HCLTECH.NS
+2026-01-08 12:03:54 | INFO     | Fetching historical data for HCLTECH.NS (period=1d, interval=5m)
+2026-01-08 12:03:54 | INFO     | Fetched 34 candles for HCLTECH.NS
+2026-01-08 12:03:54 | INFO     | HCLTECH.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:03:54 | INFO     | Evaluating trade opportunity for KOTAKBANK.NS
+2026-01-08 12:03:54 | INFO     | Fetching historical data for KOTAKBANK.NS (period=5d, interval=15m)
+2026-01-08 12:03:54 | INFO     | Fetched 112 candles for KOTAKBANK.NS
+2026-01-08 12:03:54 | INFO     | Fetching historical data for KOTAKBANK.NS (period=1d, interval=5m)
+2026-01-08 12:03:55 | INFO     | Fetched 34 candles for KOTAKBANK.NS
+2026-01-08 12:03:55 | INFO     | KOTAKBANK.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:03:55 | INFO     | Evaluating trade opportunity for SUNPHARMA.NS
+2026-01-08 12:03:55 | INFO     | Fetching historical data for SUNPHARMA.NS (period=5d, interval=15m)
+2026-01-08 12:03:55 | INFO     | Fetched 112 candles for SUNPHARMA.NS
+2026-01-08 12:03:55 | INFO     | Fetching historical data for SUNPHARMA.NS (period=1d, interval=5m)
+2026-01-08 12:03:55 | INFO     | Fetched 34 candles for SUNPHARMA.NS
+2026-01-08 12:03:55 | INFO     | SUNPHARMA.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:03:55 | INFO     | Evaluating trade opportunity for LTIM.NS
+2026-01-08 12:03:55 | INFO     | Fetching historical data for LTIM.NS (period=5d, interval=15m)
+2026-01-08 12:03:55 | INFO     | Fetched 112 candles for LTIM.NS
+2026-01-08 12:03:55 | INFO     | Fetching historical data for LTIM.NS (period=1d, interval=5m)
+2026-01-08 12:03:55 | INFO     | Fetched 34 candles for LTIM.NS
+2026-01-08 12:03:55 | INFO     | LTIM.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:04:18 | INFO     | Fetching historical data for IDEA.NS (period=1mo, interval=1d)
+2026-01-08 12:04:18 | INFO     | Fetched 23 candles for IDEA.NS
+2026-01-08 12:15:16 | INFO     | Starting NSE Trading Engine (Root Mode)...
+2026-01-08 12:15:18 | INFO     | GUI Started Successfully.
+2026-01-08 12:15:28 | INFO     | Evaluating trade opportunity for RELIANCE.NS
+2026-01-08 12:15:28 | INFO     | Fetching historical data for RELIANCE.NS (period=5d, interval=15m)
+2026-01-08 12:15:30 | INFO     | Fetched 112 candles for RELIANCE.NS
+2026-01-08 12:15:30 | INFO     | Fetching historical data for RELIANCE.NS (period=1d, interval=5m)
+2026-01-08 12:15:31 | INFO     | Fetched 36 candles for RELIANCE.NS
+2026-01-08 12:15:31 | INFO     | RELIANCE.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:31 | INFO     | Evaluating trade opportunity for TCS.NS
+2026-01-08 12:15:31 | INFO     | Fetching historical data for TCS.NS (period=5d, interval=15m)
+2026-01-08 12:15:31 | INFO     | Fetched 112 candles for TCS.NS
+2026-01-08 12:15:31 | INFO     | Fetching historical data for TCS.NS (period=1d, interval=5m)
+2026-01-08 12:15:31 | INFO     | Fetched 36 candles for TCS.NS
+2026-01-08 12:15:31 | INFO     | TCS.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:31 | INFO     | Evaluating trade opportunity for HDFCBANK.NS
+2026-01-08 12:15:31 | INFO     | Fetching historical data for HDFCBANK.NS (period=5d, interval=15m)
+2026-01-08 12:15:31 | INFO     | Fetched 112 candles for HDFCBANK.NS
+2026-01-08 12:15:31 | INFO     | Fetching historical data for HDFCBANK.NS (period=1d, interval=5m)
+2026-01-08 12:15:32 | INFO     | Fetched 36 candles for HDFCBANK.NS
+2026-01-08 12:15:32 | INFO     | HDFCBANK.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:32 | INFO     | Evaluating trade opportunity for INFY.NS
+2026-01-08 12:15:32 | INFO     | Fetching historical data for INFY.NS (period=5d, interval=15m)
+2026-01-08 12:15:32 | INFO     | Fetched 112 candles for INFY.NS
+2026-01-08 12:15:32 | INFO     | Fetching historical data for INFY.NS (period=1d, interval=5m)
+2026-01-08 12:15:32 | INFO     | Fetched 36 candles for INFY.NS
+2026-01-08 12:15:32 | INFO     | INFY.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:32 | INFO     | Evaluating trade opportunity for ICICIBANK.NS
+2026-01-08 12:15:32 | INFO     | Fetching historical data for ICICIBANK.NS (period=5d, interval=15m)
+2026-01-08 12:15:32 | INFO     | Fetched 112 candles for ICICIBANK.NS
+2026-01-08 12:15:32 | INFO     | Fetching historical data for ICICIBANK.NS (period=1d, interval=5m)
+2026-01-08 12:15:32 | INFO     | Fetched 36 candles for ICICIBANK.NS
+2026-01-08 12:15:32 | INFO     | ICICIBANK.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:32 | INFO     | Evaluating trade opportunity for HINDUNILVR.NS
+2026-01-08 12:15:32 | INFO     | Fetching historical data for HINDUNILVR.NS (period=5d, interval=15m)
+2026-01-08 12:15:33 | INFO     | Fetched 112 candles for HINDUNILVR.NS
+2026-01-08 12:15:33 | INFO     | Fetching historical data for HINDUNILVR.NS (period=1d, interval=5m)
+2026-01-08 12:15:33 | INFO     | Fetched 36 candles for HINDUNILVR.NS
+2026-01-08 12:15:33 | INFO     | HINDUNILVR.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:33 | INFO     | Evaluating trade opportunity for SBIN.NS
+2026-01-08 12:15:33 | INFO     | Fetching historical data for SBIN.NS (period=5d, interval=15m)
+2026-01-08 12:15:33 | INFO     | Fetched 112 candles for SBIN.NS
+2026-01-08 12:15:33 | INFO     | Fetching historical data for SBIN.NS (period=1d, interval=5m)
+2026-01-08 12:15:33 | INFO     | Fetched 36 candles for SBIN.NS
+2026-01-08 12:15:33 | INFO     | SBIN.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:33 | INFO     | Evaluating trade opportunity for BHARTIARTL.NS
+2026-01-08 12:15:33 | INFO     | Fetching historical data for BHARTIARTL.NS (period=5d, interval=15m)
+2026-01-08 12:15:34 | INFO     | Fetched 112 candles for BHARTIARTL.NS
+2026-01-08 12:15:34 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1d, interval=5m)
+2026-01-08 12:15:34 | INFO     | Fetched 36 candles for BHARTIARTL.NS
+2026-01-08 12:15:34 | INFO     | BHARTIARTL.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:34 | INFO     | Evaluating trade opportunity for ITC.NS
+2026-01-08 12:15:34 | INFO     | Fetching historical data for ITC.NS (period=5d, interval=15m)
+2026-01-08 12:15:34 | INFO     | Fetched 112 candles for ITC.NS
+2026-01-08 12:15:34 | INFO     | Fetching historical data for ITC.NS (period=1d, interval=5m)
+2026-01-08 12:15:35 | INFO     | Fetched 36 candles for ITC.NS
+2026-01-08 12:15:35 | INFO     | ITC.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:35 | INFO     | Evaluating trade opportunity for KOTAKBANK.NS
+2026-01-08 12:15:35 | INFO     | Fetching historical data for KOTAKBANK.NS (period=5d, interval=15m)
+2026-01-08 12:15:35 | INFO     | Fetched 112 candles for KOTAKBANK.NS
+2026-01-08 12:15:35 | INFO     | Fetching historical data for KOTAKBANK.NS (period=1d, interval=5m)
+2026-01-08 12:15:35 | INFO     | Fetched 36 candles for KOTAKBANK.NS
+2026-01-08 12:15:35 | INFO     | KOTAKBANK.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:35 | INFO     | Evaluating trade opportunity for LT.NS
+2026-01-08 12:15:35 | INFO     | Fetching historical data for LT.NS (period=5d, interval=15m)
+2026-01-08 12:15:35 | INFO     | Fetched 112 candles for LT.NS
+2026-01-08 12:15:35 | INFO     | Fetching historical data for LT.NS (period=1d, interval=5m)
+2026-01-08 12:15:36 | INFO     | Fetched 36 candles for LT.NS
+2026-01-08 12:15:36 | INFO     | LT.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:36 | INFO     | Evaluating trade opportunity for HCLTECH.NS
+2026-01-08 12:15:36 | INFO     | Fetching historical data for HCLTECH.NS (period=5d, interval=15m)
+2026-01-08 12:15:36 | INFO     | Fetched 112 candles for HCLTECH.NS
+2026-01-08 12:15:36 | INFO     | Fetching historical data for HCLTECH.NS (period=1d, interval=5m)
+2026-01-08 12:15:36 | INFO     | Fetched 36 candles for HCLTECH.NS
+2026-01-08 12:15:36 | INFO     | HCLTECH.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:36 | INFO     | Evaluating trade opportunity for AXISBANK.NS
+2026-01-08 12:15:36 | INFO     | Fetching historical data for AXISBANK.NS (period=5d, interval=15m)
+2026-01-08 12:15:36 | INFO     | Fetched 112 candles for AXISBANK.NS
+2026-01-08 12:15:36 | INFO     | Fetching historical data for AXISBANK.NS (period=1d, interval=5m)
+2026-01-08 12:15:36 | INFO     | Fetched 36 candles for AXISBANK.NS
+2026-01-08 12:15:36 | INFO     | AXISBANK.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:36 | INFO     | Evaluating trade opportunity for ASIANPAINT.NS
+2026-01-08 12:15:36 | INFO     | Fetching historical data for ASIANPAINT.NS (period=5d, interval=15m)
+2026-01-08 12:15:37 | INFO     | Fetched 112 candles for ASIANPAINT.NS
+2026-01-08 12:15:37 | INFO     | Fetching historical data for ASIANPAINT.NS (period=1d, interval=5m)
+2026-01-08 12:15:37 | INFO     | Fetched 36 candles for ASIANPAINT.NS
+2026-01-08 12:15:37 | INFO     | ASIANPAINT.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:37 | INFO     | Evaluating trade opportunity for MARUTI.NS
+2026-01-08 12:15:37 | INFO     | Fetching historical data for MARUTI.NS (period=5d, interval=15m)
+2026-01-08 12:15:37 | INFO     | Fetched 112 candles for MARUTI.NS
+2026-01-08 12:15:37 | INFO     | Fetching historical data for MARUTI.NS (period=1d, interval=5m)
+2026-01-08 12:15:37 | INFO     | Fetched 36 candles for MARUTI.NS
+2026-01-08 12:15:37 | INFO     | MARUTI.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:37 | INFO     | Evaluating trade opportunity for SUNPHARMA.NS
+2026-01-08 12:15:37 | INFO     | Fetching historical data for SUNPHARMA.NS (period=5d, interval=15m)
+2026-01-08 12:15:37 | INFO     | Fetched 112 candles for SUNPHARMA.NS
+2026-01-08 12:15:37 | INFO     | Fetching historical data for SUNPHARMA.NS (period=1d, interval=5m)
+2026-01-08 12:15:38 | INFO     | Fetched 36 candles for SUNPHARMA.NS
+2026-01-08 12:15:38 | INFO     | SUNPHARMA.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:38 | INFO     | Evaluating trade opportunity for TITAN.NS
+2026-01-08 12:15:38 | INFO     | Fetching historical data for TITAN.NS (period=5d, interval=15m)
+2026-01-08 12:15:38 | INFO     | Fetched 112 candles for TITAN.NS
+2026-01-08 12:15:38 | INFO     | Fetching historical data for TITAN.NS (period=1d, interval=5m)
+2026-01-08 12:15:38 | INFO     | Fetched 36 candles for TITAN.NS
+2026-01-08 12:15:38 | INFO     | TITAN.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:38 | INFO     | Evaluating trade opportunity for BAJFINANCE.NS
+2026-01-08 12:15:38 | INFO     | Fetching historical data for BAJFINANCE.NS (period=5d, interval=15m)
+2026-01-08 12:15:38 | INFO     | Fetched 112 candles for BAJFINANCE.NS
+2026-01-08 12:15:38 | INFO     | Fetching historical data for BAJFINANCE.NS (period=1d, interval=5m)
+2026-01-08 12:15:38 | INFO     | Fetched 36 candles for BAJFINANCE.NS
+2026-01-08 12:15:38 | INFO     | BAJFINANCE.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:38 | INFO     | Evaluating trade opportunity for WIPRO.NS
+2026-01-08 12:15:38 | INFO     | Fetching historical data for WIPRO.NS (period=5d, interval=15m)
+2026-01-08 12:15:39 | INFO     | Fetched 112 candles for WIPRO.NS
+2026-01-08 12:15:39 | INFO     | Fetching historical data for WIPRO.NS (period=1d, interval=5m)
+2026-01-08 12:15:39 | INFO     | Fetched 36 candles for WIPRO.NS
+2026-01-08 12:15:39 | INFO     | WIPRO.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:39 | INFO     | Evaluating trade opportunity for ULTRACEMCO.NS
+2026-01-08 12:15:39 | INFO     | Fetching historical data for ULTRACEMCO.NS (period=5d, interval=15m)
+2026-01-08 12:15:39 | INFO     | Fetched 112 candles for ULTRACEMCO.NS
+2026-01-08 12:15:39 | INFO     | Fetching historical data for ULTRACEMCO.NS (period=1d, interval=5m)
+2026-01-08 12:15:39 | INFO     | Fetched 36 candles for ULTRACEMCO.NS
+2026-01-08 12:15:39 | INFO     | ULTRACEMCO.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:39 | INFO     | Evaluating trade opportunity for NESTLEIND.NS
+2026-01-08 12:15:39 | INFO     | Fetching historical data for NESTLEIND.NS (period=5d, interval=15m)
+2026-01-08 12:15:40 | INFO     | Fetched 112 candles for NESTLEIND.NS
+2026-01-08 12:15:40 | INFO     | Fetching historical data for NESTLEIND.NS (period=1d, interval=5m)
+2026-01-08 12:15:40 | INFO     | Fetched 36 candles for NESTLEIND.NS
+2026-01-08 12:15:40 | INFO     | NESTLEIND.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:40 | INFO     | Evaluating trade opportunity for TATAMOTORS.NS
+2026-01-08 12:15:40 | INFO     | Fetching historical data for TATAMOTORS.NS (period=5d, interval=15m)
+2026-01-08 12:15:42 | WARNING  | No data returned for TATAMOTORS.NS
+2026-01-08 12:15:42 | INFO     | Fetching historical data for TATAMOTORS.NS (period=1d, interval=5m)
+2026-01-08 12:15:43 | WARNING  | No data returned for TATAMOTORS.NS
+2026-01-08 12:15:43 | INFO     | TATAMOTORS.NS: HOLD - Multi-timeframe misalignment: Insufficient data
+2026-01-08 12:15:43 | INFO     | Evaluating trade opportunity for POWERGRID.NS
+2026-01-08 12:15:43 | INFO     | Fetching historical data for POWERGRID.NS (period=5d, interval=15m)
+2026-01-08 12:15:43 | INFO     | Fetched 112 candles for POWERGRID.NS
+2026-01-08 12:15:43 | INFO     | Fetching historical data for POWERGRID.NS (period=1d, interval=5m)
+2026-01-08 12:15:44 | INFO     | Fetched 36 candles for POWERGRID.NS
+2026-01-08 12:15:44 | INFO     | POWERGRID.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:44 | INFO     | Evaluating trade opportunity for NTPC.NS
+2026-01-08 12:15:44 | INFO     | Fetching historical data for NTPC.NS (period=5d, interval=15m)
+2026-01-08 12:15:44 | INFO     | Fetched 112 candles for NTPC.NS
+2026-01-08 12:15:44 | INFO     | Fetching historical data for NTPC.NS (period=1d, interval=5m)
+2026-01-08 12:15:44 | INFO     | Fetched 36 candles for NTPC.NS
+2026-01-08 12:15:44 | INFO     | NTPC.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:44 | INFO     | Evaluating trade opportunity for TECHM.NS
+2026-01-08 12:15:44 | INFO     | Fetching historical data for TECHM.NS (period=5d, interval=15m)
+2026-01-08 12:15:45 | INFO     | Fetched 112 candles for TECHM.NS
+2026-01-08 12:15:45 | INFO     | Fetching historical data for TECHM.NS (period=1d, interval=5m)
+2026-01-08 12:15:45 | INFO     | Fetched 36 candles for TECHM.NS
+2026-01-08 12:15:45 | INFO     | TECHM.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:45 | INFO     | Evaluating trade opportunity for ONGC.NS
+2026-01-08 12:15:45 | INFO     | Fetching historical data for ONGC.NS (period=5d, interval=15m)
+2026-01-08 12:15:45 | INFO     | Fetched 112 candles for ONGC.NS
+2026-01-08 12:15:45 | INFO     | Fetching historical data for ONGC.NS (period=1d, interval=5m)
+2026-01-08 12:15:46 | INFO     | Fetched 36 candles for ONGC.NS
+2026-01-08 12:15:46 | INFO     | ONGC.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:46 | INFO     | Evaluating trade opportunity for TATASTEEL.NS
+2026-01-08 12:15:46 | INFO     | Fetching historical data for TATASTEEL.NS (period=5d, interval=15m)
+2026-01-08 12:15:46 | INFO     | Fetched 112 candles for TATASTEEL.NS
+2026-01-08 12:15:46 | INFO     | Fetching historical data for TATASTEEL.NS (period=1d, interval=5m)
+2026-01-08 12:15:46 | INFO     | Fetched 36 candles for TATASTEEL.NS
+2026-01-08 12:15:46 | INFO     | TATASTEEL.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:46 | INFO     | Evaluating trade opportunity for JSWSTEEL.NS
+2026-01-08 12:15:46 | INFO     | Fetching historical data for JSWSTEEL.NS (period=5d, interval=15m)
+2026-01-08 12:15:47 | INFO     | Fetched 112 candles for JSWSTEEL.NS
+2026-01-08 12:15:47 | INFO     | Fetching historical data for JSWSTEEL.NS (period=1d, interval=5m)
+2026-01-08 12:15:47 | INFO     | Fetched 36 candles for JSWSTEEL.NS
+2026-01-08 12:15:47 | INFO     | JSWSTEEL.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:47 | INFO     | Evaluating trade opportunity for ADANIENT.NS
+2026-01-08 12:15:47 | INFO     | Fetching historical data for ADANIENT.NS (period=5d, interval=15m)
+2026-01-08 12:15:47 | INFO     | Fetched 112 candles for ADANIENT.NS
+2026-01-08 12:15:47 | INFO     | Fetching historical data for ADANIENT.NS (period=1d, interval=5m)
+2026-01-08 12:15:47 | INFO     | Fetched 36 candles for ADANIENT.NS
+2026-01-08 12:15:47 | INFO     | ADANIENT.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:47 | INFO     | Evaluating trade opportunity for ADANIPORTS.NS
+2026-01-08 12:15:47 | INFO     | Fetching historical data for ADANIPORTS.NS (period=5d, interval=15m)
+2026-01-08 12:15:48 | INFO     | Fetched 112 candles for ADANIPORTS.NS
+2026-01-08 12:15:48 | INFO     | Fetching historical data for ADANIPORTS.NS (period=1d, interval=5m)
+2026-01-08 12:15:48 | INFO     | Fetched 36 candles for ADANIPORTS.NS
+2026-01-08 12:15:48 | INFO     | ADANIPORTS.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:48 | INFO     | Evaluating trade opportunity for COALINDIA.NS
+2026-01-08 12:15:48 | INFO     | Fetching historical data for COALINDIA.NS (period=5d, interval=15m)
+2026-01-08 12:15:48 | INFO     | Fetched 112 candles for COALINDIA.NS
+2026-01-08 12:15:48 | INFO     | Fetching historical data for COALINDIA.NS (period=1d, interval=5m)
+2026-01-08 12:15:48 | INFO     | Fetched 36 candles for COALINDIA.NS
+2026-01-08 12:15:49 | INFO     | COALINDIA.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:49 | INFO     | Evaluating trade opportunity for DRREDDY.NS
+2026-01-08 12:15:49 | INFO     | Fetching historical data for DRREDDY.NS (period=5d, interval=15m)
+2026-01-08 12:15:49 | INFO     | Fetched 112 candles for DRREDDY.NS
+2026-01-08 12:15:49 | INFO     | Fetching historical data for DRREDDY.NS (period=1d, interval=5m)
+2026-01-08 12:15:49 | INFO     | Fetched 36 candles for DRREDDY.NS
+2026-01-08 12:15:49 | INFO     | DRREDDY.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:49 | INFO     | Evaluating trade opportunity for BAJAJFINSV.NS
+2026-01-08 12:15:49 | INFO     | Fetching historical data for BAJAJFINSV.NS (period=5d, interval=15m)
+2026-01-08 12:15:50 | INFO     | Fetched 112 candles for BAJAJFINSV.NS
+2026-01-08 12:15:50 | INFO     | Fetching historical data for BAJAJFINSV.NS (period=1d, interval=5m)
+2026-01-08 12:15:50 | INFO     | Fetched 36 candles for BAJAJFINSV.NS
+2026-01-08 12:15:50 | INFO     | BAJAJFINSV.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:50 | INFO     | Evaluating trade opportunity for HINDALCO.NS
+2026-01-08 12:15:50 | INFO     | Fetching historical data for HINDALCO.NS (period=5d, interval=15m)
+2026-01-08 12:15:50 | INFO     | Fetched 112 candles for HINDALCO.NS
+2026-01-08 12:15:50 | INFO     | Fetching historical data for HINDALCO.NS (period=1d, interval=5m)
+2026-01-08 12:15:50 | INFO     | Fetched 36 candles for HINDALCO.NS
+2026-01-08 12:15:50 | INFO     | HINDALCO.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:50 | INFO     | Evaluating trade opportunity for GRASIM.NS
+2026-01-08 12:15:50 | INFO     | Fetching historical data for GRASIM.NS (period=5d, interval=15m)
+2026-01-08 12:15:51 | INFO     | Fetched 112 candles for GRASIM.NS
+2026-01-08 12:15:51 | INFO     | Fetching historical data for GRASIM.NS (period=1d, interval=5m)
+2026-01-08 12:15:51 | INFO     | Fetched 36 candles for GRASIM.NS
+2026-01-08 12:15:51 | INFO     | GRASIM.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:51 | INFO     | Evaluating trade opportunity for DIVISLAB.NS
+2026-01-08 12:15:51 | INFO     | Fetching historical data for DIVISLAB.NS (period=5d, interval=15m)
+2026-01-08 12:15:51 | INFO     | Fetched 112 candles for DIVISLAB.NS
+2026-01-08 12:15:51 | INFO     | Fetching historical data for DIVISLAB.NS (period=1d, interval=5m)
+2026-01-08 12:15:51 | INFO     | Fetched 36 candles for DIVISLAB.NS
+2026-01-08 12:15:52 | INFO     | DIVISLAB.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:52 | INFO     | Evaluating trade opportunity for BRITANNIA.NS
+2026-01-08 12:15:52 | INFO     | Fetching historical data for BRITANNIA.NS (period=5d, interval=15m)
+2026-01-08 12:15:52 | INFO     | Fetched 112 candles for BRITANNIA.NS
+2026-01-08 12:15:52 | INFO     | Fetching historical data for BRITANNIA.NS (period=1d, interval=5m)
+2026-01-08 12:15:52 | INFO     | Fetched 36 candles for BRITANNIA.NS
+2026-01-08 12:15:52 | INFO     | BRITANNIA.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:52 | INFO     | Evaluating trade opportunity for CIPLA.NS
+2026-01-08 12:15:52 | INFO     | Fetching historical data for CIPLA.NS (period=5d, interval=15m)
+2026-01-08 12:15:53 | INFO     | Fetched 112 candles for CIPLA.NS
+2026-01-08 12:15:53 | INFO     | Fetching historical data for CIPLA.NS (period=1d, interval=5m)
+2026-01-08 12:15:53 | INFO     | Fetched 36 candles for CIPLA.NS
+2026-01-08 12:15:53 | INFO     | CIPLA.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:53 | INFO     | Evaluating trade opportunity for EICHERMOT.NS
+2026-01-08 12:15:53 | INFO     | Fetching historical data for EICHERMOT.NS (period=5d, interval=15m)
+2026-01-08 12:15:53 | INFO     | Fetched 112 candles for EICHERMOT.NS
+2026-01-08 12:15:53 | INFO     | Fetching historical data for EICHERMOT.NS (period=1d, interval=5m)
+2026-01-08 12:15:53 | INFO     | Fetched 36 candles for EICHERMOT.NS
+2026-01-08 12:15:53 | INFO     | EICHERMOT.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:53 | INFO     | Evaluating trade opportunity for APOLLOHOSP.NS
+2026-01-08 12:15:53 | INFO     | Fetching historical data for APOLLOHOSP.NS (period=5d, interval=15m)
+2026-01-08 12:15:54 | INFO     | Fetched 112 candles for APOLLOHOSP.NS
+2026-01-08 12:15:54 | INFO     | Fetching historical data for APOLLOHOSP.NS (period=1d, interval=5m)
+2026-01-08 12:15:54 | INFO     | Fetched 36 candles for APOLLOHOSP.NS
+2026-01-08 12:15:54 | INFO     | APOLLOHOSP.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:54 | INFO     | Evaluating trade opportunity for HEROMOTOCO.NS
+2026-01-08 12:15:54 | INFO     | Fetching historical data for HEROMOTOCO.NS (period=5d, interval=15m)
+2026-01-08 12:15:54 | INFO     | Fetched 112 candles for HEROMOTOCO.NS
+2026-01-08 12:15:54 | INFO     | Fetching historical data for HEROMOTOCO.NS (period=1d, interval=5m)
+2026-01-08 12:15:54 | INFO     | Fetched 36 candles for HEROMOTOCO.NS
+2026-01-08 12:15:54 | INFO     | HEROMOTOCO.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:54 | INFO     | Evaluating trade opportunity for INDUSINDBK.NS
+2026-01-08 12:15:54 | INFO     | Fetching historical data for INDUSINDBK.NS (period=5d, interval=15m)
+2026-01-08 12:15:55 | INFO     | Fetched 112 candles for INDUSINDBK.NS
+2026-01-08 12:15:55 | INFO     | Fetching historical data for INDUSINDBK.NS (period=1d, interval=5m)
+2026-01-08 12:15:55 | INFO     | Fetched 36 candles for INDUSINDBK.NS
+2026-01-08 12:15:55 | INFO     | INDUSINDBK.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:55 | INFO     | Evaluating trade opportunity for SBILIFE.NS
+2026-01-08 12:15:55 | INFO     | Fetching historical data for SBILIFE.NS (period=5d, interval=15m)
+2026-01-08 12:15:55 | INFO     | Fetched 112 candles for SBILIFE.NS
+2026-01-08 12:15:55 | INFO     | Fetching historical data for SBILIFE.NS (period=1d, interval=5m)
+2026-01-08 12:15:55 | INFO     | Fetched 36 candles for SBILIFE.NS
+2026-01-08 12:15:55 | INFO     | SBILIFE.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:55 | INFO     | Evaluating trade opportunity for TATACONSUM.NS
+2026-01-08 12:15:55 | INFO     | Fetching historical data for TATACONSUM.NS (period=5d, interval=15m)
+2026-01-08 12:15:56 | INFO     | Fetched 112 candles for TATACONSUM.NS
+2026-01-08 12:15:56 | INFO     | Fetching historical data for TATACONSUM.NS (period=1d, interval=5m)
+2026-01-08 12:15:56 | INFO     | Fetched 36 candles for TATACONSUM.NS
+2026-01-08 12:15:56 | INFO     | TATACONSUM.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:56 | INFO     | Evaluating trade opportunity for BPCL.NS
+2026-01-08 12:15:56 | INFO     | Fetching historical data for BPCL.NS (period=5d, interval=15m)
+2026-01-08 12:15:56 | INFO     | Fetched 112 candles for BPCL.NS
+2026-01-08 12:15:56 | INFO     | Fetching historical data for BPCL.NS (period=1d, interval=5m)
+2026-01-08 12:15:56 | INFO     | Fetched 36 candles for BPCL.NS
+2026-01-08 12:15:56 | INFO     | BPCL.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:56 | INFO     | Evaluating trade opportunity for HDFCLIFE.NS
+2026-01-08 12:15:56 | INFO     | Fetching historical data for HDFCLIFE.NS (period=5d, interval=15m)
+2026-01-08 12:15:57 | INFO     | Fetched 112 candles for HDFCLIFE.NS
+2026-01-08 12:15:57 | INFO     | Fetching historical data for HDFCLIFE.NS (period=1d, interval=5m)
+2026-01-08 12:15:57 | INFO     | Fetched 36 candles for HDFCLIFE.NS
+2026-01-08 12:15:57 | INFO     | HDFCLIFE.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:57 | INFO     | Evaluating trade opportunity for UPL.NS
+2026-01-08 12:15:57 | INFO     | Fetching historical data for UPL.NS (period=5d, interval=15m)
+2026-01-08 12:15:57 | INFO     | Fetched 112 candles for UPL.NS
+2026-01-08 12:15:57 | INFO     | Fetching historical data for UPL.NS (period=1d, interval=5m)
+2026-01-08 12:15:57 | INFO     | Fetched 36 candles for UPL.NS
+2026-01-08 12:15:57 | INFO     | UPL.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:57 | INFO     | Evaluating trade opportunity for M&M.NS
+2026-01-08 12:15:57 | INFO     | Fetching historical data for M&M.NS (period=5d, interval=15m)
+2026-01-08 12:15:58 | INFO     | Fetched 112 candles for M&M.NS
+2026-01-08 12:15:58 | INFO     | Fetching historical data for M&M.NS (period=1d, interval=5m)
+2026-01-08 12:15:58 | INFO     | Fetched 36 candles for M&M.NS
+2026-01-08 12:15:58 | INFO     | M&M.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:15:58 | INFO     | Evaluating trade opportunity for BAJAJ-AUTO.NS
+2026-01-08 12:15:58 | INFO     | Fetching historical data for BAJAJ-AUTO.NS (period=5d, interval=15m)
+2026-01-08 12:15:58 | INFO     | Fetched 112 candles for BAJAJ-AUTO.NS
+2026-01-08 12:15:58 | INFO     | Fetching historical data for BAJAJ-AUTO.NS (period=1d, interval=5m)
+2026-01-08 12:15:59 | INFO     | Fetched 36 candles for BAJAJ-AUTO.NS
+2026-01-08 12:15:59 | INFO     | BAJAJ-AUTO.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:16:09 | INFO     | Fetching historical data for RELIANCE.NS (period=1mo, interval=1d)
+2026-01-08 12:16:09 | INFO     | Fetched 23 candles for RELIANCE.NS
+2026-01-08 12:16:10 | INFO     | Fetching historical data for TCS.NS (period=1mo, interval=1d)
+2026-01-08 12:16:11 | INFO     | Fetched 23 candles for TCS.NS
+2026-01-08 12:16:11 | INFO     | Fetching historical data for HDFCBANK.NS (period=1mo, interval=1d)
+2026-01-08 12:16:11 | INFO     | Fetched 23 candles for HDFCBANK.NS
+2026-01-08 12:16:12 | INFO     | Fetching historical data for ICICIBANK.NS (period=1mo, interval=1d)
+2026-01-08 12:16:12 | INFO     | Fetched 23 candles for ICICIBANK.NS
+2026-01-08 12:16:12 | INFO     | Fetching historical data for HINDUNILVR.NS (period=1mo, interval=1d)
+2026-01-08 12:16:12 | INFO     | Fetched 23 candles for HINDUNILVR.NS
+2026-01-08 12:16:13 | INFO     | Fetching historical data for SBIN.NS (period=1mo, interval=1d)
+2026-01-08 12:16:13 | INFO     | Fetched 23 candles for SBIN.NS
+2026-01-08 12:16:13 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1mo, interval=1d)
+2026-01-08 12:16:13 | INFO     | Fetched 23 candles for BHARTIARTL.NS
+2026-01-08 12:16:33 | INFO     | Added position: LONG 10 x BHARTIARTL.NS @ ₹2061.00
+2026-01-08 12:20:46 | INFO     | Evaluating trade opportunity for RELIANCE.NS
+2026-01-08 12:20:46 | INFO     | Fetching historical data for RELIANCE.NS (period=5d, interval=15m)
+2026-01-08 12:20:47 | INFO     | Fetched 113 candles for RELIANCE.NS
+2026-01-08 12:20:47 | INFO     | Fetching historical data for RELIANCE.NS (period=1d, interval=5m)
+2026-01-08 12:20:47 | INFO     | Fetched 37 candles for RELIANCE.NS
+2026-01-08 12:20:47 | INFO     | RELIANCE.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:20:47 | INFO     | Evaluating trade opportunity for TCS.NS
+2026-01-08 12:20:47 | INFO     | Fetching historical data for TCS.NS (period=5d, interval=15m)
+2026-01-08 12:20:47 | INFO     | Fetched 113 candles for TCS.NS
+2026-01-08 12:20:47 | INFO     | Fetching historical data for TCS.NS (period=1d, interval=5m)
+2026-01-08 12:20:47 | INFO     | Fetched 37 candles for TCS.NS
+2026-01-08 12:20:47 | INFO     | TCS.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:20:47 | INFO     | Evaluating trade opportunity for HDFCBANK.NS
+2026-01-08 12:20:47 | INFO     | Fetching historical data for HDFCBANK.NS (period=5d, interval=15m)
+2026-01-08 12:20:48 | INFO     | Fetched 113 candles for HDFCBANK.NS
+2026-01-08 12:20:48 | INFO     | Fetching historical data for HDFCBANK.NS (period=1d, interval=5m)
+2026-01-08 12:20:48 | INFO     | Fetched 37 candles for HDFCBANK.NS
+2026-01-08 12:20:48 | INFO     | HDFCBANK.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:20:48 | INFO     | Evaluating trade opportunity for INFY.NS
+2026-01-08 12:20:48 | INFO     | Fetching historical data for INFY.NS (period=5d, interval=15m)
+2026-01-08 12:20:48 | INFO     | Fetched 113 candles for INFY.NS
+2026-01-08 12:20:48 | INFO     | Fetching historical data for INFY.NS (period=1d, interval=5m)
+2026-01-08 12:20:48 | INFO     | Fetched 37 candles for INFY.NS
+2026-01-08 12:20:48 | INFO     | INFY.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:20:48 | INFO     | Evaluating trade opportunity for ICICIBANK.NS
+2026-01-08 12:20:48 | INFO     | Fetching historical data for ICICIBANK.NS (period=5d, interval=15m)
+2026-01-08 12:20:48 | INFO     | Fetched 113 candles for ICICIBANK.NS
+2026-01-08 12:20:48 | INFO     | Fetching historical data for ICICIBANK.NS (period=1d, interval=5m)
+2026-01-08 12:20:49 | INFO     | Fetched 37 candles for ICICIBANK.NS
+2026-01-08 12:20:49 | INFO     | ICICIBANK.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:20:49 | INFO     | Evaluating trade opportunity for HINDUNILVR.NS
+2026-01-08 12:20:49 | INFO     | Fetching historical data for HINDUNILVR.NS (period=5d, interval=15m)
+2026-01-08 12:20:49 | INFO     | Fetched 113 candles for HINDUNILVR.NS
+2026-01-08 12:20:49 | INFO     | Fetching historical data for HINDUNILVR.NS (period=1d, interval=5m)
+2026-01-08 12:20:49 | INFO     | Fetched 37 candles for HINDUNILVR.NS
+2026-01-08 12:20:49 | INFO     | HINDUNILVR.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:20:49 | INFO     | Evaluating trade opportunity for SBIN.NS
+2026-01-08 12:20:49 | INFO     | Fetching historical data for SBIN.NS (period=5d, interval=15m)
+2026-01-08 12:20:49 | INFO     | Fetched 113 candles for SBIN.NS
+2026-01-08 12:20:49 | INFO     | Fetching historical data for SBIN.NS (period=1d, interval=5m)
+2026-01-08 12:20:49 | INFO     | Fetched 37 candles for SBIN.NS
+2026-01-08 12:20:49 | INFO     | SBIN.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:20:49 | INFO     | Evaluating trade opportunity for BHARTIARTL.NS
+2026-01-08 12:20:49 | INFO     | Fetching historical data for BHARTIARTL.NS (period=5d, interval=15m)
+2026-01-08 12:20:50 | INFO     | Fetched 113 candles for BHARTIARTL.NS
+2026-01-08 12:20:50 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1d, interval=5m)
+2026-01-08 12:20:50 | INFO     | Fetched 37 candles for BHARTIARTL.NS
+2026-01-08 12:20:50 | INFO     | BHARTIARTL.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:20:50 | INFO     | Evaluating trade opportunity for ITC.NS
+2026-01-08 12:20:50 | INFO     | Fetching historical data for ITC.NS (period=5d, interval=15m)
+2026-01-08 12:20:50 | INFO     | Fetched 113 candles for ITC.NS
+2026-01-08 12:20:50 | INFO     | Fetching historical data for ITC.NS (period=1d, interval=5m)
+2026-01-08 12:20:50 | INFO     | Fetched 37 candles for ITC.NS
+2026-01-08 12:20:50 | INFO     | ITC.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:20:50 | INFO     | Evaluating trade opportunity for KOTAKBANK.NS
+2026-01-08 12:20:50 | INFO     | Fetching historical data for KOTAKBANK.NS (period=5d, interval=15m)
+2026-01-08 12:20:50 | INFO     | Fetched 113 candles for KOTAKBANK.NS
+2026-01-08 12:20:50 | INFO     | Fetching historical data for KOTAKBANK.NS (period=1d, interval=5m)
+2026-01-08 12:20:50 | INFO     | Fetched 37 candles for KOTAKBANK.NS
+2026-01-08 12:20:51 | INFO     | KOTAKBANK.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:20:51 | INFO     | Evaluating trade opportunity for LT.NS
+2026-01-08 12:20:51 | INFO     | Fetching historical data for LT.NS (period=5d, interval=15m)
+2026-01-08 12:20:51 | INFO     | Fetched 113 candles for LT.NS
+2026-01-08 12:20:51 | INFO     | Fetching historical data for LT.NS (period=1d, interval=5m)
+2026-01-08 12:20:51 | INFO     | Fetched 37 candles for LT.NS
+2026-01-08 12:20:51 | INFO     | LT.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:20:51 | INFO     | Evaluating trade opportunity for HCLTECH.NS
+2026-01-08 12:20:51 | INFO     | Fetching historical data for HCLTECH.NS (period=5d, interval=15m)
+2026-01-08 12:20:51 | INFO     | Fetched 113 candles for HCLTECH.NS
+2026-01-08 12:20:51 | INFO     | Fetching historical data for HCLTECH.NS (period=1d, interval=5m)
+2026-01-08 12:20:51 | INFO     | Fetched 37 candles for HCLTECH.NS
+2026-01-08 12:20:51 | INFO     | HCLTECH.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:20:51 | INFO     | Evaluating trade opportunity for AXISBANK.NS
+2026-01-08 12:20:51 | INFO     | Fetching historical data for AXISBANK.NS (period=5d, interval=15m)
+2026-01-08 12:20:52 | INFO     | Fetched 113 candles for AXISBANK.NS
+2026-01-08 12:20:52 | INFO     | Fetching historical data for AXISBANK.NS (period=1d, interval=5m)
+2026-01-08 12:20:52 | INFO     | Fetched 37 candles for AXISBANK.NS
+2026-01-08 12:20:52 | INFO     | AXISBANK.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:20:52 | INFO     | Evaluating trade opportunity for ASIANPAINT.NS
+2026-01-08 12:20:52 | INFO     | Fetching historical data for ASIANPAINT.NS (period=5d, interval=15m)
+2026-01-08 12:20:52 | INFO     | Fetched 113 candles for ASIANPAINT.NS
+2026-01-08 12:20:52 | INFO     | Fetching historical data for ASIANPAINT.NS (period=1d, interval=5m)
+2026-01-08 12:20:52 | INFO     | Fetched 37 candles for ASIANPAINT.NS
+2026-01-08 12:20:52 | INFO     | ASIANPAINT.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:20:52 | INFO     | Evaluating trade opportunity for MARUTI.NS
+2026-01-08 12:20:52 | INFO     | Fetching historical data for MARUTI.NS (period=5d, interval=15m)
+2026-01-08 12:20:52 | INFO     | Fetched 113 candles for MARUTI.NS
+2026-01-08 12:20:52 | INFO     | Fetching historical data for MARUTI.NS (period=1d, interval=5m)
+2026-01-08 12:20:53 | INFO     | Fetched 37 candles for MARUTI.NS
+2026-01-08 12:20:53 | INFO     | MARUTI.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:20:53 | INFO     | Evaluating trade opportunity for SUNPHARMA.NS
+2026-01-08 12:20:53 | INFO     | Fetching historical data for SUNPHARMA.NS (period=5d, interval=15m)
+2026-01-08 12:20:53 | INFO     | Fetched 113 candles for SUNPHARMA.NS
+2026-01-08 12:20:53 | INFO     | Fetching historical data for SUNPHARMA.NS (period=1d, interval=5m)
+2026-01-08 12:20:53 | INFO     | Fetched 37 candles for SUNPHARMA.NS
+2026-01-08 12:20:53 | INFO     | SUNPHARMA.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:20:53 | INFO     | Evaluating trade opportunity for TITAN.NS
+2026-01-08 12:20:53 | INFO     | Fetching historical data for TITAN.NS (period=5d, interval=15m)
+2026-01-08 12:20:53 | INFO     | Fetched 113 candles for TITAN.NS
+2026-01-08 12:20:53 | INFO     | Fetching historical data for TITAN.NS (period=1d, interval=5m)
+2026-01-08 12:20:53 | INFO     | Fetched 37 candles for TITAN.NS
+2026-01-08 12:20:53 | INFO     | TITAN.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:20:53 | INFO     | Evaluating trade opportunity for BAJFINANCE.NS
+2026-01-08 12:20:53 | INFO     | Fetching historical data for BAJFINANCE.NS (period=5d, interval=15m)
+2026-01-08 12:20:54 | INFO     | Fetched 113 candles for BAJFINANCE.NS
+2026-01-08 12:20:54 | INFO     | Fetching historical data for BAJFINANCE.NS (period=1d, interval=5m)
+2026-01-08 12:20:54 | INFO     | Fetched 37 candles for BAJFINANCE.NS
+2026-01-08 12:20:54 | INFO     | BAJFINANCE.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:20:54 | INFO     | Evaluating trade opportunity for WIPRO.NS
+2026-01-08 12:20:54 | INFO     | Fetching historical data for WIPRO.NS (period=5d, interval=15m)
+2026-01-08 12:20:54 | INFO     | Fetched 113 candles for WIPRO.NS
+2026-01-08 12:20:54 | INFO     | Fetching historical data for WIPRO.NS (period=1d, interval=5m)
+2026-01-08 12:20:54 | INFO     | Fetched 37 candles for WIPRO.NS
+2026-01-08 12:20:54 | INFO     | WIPRO.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:20:54 | INFO     | Evaluating trade opportunity for ULTRACEMCO.NS
+2026-01-08 12:20:54 | INFO     | Fetching historical data for ULTRACEMCO.NS (period=5d, interval=15m)
+2026-01-08 12:20:54 | INFO     | Fetched 113 candles for ULTRACEMCO.NS
+2026-01-08 12:20:54 | INFO     | Fetching historical data for ULTRACEMCO.NS (period=1d, interval=5m)
+2026-01-08 12:20:54 | INFO     | Fetched 37 candles for ULTRACEMCO.NS
+2026-01-08 12:20:54 | INFO     | ULTRACEMCO.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:20:54 | INFO     | Evaluating trade opportunity for NESTLEIND.NS
+2026-01-08 12:20:54 | INFO     | Fetching historical data for NESTLEIND.NS (period=5d, interval=15m)
+2026-01-08 12:20:55 | INFO     | Fetched 113 candles for NESTLEIND.NS
+2026-01-08 12:20:55 | INFO     | Fetching historical data for NESTLEIND.NS (period=1d, interval=5m)
+2026-01-08 12:20:55 | INFO     | Fetched 37 candles for NESTLEIND.NS
+2026-01-08 12:20:55 | INFO     | NESTLEIND.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:20:55 | INFO     | Evaluating trade opportunity for TATAMOTORS.NS
+2026-01-08 12:20:55 | INFO     | Fetching historical data for TATAMOTORS.NS (period=5d, interval=15m)
+2026-01-08 12:20:56 | WARNING  | No data returned for TATAMOTORS.NS
+2026-01-08 12:20:56 | INFO     | Fetching historical data for TATAMOTORS.NS (period=1d, interval=5m)
+2026-01-08 12:20:56 | WARNING  | No data returned for TATAMOTORS.NS
+2026-01-08 12:20:56 | INFO     | TATAMOTORS.NS: HOLD - Multi-timeframe misalignment: Insufficient data
+2026-01-08 12:20:56 | INFO     | Evaluating trade opportunity for POWERGRID.NS
+2026-01-08 12:20:56 | INFO     | Fetching historical data for POWERGRID.NS (period=5d, interval=15m)
+2026-01-08 12:20:56 | INFO     | Fetched 113 candles for POWERGRID.NS
+2026-01-08 12:20:56 | INFO     | Fetching historical data for POWERGRID.NS (period=1d, interval=5m)
+2026-01-08 12:20:56 | INFO     | Fetched 37 candles for POWERGRID.NS
+2026-01-08 12:20:56 | INFO     | POWERGRID.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:20:56 | INFO     | Evaluating trade opportunity for NTPC.NS
+2026-01-08 12:20:56 | INFO     | Fetching historical data for NTPC.NS (period=5d, interval=15m)
+2026-01-08 12:20:57 | INFO     | Fetched 113 candles for NTPC.NS
+2026-01-08 12:20:57 | INFO     | Fetching historical data for NTPC.NS (period=1d, interval=5m)
+2026-01-08 12:20:57 | INFO     | Fetched 37 candles for NTPC.NS
+2026-01-08 12:20:57 | INFO     | NTPC.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:20:57 | INFO     | Evaluating trade opportunity for TECHM.NS
+2026-01-08 12:20:57 | INFO     | Fetching historical data for TECHM.NS (period=5d, interval=15m)
+2026-01-08 12:20:57 | INFO     | Fetched 113 candles for TECHM.NS
+2026-01-08 12:20:57 | INFO     | Fetching historical data for TECHM.NS (period=1d, interval=5m)
+2026-01-08 12:20:57 | INFO     | Fetched 37 candles for TECHM.NS
+2026-01-08 12:20:57 | INFO     | TECHM.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:20:57 | INFO     | Evaluating trade opportunity for ONGC.NS
+2026-01-08 12:20:57 | INFO     | Fetching historical data for ONGC.NS (period=5d, interval=15m)
+2026-01-08 12:20:57 | INFO     | Fetched 113 candles for ONGC.NS
+2026-01-08 12:20:57 | INFO     | Fetching historical data for ONGC.NS (period=1d, interval=5m)
+2026-01-08 12:20:58 | INFO     | Fetched 37 candles for ONGC.NS
+2026-01-08 12:20:58 | INFO     | ONGC.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:20:58 | INFO     | Evaluating trade opportunity for TATASTEEL.NS
+2026-01-08 12:20:58 | INFO     | Fetching historical data for TATASTEEL.NS (period=5d, interval=15m)
+2026-01-08 12:20:58 | INFO     | Fetched 113 candles for TATASTEEL.NS
+2026-01-08 12:20:58 | INFO     | Fetching historical data for TATASTEEL.NS (period=1d, interval=5m)
+2026-01-08 12:20:58 | INFO     | Fetched 37 candles for TATASTEEL.NS
+2026-01-08 12:20:58 | INFO     | TATASTEEL.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:20:58 | INFO     | Evaluating trade opportunity for JSWSTEEL.NS
+2026-01-08 12:20:58 | INFO     | Fetching historical data for JSWSTEEL.NS (period=5d, interval=15m)
+2026-01-08 12:20:58 | INFO     | Fetched 113 candles for JSWSTEEL.NS
+2026-01-08 12:20:58 | INFO     | Fetching historical data for JSWSTEEL.NS (period=1d, interval=5m)
+2026-01-08 12:20:58 | INFO     | Fetched 37 candles for JSWSTEEL.NS
+2026-01-08 12:20:58 | INFO     | JSWSTEEL.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:20:58 | INFO     | Evaluating trade opportunity for ADANIENT.NS
+2026-01-08 12:20:58 | INFO     | Fetching historical data for ADANIENT.NS (period=5d, interval=15m)
+2026-01-08 12:20:59 | INFO     | Fetched 113 candles for ADANIENT.NS
+2026-01-08 12:20:59 | INFO     | Fetching historical data for ADANIENT.NS (period=1d, interval=5m)
+2026-01-08 12:20:59 | INFO     | Fetched 37 candles for ADANIENT.NS
+2026-01-08 12:20:59 | INFO     | ADANIENT.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:20:59 | INFO     | Evaluating trade opportunity for ADANIPORTS.NS
+2026-01-08 12:20:59 | INFO     | Fetching historical data for ADANIPORTS.NS (period=5d, interval=15m)
+2026-01-08 12:20:59 | INFO     | Fetched 113 candles for ADANIPORTS.NS
+2026-01-08 12:20:59 | INFO     | Fetching historical data for ADANIPORTS.NS (period=1d, interval=5m)
+2026-01-08 12:20:59 | INFO     | Fetched 37 candles for ADANIPORTS.NS
+2026-01-08 12:20:59 | INFO     | ADANIPORTS.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:20:59 | INFO     | Evaluating trade opportunity for COALINDIA.NS
+2026-01-08 12:20:59 | INFO     | Fetching historical data for COALINDIA.NS (period=5d, interval=15m)
+2026-01-08 12:20:59 | INFO     | Fetched 113 candles for COALINDIA.NS
+2026-01-08 12:20:59 | INFO     | Fetching historical data for COALINDIA.NS (period=1d, interval=5m)
+2026-01-08 12:20:59 | INFO     | Fetched 37 candles for COALINDIA.NS
+2026-01-08 12:20:59 | INFO     | COALINDIA.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:20:59 | INFO     | Evaluating trade opportunity for DRREDDY.NS
+2026-01-08 12:20:59 | INFO     | Fetching historical data for DRREDDY.NS (period=5d, interval=15m)
+2026-01-08 12:21:00 | INFO     | Fetched 113 candles for DRREDDY.NS
+2026-01-08 12:21:00 | INFO     | Fetching historical data for DRREDDY.NS (period=1d, interval=5m)
+2026-01-08 12:21:00 | INFO     | Fetched 37 candles for DRREDDY.NS
+2026-01-08 12:21:00 | INFO     | DRREDDY.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:21:00 | INFO     | Evaluating trade opportunity for BAJAJFINSV.NS
+2026-01-08 12:21:00 | INFO     | Fetching historical data for BAJAJFINSV.NS (period=5d, interval=15m)
+2026-01-08 12:21:00 | INFO     | Fetched 113 candles for BAJAJFINSV.NS
+2026-01-08 12:21:00 | INFO     | Fetching historical data for BAJAJFINSV.NS (period=1d, interval=5m)
+2026-01-08 12:21:00 | INFO     | Fetched 37 candles for BAJAJFINSV.NS
+2026-01-08 12:21:00 | INFO     | BAJAJFINSV.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:21:00 | INFO     | Evaluating trade opportunity for HINDALCO.NS
+2026-01-08 12:21:00 | INFO     | Fetching historical data for HINDALCO.NS (period=5d, interval=15m)
+2026-01-08 12:21:00 | INFO     | Fetched 113 candles for HINDALCO.NS
+2026-01-08 12:21:00 | INFO     | Fetching historical data for HINDALCO.NS (period=1d, interval=5m)
+2026-01-08 12:21:01 | INFO     | Fetched 37 candles for HINDALCO.NS
+2026-01-08 12:21:01 | INFO     | HINDALCO.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:21:01 | INFO     | Evaluating trade opportunity for GRASIM.NS
+2026-01-08 12:21:01 | INFO     | Fetching historical data for GRASIM.NS (period=5d, interval=15m)
+2026-01-08 12:21:01 | INFO     | Fetched 113 candles for GRASIM.NS
+2026-01-08 12:21:01 | INFO     | Fetching historical data for GRASIM.NS (period=1d, interval=5m)
+2026-01-08 12:21:01 | INFO     | Fetched 37 candles for GRASIM.NS
+2026-01-08 12:21:01 | INFO     | GRASIM.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:21:01 | INFO     | Evaluating trade opportunity for DIVISLAB.NS
+2026-01-08 12:21:01 | INFO     | Fetching historical data for DIVISLAB.NS (period=5d, interval=15m)
+2026-01-08 12:21:01 | INFO     | Fetched 113 candles for DIVISLAB.NS
+2026-01-08 12:21:01 | INFO     | Fetching historical data for DIVISLAB.NS (period=1d, interval=5m)
+2026-01-08 12:21:02 | INFO     | Fetched 37 candles for DIVISLAB.NS
+2026-01-08 12:21:02 | INFO     | DIVISLAB.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:21:02 | INFO     | Evaluating trade opportunity for BRITANNIA.NS
+2026-01-08 12:21:02 | INFO     | Fetching historical data for BRITANNIA.NS (period=5d, interval=15m)
+2026-01-08 12:21:02 | INFO     | Fetched 113 candles for BRITANNIA.NS
+2026-01-08 12:21:02 | INFO     | Fetching historical data for BRITANNIA.NS (period=1d, interval=5m)
+2026-01-08 12:21:02 | INFO     | Fetched 37 candles for BRITANNIA.NS
+2026-01-08 12:21:02 | INFO     | BRITANNIA.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:21:02 | INFO     | Evaluating trade opportunity for CIPLA.NS
+2026-01-08 12:21:02 | INFO     | Fetching historical data for CIPLA.NS (period=5d, interval=15m)
+2026-01-08 12:21:02 | INFO     | Fetched 113 candles for CIPLA.NS
+2026-01-08 12:21:02 | INFO     | Fetching historical data for CIPLA.NS (period=1d, interval=5m)
+2026-01-08 12:21:02 | INFO     | Fetched 37 candles for CIPLA.NS
+2026-01-08 12:21:02 | INFO     | CIPLA.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:21:02 | INFO     | Evaluating trade opportunity for EICHERMOT.NS
+2026-01-08 12:21:02 | INFO     | Fetching historical data for EICHERMOT.NS (period=5d, interval=15m)
+2026-01-08 12:21:03 | INFO     | Fetched 113 candles for EICHERMOT.NS
+2026-01-08 12:21:03 | INFO     | Fetching historical data for EICHERMOT.NS (period=1d, interval=5m)
+2026-01-08 12:21:03 | INFO     | Fetched 37 candles for EICHERMOT.NS
+2026-01-08 12:21:03 | INFO     | EICHERMOT.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:21:03 | INFO     | Evaluating trade opportunity for APOLLOHOSP.NS
+2026-01-08 12:21:03 | INFO     | Fetching historical data for APOLLOHOSP.NS (period=5d, interval=15m)
+2026-01-08 12:21:03 | INFO     | Fetched 113 candles for APOLLOHOSP.NS
+2026-01-08 12:21:03 | INFO     | Fetching historical data for APOLLOHOSP.NS (period=1d, interval=5m)
+2026-01-08 12:21:03 | INFO     | Fetched 38 candles for APOLLOHOSP.NS
+2026-01-08 12:21:03 | INFO     | APOLLOHOSP.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:21:03 | INFO     | Evaluating trade opportunity for HEROMOTOCO.NS
+2026-01-08 12:21:03 | INFO     | Fetching historical data for HEROMOTOCO.NS (period=5d, interval=15m)
+2026-01-08 12:21:03 | INFO     | Fetched 113 candles for HEROMOTOCO.NS
+2026-01-08 12:21:03 | INFO     | Fetching historical data for HEROMOTOCO.NS (period=1d, interval=5m)
+2026-01-08 12:21:04 | INFO     | Fetched 37 candles for HEROMOTOCO.NS
+2026-01-08 12:21:04 | INFO     | HEROMOTOCO.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:21:04 | INFO     | Evaluating trade opportunity for INDUSINDBK.NS
+2026-01-08 12:21:04 | INFO     | Fetching historical data for INDUSINDBK.NS (period=5d, interval=15m)
+2026-01-08 12:21:04 | INFO     | Fetched 113 candles for INDUSINDBK.NS
+2026-01-08 12:21:04 | INFO     | Fetching historical data for INDUSINDBK.NS (period=1d, interval=5m)
+2026-01-08 12:21:04 | INFO     | Fetched 38 candles for INDUSINDBK.NS
+2026-01-08 12:21:04 | INFO     | INDUSINDBK.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:21:04 | INFO     | Evaluating trade opportunity for SBILIFE.NS
+2026-01-08 12:21:04 | INFO     | Fetching historical data for SBILIFE.NS (period=5d, interval=15m)
+2026-01-08 12:21:04 | INFO     | Fetched 113 candles for SBILIFE.NS
+2026-01-08 12:21:04 | INFO     | Fetching historical data for SBILIFE.NS (period=1d, interval=5m)
+2026-01-08 12:21:04 | INFO     | Fetched 38 candles for SBILIFE.NS
+2026-01-08 12:21:04 | INFO     | SBILIFE.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:21:04 | INFO     | Evaluating trade opportunity for TATACONSUM.NS
+2026-01-08 12:21:04 | INFO     | Fetching historical data for TATACONSUM.NS (period=5d, interval=15m)
+2026-01-08 12:21:05 | INFO     | Fetched 113 candles for TATACONSUM.NS
+2026-01-08 12:21:05 | INFO     | Fetching historical data for TATACONSUM.NS (period=1d, interval=5m)
+2026-01-08 12:21:05 | INFO     | Fetched 38 candles for TATACONSUM.NS
+2026-01-08 12:21:05 | INFO     | TATACONSUM.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:21:05 | INFO     | Evaluating trade opportunity for BPCL.NS
+2026-01-08 12:21:05 | INFO     | Fetching historical data for BPCL.NS (period=5d, interval=15m)
+2026-01-08 12:21:05 | INFO     | Fetched 113 candles for BPCL.NS
+2026-01-08 12:21:05 | INFO     | Fetching historical data for BPCL.NS (period=1d, interval=5m)
+2026-01-08 12:21:05 | INFO     | Fetched 38 candles for BPCL.NS
+2026-01-08 12:21:05 | INFO     | BPCL.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:21:05 | INFO     | Evaluating trade opportunity for HDFCLIFE.NS
+2026-01-08 12:21:05 | INFO     | Fetching historical data for HDFCLIFE.NS (period=5d, interval=15m)
+2026-01-08 12:21:05 | INFO     | Fetched 113 candles for HDFCLIFE.NS
+2026-01-08 12:21:05 | INFO     | Fetching historical data for HDFCLIFE.NS (period=1d, interval=5m)
+2026-01-08 12:21:06 | INFO     | Fetched 38 candles for HDFCLIFE.NS
+2026-01-08 12:21:06 | INFO     | HDFCLIFE.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:21:06 | INFO     | Evaluating trade opportunity for UPL.NS
+2026-01-08 12:21:06 | INFO     | Fetching historical data for UPL.NS (period=5d, interval=15m)
+2026-01-08 12:21:06 | INFO     | Fetched 113 candles for UPL.NS
+2026-01-08 12:21:06 | INFO     | Fetching historical data for UPL.NS (period=1d, interval=5m)
+2026-01-08 12:21:06 | INFO     | Fetched 38 candles for UPL.NS
+2026-01-08 12:21:06 | INFO     | UPL.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:21:06 | INFO     | Evaluating trade opportunity for M&M.NS
+2026-01-08 12:21:06 | INFO     | Fetching historical data for M&M.NS (period=5d, interval=15m)
+2026-01-08 12:21:06 | INFO     | Fetched 113 candles for M&M.NS
+2026-01-08 12:21:06 | INFO     | Fetching historical data for M&M.NS (period=1d, interval=5m)
+2026-01-08 12:21:07 | INFO     | Fetched 38 candles for M&M.NS
+2026-01-08 12:21:07 | INFO     | M&M.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:21:07 | INFO     | Evaluating trade opportunity for BAJAJ-AUTO.NS
+2026-01-08 12:21:07 | INFO     | Fetching historical data for BAJAJ-AUTO.NS (period=5d, interval=15m)
+2026-01-08 12:21:07 | INFO     | Fetched 113 candles for BAJAJ-AUTO.NS
+2026-01-08 12:21:07 | INFO     | Fetching historical data for BAJAJ-AUTO.NS (period=1d, interval=5m)
+2026-01-08 12:21:07 | INFO     | Fetched 38 candles for BAJAJ-AUTO.NS
+2026-01-08 12:21:07 | INFO     | BAJAJ-AUTO.NS: HOLD - Multi-timeframe misalignment: Timeframe misalignment
+2026-01-08 12:29:25 | INFO     | Starting NSE Trading Engine (Root Mode)...
+2026-01-08 12:29:27 | INFO     | GUI Started Successfully.
+2026-01-08 12:29:44 | INFO     | Fetching historical data for RELIANCE.NS (period=1mo, interval=1d)
+2026-01-08 12:29:46 | INFO     | Fetched 23 candles for RELIANCE.NS
+2026-01-08 12:29:46 | INFO     | Fetching historical data for TCS.NS (period=1mo, interval=1d)
+2026-01-08 12:29:46 | INFO     | Fetched 23 candles for TCS.NS
+2026-01-08 12:29:46 | INFO     | Fetching historical data for INFY.NS (period=1mo, interval=1d)
+2026-01-08 12:29:46 | INFO     | Fetched 23 candles for INFY.NS
+2026-01-08 12:29:46 | INFO     | Fetching historical data for ICICIBANK.NS (period=1mo, interval=1d)
+2026-01-08 12:29:47 | INFO     | Fetched 23 candles for ICICIBANK.NS
+2026-01-08 12:29:51 | INFO     | Fetching historical data for RELIANCE.NS (period=1mo, interval=1d)
+2026-01-08 12:29:51 | INFO     | Fetched 23 candles for RELIANCE.NS
+2026-01-08 12:29:52 | INFO     | Fetching historical data for TCS.NS (period=1mo, interval=1d)
+2026-01-08 12:29:52 | INFO     | Fetched 23 candles for TCS.NS
+2026-01-08 12:29:52 | INFO     | Fetching historical data for HDFCBANK.NS (period=1mo, interval=1d)
+2026-01-08 12:29:52 | INFO     | Fetched 23 candles for HDFCBANK.NS
+2026-01-08 12:29:53 | INFO     | Fetching historical data for ICICIBANK.NS (period=1mo, interval=1d)
+2026-01-08 12:29:53 | INFO     | Fetched 23 candles for ICICIBANK.NS
+2026-01-08 12:29:53 | INFO     | Fetching historical data for HINDUNILVR.NS (period=1mo, interval=1d)
+2026-01-08 12:29:53 | INFO     | Fetched 23 candles for HINDUNILVR.NS
+2026-01-08 12:29:54 | INFO     | Fetching historical data for SBIN.NS (period=1mo, interval=1d)
+2026-01-08 12:29:54 | INFO     | Fetched 23 candles for SBIN.NS
+2026-01-08 12:29:54 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1mo, interval=1d)
+2026-01-08 12:29:54 | INFO     | Fetched 23 candles for BHARTIARTL.NS
+2026-01-08 12:29:54 | INFO     | Fetching historical data for ITC.NS (period=1mo, interval=1d)
+2026-01-08 12:29:55 | INFO     | Fetched 23 candles for ITC.NS
+2026-01-08 12:29:55 | INFO     | Fetching historical data for KOTAKBANK.NS (period=1mo, interval=1d)
+2026-01-08 12:29:55 | INFO     | Fetched 23 candles for KOTAKBANK.NS
+2026-01-08 12:34:11 | INFO     | Starting NSE Trading Engine (Root Mode)...
+2026-01-08 12:34:13 | INFO     | GUI Started Successfully.
+2026-01-08 12:35:53 | INFO     | Fetching historical data for RELIANCE.NS (period=1mo, interval=1d)
+2026-01-08 12:35:55 | INFO     | Fetched 23 candles for RELIANCE.NS
+2026-01-08 12:35:55 | INFO     | Fetching historical data for TCS.NS (period=1mo, interval=1d)
+2026-01-08 12:35:55 | INFO     | Fetched 23 candles for TCS.NS
+2026-01-08 12:35:55 | INFO     | Fetching historical data for HDFCBANK.NS (period=1mo, interval=1d)
+2026-01-08 12:35:55 | INFO     | Fetched 23 candles for HDFCBANK.NS
+2026-01-08 12:35:55 | INFO     | Fetching historical data for HDFCBANK.NS (period=1mo, interval=1d)
+2026-01-08 12:35:56 | INFO     | Fetched 23 candles for HDFCBANK.NS
+2026-01-08 12:35:56 | INFO     | Fetching historical data for INFY.NS (period=1mo, interval=1d)
+2026-01-08 12:35:56 | INFO     | Fetched 23 candles for INFY.NS
+2026-01-08 12:36:02 | INFO     | Fetching historical data for TCS.NS (period=1mo, interval=1d)
+2026-01-08 12:36:02 | INFO     | Fetched 23 candles for TCS.NS
+2026-01-08 12:36:03 | INFO     | Fetching historical data for RELIANCE.NS (period=1mo, interval=1d)
+2026-01-08 12:36:03 | INFO     | Fetched 23 candles for RELIANCE.NS
+2026-01-08 12:36:05 | INFO     | Fetching historical data for HINDUNILVR.NS (period=1mo, interval=1d)
+2026-01-08 12:36:05 | INFO     | Fetched 23 candles for HINDUNILVR.NS
+2026-01-08 12:36:05 | INFO     | Fetching historical data for SBIN.NS (period=1mo, interval=1d)
+2026-01-08 12:36:05 | INFO     | Fetched 23 candles for SBIN.NS
+2026-01-08 12:36:05 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1mo, interval=1d)
+2026-01-08 12:36:05 | INFO     | Fetched 23 candles for BHARTIARTL.NS
+2026-01-08 12:51:54 | INFO     | Starting NSE Trading Engine (Root Mode)...
+2026-01-08 12:51:54 | INFO     | Loaded 480 NSE symbols for scanning.
+2026-01-08 12:51:57 | INFO     | GUI Started Successfully.
+2026-01-08 12:55:30 | INFO     | Added position: LONG 10 x TRIDENT.NS @ ₹27.50
+2026-01-08 12:55:39 | INFO     | Fetching historical data for RELIANCE.NS (period=1mo, interval=1d)
+2026-01-08 12:55:40 | INFO     | Fetched 23 candles for RELIANCE.NS
+2026-01-08 13:00:48 | INFO     | Starting NSE Trading Engine (Root Mode)...
+2026-01-08 13:00:50 | INFO     | Loaded 671 NSE symbols for scanning.
+2026-01-08 13:00:53 | INFO     | GUI Started Successfully.
+2026-01-08 13:07:26 | INFO     | Starting NSE Trading Engine (Root Mode)...
+2026-01-08 13:07:26 | INFO     | Loaded 671 NSE symbols for scanning.
+2026-01-08 13:07:30 | INFO     | GUI Started Successfully.
+2026-01-08 13:16:03 | INFO     | Starting NSE Trading Engine (Root Mode)...
+2026-01-08 13:16:05 | INFO     | Loaded 2081 NSE symbols for scanning.
+2026-01-08 13:16:06 | INFO     | GUI Started Successfully.
+2026-01-08 13:20:05 | INFO     | Fetching historical data for PW.NS (period=1mo, interval=1d)
+2026-01-08 13:20:08 | WARNING  | No data returned for PW.NS
+2026-01-08 13:20:42 | INFO     | Fetching historical data for PWL.NS (period=1mo, interval=1d)
+2026-01-08 13:20:43 | INFO     | Fetched 23 candles for PWL.NS
+2026-01-08 13:23:27 | INFO     | Starting NSE Trading Engine (Root Mode)...
+2026-01-08 13:23:27 | INFO     | Loaded 2081 NSE symbols for scanning.
+2026-01-08 13:23:31 | INFO     | GUI Started Successfully.
+2026-01-08 13:24:01 | INFO     | Starting NSE Trading Engine (Root Mode)...
+2026-01-08 13:24:01 | INFO     | Loaded 2081 NSE symbols for scanning.
+2026-01-08 13:24:04 | INFO     | GUI Started Successfully.
+2026-01-08 13:27:28 | INFO     | Starting NSE Trading Engine (Root Mode)...
+2026-01-08 13:27:28 | INFO     | Loaded 2081 NSE symbols for scanning.
+2026-01-08 13:27:30 | ERROR    | Fatal Error: 'TradingEngineGUI' object has no attribute '_refresh_prices'
+2026-01-08 13:29:12 | INFO     | Starting NSE Trading Engine (Root Mode)...
+2026-01-08 13:29:12 | INFO     | Loaded 2081 NSE symbols for scanning.
+2026-01-08 13:29:14 | INFO     | GUI Started Successfully.
+2026-01-08 13:31:09 | INFO     | Starting NSE Trading Engine (Root Mode)...
+2026-01-08 13:31:09 | INFO     | Loaded 2081 NSE symbols for scanning.
+2026-01-08 13:31:11 | INFO     | GUI Started Successfully.
+2026-01-08 13:52:11 | INFO     | Starting NSE Trading Engine (Root Mode)...
+2026-01-08 13:52:11 | INFO     | Loaded 2081 NSE symbols for scanning.
+2026-01-08 13:52:13 | INFO     | GUI Started Successfully.
+2026-01-08 14:07:12 | INFO     | Starting NSE Trading Engine (Root Mode)...
+2026-01-08 14:07:12 | INFO     | Loaded 2081 NSE symbols for scanning.
+2026-01-08 14:07:14 | ERROR    | Fatal Error: name 'QCheckBox' is not defined
+2026-01-08 14:08:14 | INFO     | Starting NSE Trading Engine (Root Mode)...
+2026-01-08 14:08:14 | INFO     | Loaded 2081 NSE symbols for scanning.
+2026-01-08 14:08:15 | INFO     | GUI Started Successfully.
+2026-01-08 14:10:07 | INFO     | Starting NSE Trading Engine (Root Mode)...
+2026-01-08 14:10:07 | INFO     | Loaded 2081 NSE symbols for scanning.
+2026-01-08 14:10:10 | INFO     | GUI Started Successfully.

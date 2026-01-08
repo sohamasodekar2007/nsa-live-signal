@@ -1,0 +1,67 @@
+# NSE Trading Engine Configuration
+
+# Data Sources
+data:
+  primary_source: "yfinance"
+  fallback_source: "nsepy"
+  nse_suffix: ".NS"  # For yfinance NSE tickers
+  update_interval_minutes: 1
+  historical_lookback_days: 365
+  
+# Database
+database:
+  path: "data_storage/trading_engine.db"
+  echo: false  # Set to true for SQL debugging
+
+# Risk Management
+risk:
+  max_capital_per_trade_percent: 10.0  # % of total capital
+  max_daily_loss_percent: 3.0  # % of total capital
+  max_open_positions: 8
+  position_sizing_method: "atr"  # atr or fixed
+  risk_per_trade_percent: 1.5  # For ATR-based sizing
+  max_trades_per_stock_per_day: 3
+
+# Signal Generation
+signals:
+  min_confidence_percent: 60.0
+  min_risk_reward_ratio: 1.5
+  short_term_timeframes: ["1m", "5m", "15m"]
+  long_term_timeframes: ["1d"]
+  
+# Cooldown Periods (in minutes)
+cooldown:
+  intraday: 60  # 1 hour
+  swing: 1440  # 1 day
+
+# Portfolio
+portfolio:
+  initial_capital: 100000.0  # Default starting capital
+  currency: "INR"
+
+# Logging
+logging:
+  level: "INFO"  # DEBUG, INFO, WARNING, ERROR
+  log_dir: "logs"
+  max_file_size_mb: 10
+  backup_count: 5
+
+# GUI
+gui:
+  refresh_interval_seconds: 60
+  theme: "dark"
+  enable_notifications: true
+  chart_candles_displayed: 100
+
+# Default Watchlist
+watchlist:
+  - "RELIANCE.NS"
+  - "TCS.NS"
+  - "INFY.NS"
+  - "HDFCBANK.NS"
+  - "ICICIBANK.NS"
+  - "SBIN.NS"
+  - "BHARTIARTL.NS"
+  - "ITC.NS"
+  - "KOTAKBANK.NS"
+  - "LT.NS"

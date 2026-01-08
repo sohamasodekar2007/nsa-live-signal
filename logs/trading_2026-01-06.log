@@ -1,0 +1,1050 @@
+2026-01-06 13:32:45 | INFO     | Trading Engine GUI initialized
+2026-01-06 13:33:10 | INFO     | Fetching historical data for RELIANCE.NS (period=1y, interval=1d)
+2026-01-06 13:33:13 | INFO     | Fetched 249 candles for RELIANCE.NS
+2026-01-06 13:33:13 | INFO     | RELIANCE.NS: Rejected - Low confidence (42.1%)
+2026-01-06 13:33:13 | INFO     | Fetching historical data for TCS.NS (period=1y, interval=1d)
+2026-01-06 13:33:14 | INFO     | Fetched 249 candles for TCS.NS
+2026-01-06 13:33:14 | INFO     | TCS.NS: Rejected - Low confidence (55.0%)
+2026-01-06 13:33:14 | INFO     | Fetching historical data for INFY.NS (period=1y, interval=1d)
+2026-01-06 13:33:15 | INFO     | Fetched 249 candles for INFY.NS
+2026-01-06 13:33:15 | INFO     | Fetching historical data for HDFCBANK.NS (period=1y, interval=1d)
+2026-01-06 13:33:16 | INFO     | Fetched 249 candles for HDFCBANK.NS
+2026-01-06 13:33:16 | INFO     | HDFCBANK.NS: Rejected - Low confidence (39.2%)
+2026-01-06 13:33:16 | INFO     | Fetching historical data for ICICIBANK.NS (period=1y, interval=1d)
+2026-01-06 13:33:17 | INFO     | Fetched 249 candles for ICICIBANK.NS
+2026-01-06 13:33:17 | INFO     | 
+================================================================================
+2026-01-06 13:33:17 | INFO     | SIGNAL GENERATED: ICICIBANK.NS
+2026-01-06 13:33:17 | INFO     | ================================================================================
+2026-01-06 13:33:17 | INFO     | Type: BUY | Confidence: 63.8% | Regime: TREND
+2026-01-06 13:33:17 | INFO     | Entry: ₹1408.50 | Stop Loss: ₹1382.09
+2026-01-06 13:33:17 | INFO     | Targets: T1: ₹1443.71 | T2: ₹1461.32
+2026-01-06 13:33:17 | INFO     | Risk-Reward: 2.00
+2026-01-06 13:33:17 | INFO     | 
+Indicator Values:
+2026-01-06 13:33:17 | INFO     |   • trend: {'type': 'BULLISH', 'strength': 50, 'price_vs_vwap': 'NEUTRAL'}
+2026-01-06 13:33:17 | INFO     |   • momentum: {'rsi': 65.52226242681584, 'macd_signal': 'BULLISH', 'score': 60}
+2026-01-06 13:33:17 | INFO     |   • volatility: {'atr': 17.607142857142858, 'regime': 'LOW_VOLATILITY', 'bb_position': 'ABOVE_UPPER'}
+2026-01-06 13:33:17 | INFO     |   • structure: {'pattern': 'BULLISH_TREND', 'breakout': True}
+2026-01-06 13:33:17 | INFO     |   • confluence: {'score': 73.8, 'agreement': 75.0}
+2026-01-06 13:33:17 | INFO     | 
+Reasoning: Regime: TREND | Confluence: BULLISH (MODERATE) | Trend: BULLISH | Breakout: BULLISH
+2026-01-06 13:33:17 | INFO     | ================================================================================
+
+2026-01-06 13:33:17 | INFO     | Fetching historical data for SBIN.NS (period=1y, interval=1d)
+2026-01-06 13:33:18 | INFO     | Fetched 249 candles for SBIN.NS
+2026-01-06 13:33:18 | INFO     | SBIN.NS: Rejected - Low confidence (54.8%)
+2026-01-06 13:33:18 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1y, interval=1d)
+2026-01-06 13:33:18 | INFO     | Fetched 249 candles for BHARTIARTL.NS
+2026-01-06 13:33:19 | INFO     | BHARTIARTL.NS: Rejected - Low confidence (52.8%)
+2026-01-06 13:33:19 | INFO     | Fetching historical data for ITC.NS (period=1y, interval=1d)
+2026-01-06 13:33:19 | INFO     | Fetched 250 candles for ITC.NS
+2026-01-06 13:33:20 | INFO     | ITC.NS: Rejected - Low confidence (56.9%)
+2026-01-06 13:33:20 | INFO     | Fetching historical data for KOTAKBANK.NS (period=1y, interval=1d)
+2026-01-06 13:33:20 | INFO     | Fetched 249 candles for KOTAKBANK.NS
+2026-01-06 13:33:21 | INFO     | KOTAKBANK.NS: Rejected - Low confidence (46.3%)
+2026-01-06 13:33:21 | INFO     | Fetching historical data for LT.NS (period=1y, interval=1d)
+2026-01-06 13:33:21 | INFO     | Fetched 249 candles for LT.NS
+2026-01-06 13:33:22 | INFO     | LT.NS: Rejected - Low confidence (55.3%)
+2026-01-06 13:33:27 | INFO     | Fetching historical data for RELIANCE.NS (period=1y, interval=1d)
+2026-01-06 13:33:27 | INFO     | Fetched 249 candles for RELIANCE.NS
+2026-01-06 13:33:28 | INFO     | RELIANCE.NS: Rejected - Low confidence (42.1%)
+2026-01-06 13:33:28 | INFO     | Fetching historical data for TCS.NS (period=1y, interval=1d)
+2026-01-06 13:33:28 | INFO     | Fetched 249 candles for TCS.NS
+2026-01-06 13:33:28 | INFO     | TCS.NS: Rejected - Low confidence (55.0%)
+2026-01-06 13:33:28 | INFO     | Fetching historical data for INFY.NS (period=1y, interval=1d)
+2026-01-06 13:33:28 | INFO     | Fetched 249 candles for INFY.NS
+2026-01-06 13:33:29 | INFO     | Fetching historical data for HDFCBANK.NS (period=1y, interval=1d)
+2026-01-06 13:33:29 | INFO     | Fetched 249 candles for HDFCBANK.NS
+2026-01-06 13:33:29 | INFO     | HDFCBANK.NS: Rejected - Low confidence (39.2%)
+2026-01-06 13:33:29 | INFO     | Fetching historical data for ICICIBANK.NS (period=1y, interval=1d)
+2026-01-06 13:33:29 | INFO     | Fetched 249 candles for ICICIBANK.NS
+2026-01-06 13:33:30 | INFO     | Fetching historical data for SBIN.NS (period=1y, interval=1d)
+2026-01-06 13:33:30 | INFO     | Fetched 249 candles for SBIN.NS
+2026-01-06 13:33:30 | INFO     | SBIN.NS: Rejected - Low confidence (54.8%)
+2026-01-06 13:33:30 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1y, interval=1d)
+2026-01-06 13:33:30 | INFO     | Fetched 249 candles for BHARTIARTL.NS
+2026-01-06 13:33:31 | INFO     | BHARTIARTL.NS: Rejected - Low confidence (52.8%)
+2026-01-06 13:33:31 | INFO     | Fetching historical data for ITC.NS (period=1y, interval=1d)
+2026-01-06 13:33:31 | INFO     | Fetched 250 candles for ITC.NS
+2026-01-06 13:33:31 | INFO     | ITC.NS: Rejected - Low confidence (56.9%)
+2026-01-06 13:33:31 | INFO     | Fetching historical data for KOTAKBANK.NS (period=1y, interval=1d)
+2026-01-06 13:33:31 | INFO     | Fetched 249 candles for KOTAKBANK.NS
+2026-01-06 13:33:32 | INFO     | KOTAKBANK.NS: Rejected - Low confidence (46.3%)
+2026-01-06 13:33:32 | INFO     | Fetching historical data for LT.NS (period=1y, interval=1d)
+2026-01-06 13:33:32 | INFO     | Fetched 249 candles for LT.NS
+2026-01-06 13:33:32 | INFO     | LT.NS: Rejected - Low confidence (55.3%)
+2026-01-06 13:33:45 | INFO     | Fetching historical data for RELIANCE.NS (period=1y, interval=1d)
+2026-01-06 13:33:45 | INFO     | Fetched 249 candles for RELIANCE.NS
+2026-01-06 13:33:46 | INFO     | RELIANCE.NS: Rejected - Low confidence (42.1%)
+2026-01-06 13:33:46 | INFO     | Fetching historical data for TCS.NS (period=1y, interval=1d)
+2026-01-06 13:33:46 | INFO     | Fetched 249 candles for TCS.NS
+2026-01-06 13:33:46 | INFO     | TCS.NS: Rejected - Low confidence (55.0%)
+2026-01-06 13:33:46 | INFO     | Fetching historical data for INFY.NS (period=1y, interval=1d)
+2026-01-06 13:33:46 | INFO     | Fetched 249 candles for INFY.NS
+2026-01-06 13:33:47 | INFO     | Fetching historical data for HDFCBANK.NS (period=1y, interval=1d)
+2026-01-06 13:33:47 | INFO     | Fetched 249 candles for HDFCBANK.NS
+2026-01-06 13:33:47 | INFO     | HDFCBANK.NS: Rejected - Low confidence (39.2%)
+2026-01-06 13:33:47 | INFO     | Fetching historical data for ICICIBANK.NS (period=1y, interval=1d)
+2026-01-06 13:33:48 | INFO     | Fetched 249 candles for ICICIBANK.NS
+2026-01-06 13:33:48 | INFO     | Fetching historical data for SBIN.NS (period=1y, interval=1d)
+2026-01-06 13:33:48 | INFO     | Fetched 249 candles for SBIN.NS
+2026-01-06 13:33:48 | INFO     | SBIN.NS: Rejected - Low confidence (54.8%)
+2026-01-06 13:33:48 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1y, interval=1d)
+2026-01-06 13:33:48 | INFO     | Fetched 249 candles for BHARTIARTL.NS
+2026-01-06 13:33:49 | INFO     | BHARTIARTL.NS: Rejected - Low confidence (52.8%)
+2026-01-06 13:33:49 | INFO     | Fetching historical data for ITC.NS (period=1y, interval=1d)
+2026-01-06 13:33:49 | INFO     | Fetched 250 candles for ITC.NS
+2026-01-06 13:33:49 | INFO     | ITC.NS: Rejected - Low confidence (56.9%)
+2026-01-06 13:33:49 | INFO     | Fetching historical data for KOTAKBANK.NS (period=1y, interval=1d)
+2026-01-06 13:33:49 | INFO     | Fetched 249 candles for KOTAKBANK.NS
+2026-01-06 13:33:50 | INFO     | KOTAKBANK.NS: Rejected - Low confidence (46.3%)
+2026-01-06 13:33:50 | INFO     | Fetching historical data for LT.NS (period=1y, interval=1d)
+2026-01-06 13:33:50 | INFO     | Fetched 249 candles for LT.NS
+2026-01-06 13:33:50 | INFO     | LT.NS: Rejected - Low confidence (55.3%)
+2026-01-06 13:34:09 | INFO     | Fetching historical data for RELIANCE.NS (period=1y, interval=1d)
+2026-01-06 13:34:10 | INFO     | Fetched 249 candles for RELIANCE.NS
+2026-01-06 13:34:10 | INFO     | RELIANCE.NS: Rejected - Low confidence (42.1%)
+2026-01-06 13:34:10 | INFO     | Fetching historical data for TCS.NS (period=1y, interval=1d)
+2026-01-06 13:34:10 | INFO     | Fetched 249 candles for TCS.NS
+2026-01-06 13:34:11 | INFO     | TCS.NS: Rejected - Low confidence (55.0%)
+2026-01-06 13:34:11 | INFO     | Fetching historical data for INFY.NS (period=1y, interval=1d)
+2026-01-06 13:34:11 | INFO     | Fetched 249 candles for INFY.NS
+2026-01-06 13:34:11 | INFO     | Fetching historical data for HDFCBANK.NS (period=1y, interval=1d)
+2026-01-06 13:34:11 | INFO     | Fetched 249 candles for HDFCBANK.NS
+2026-01-06 13:34:12 | INFO     | HDFCBANK.NS: Rejected - Low confidence (39.2%)
+2026-01-06 13:34:12 | INFO     | Fetching historical data for ICICIBANK.NS (period=1y, interval=1d)
+2026-01-06 13:34:12 | INFO     | Fetched 249 candles for ICICIBANK.NS
+2026-01-06 13:34:12 | INFO     | Fetching historical data for SBIN.NS (period=1y, interval=1d)
+2026-01-06 13:34:12 | INFO     | Fetched 249 candles for SBIN.NS
+2026-01-06 13:34:13 | INFO     | SBIN.NS: Rejected - Low confidence (54.8%)
+2026-01-06 13:34:13 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1y, interval=1d)
+2026-01-06 13:34:13 | INFO     | Fetched 249 candles for BHARTIARTL.NS
+2026-01-06 13:34:13 | INFO     | BHARTIARTL.NS: Rejected - Low confidence (52.8%)
+2026-01-06 13:34:13 | INFO     | Fetching historical data for ITC.NS (period=1y, interval=1d)
+2026-01-06 13:34:14 | INFO     | Fetched 250 candles for ITC.NS
+2026-01-06 13:34:14 | INFO     | ITC.NS: Rejected - Low confidence (56.9%)
+2026-01-06 13:34:14 | INFO     | Fetching historical data for KOTAKBANK.NS (period=1y, interval=1d)
+2026-01-06 13:34:14 | INFO     | Fetched 249 candles for KOTAKBANK.NS
+2026-01-06 13:34:14 | INFO     | KOTAKBANK.NS: Rejected - Low confidence (46.3%)
+2026-01-06 13:34:14 | INFO     | Fetching historical data for LT.NS (period=1y, interval=1d)
+2026-01-06 13:34:15 | INFO     | Fetched 249 candles for LT.NS
+2026-01-06 13:34:15 | INFO     | LT.NS: Rejected - Low confidence (55.3%)
+2026-01-06 13:34:18 | INFO     | Fetching historical data for RELIANCE.NS (period=1y, interval=1d)
+2026-01-06 13:34:18 | INFO     | Fetched 249 candles for RELIANCE.NS
+2026-01-06 13:34:19 | INFO     | RELIANCE.NS: Rejected - Low confidence (42.1%)
+2026-01-06 13:34:19 | INFO     | Fetching historical data for TCS.NS (period=1y, interval=1d)
+2026-01-06 13:34:19 | INFO     | Fetched 249 candles for TCS.NS
+2026-01-06 13:34:19 | INFO     | TCS.NS: Rejected - Low confidence (55.0%)
+2026-01-06 13:34:19 | INFO     | Fetching historical data for INFY.NS (period=1y, interval=1d)
+2026-01-06 13:34:19 | INFO     | Fetched 249 candles for INFY.NS
+2026-01-06 13:34:20 | INFO     | Fetching historical data for HDFCBANK.NS (period=1y, interval=1d)
+2026-01-06 13:34:20 | INFO     | Fetched 249 candles for HDFCBANK.NS
+2026-01-06 13:34:20 | INFO     | HDFCBANK.NS: Rejected - Low confidence (39.2%)
+2026-01-06 13:34:20 | INFO     | Fetching historical data for ICICIBANK.NS (period=1y, interval=1d)
+2026-01-06 13:34:20 | INFO     | Fetched 249 candles for ICICIBANK.NS
+2026-01-06 13:34:20 | INFO     | Fetching historical data for SBIN.NS (period=1y, interval=1d)
+2026-01-06 13:34:20 | INFO     | Fetched 249 candles for SBIN.NS
+2026-01-06 13:34:20 | INFO     | SBIN.NS: Rejected - Low confidence (54.8%)
+2026-01-06 13:34:20 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1y, interval=1d)
+2026-01-06 13:34:21 | INFO     | Fetched 249 candles for BHARTIARTL.NS
+2026-01-06 13:34:21 | INFO     | BHARTIARTL.NS: Rejected - Low confidence (52.8%)
+2026-01-06 13:34:21 | INFO     | Fetching historical data for ITC.NS (period=1y, interval=1d)
+2026-01-06 13:34:21 | INFO     | Fetched 250 candles for ITC.NS
+2026-01-06 13:34:21 | INFO     | ITC.NS: Rejected - Low confidence (56.9%)
+2026-01-06 13:34:21 | INFO     | Fetching historical data for KOTAKBANK.NS (period=1y, interval=1d)
+2026-01-06 13:34:21 | INFO     | Fetched 249 candles for KOTAKBANK.NS
+2026-01-06 13:34:22 | INFO     | KOTAKBANK.NS: Rejected - Low confidence (46.3%)
+2026-01-06 13:34:22 | INFO     | Fetching historical data for LT.NS (period=1y, interval=1d)
+2026-01-06 13:34:22 | INFO     | Fetched 249 candles for LT.NS
+2026-01-06 13:34:22 | INFO     | LT.NS: Rejected - Low confidence (55.3%)
+2026-01-06 13:34:26 | INFO     | Fetching historical data for RELIANCE.NS (period=1y, interval=1d)
+2026-01-06 13:34:26 | INFO     | Fetched 249 candles for RELIANCE.NS
+2026-01-06 13:34:26 | INFO     | RELIANCE.NS: Rejected - Low confidence (42.1%)
+2026-01-06 13:34:26 | INFO     | Fetching historical data for TCS.NS (period=1y, interval=1d)
+2026-01-06 13:34:26 | INFO     | Fetched 249 candles for TCS.NS
+2026-01-06 13:34:27 | INFO     | TCS.NS: Rejected - Low confidence (55.0%)
+2026-01-06 13:34:27 | INFO     | Fetching historical data for INFY.NS (period=1y, interval=1d)
+2026-01-06 13:34:27 | INFO     | Fetched 249 candles for INFY.NS
+2026-01-06 13:34:27 | INFO     | Fetching historical data for HDFCBANK.NS (period=1y, interval=1d)
+2026-01-06 13:34:28 | INFO     | Fetched 249 candles for HDFCBANK.NS
+2026-01-06 13:34:28 | INFO     | HDFCBANK.NS: Rejected - Low confidence (39.2%)
+2026-01-06 13:34:28 | INFO     | Fetching historical data for ICICIBANK.NS (period=1y, interval=1d)
+2026-01-06 13:34:29 | INFO     | Fetched 249 candles for ICICIBANK.NS
+2026-01-06 13:34:29 | INFO     | Fetching historical data for SBIN.NS (period=1y, interval=1d)
+2026-01-06 13:34:29 | INFO     | Fetched 249 candles for SBIN.NS
+2026-01-06 13:34:29 | INFO     | SBIN.NS: Rejected - Low confidence (54.8%)
+2026-01-06 13:34:29 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1y, interval=1d)
+2026-01-06 13:34:30 | INFO     | Fetched 249 candles for BHARTIARTL.NS
+2026-01-06 13:34:30 | INFO     | BHARTIARTL.NS: Rejected - Low confidence (52.8%)
+2026-01-06 13:34:30 | INFO     | Fetching historical data for ITC.NS (period=1y, interval=1d)
+2026-01-06 13:34:30 | INFO     | Fetched 250 candles for ITC.NS
+2026-01-06 13:34:31 | INFO     | ITC.NS: Rejected - Low confidence (56.9%)
+2026-01-06 13:34:31 | INFO     | Fetching historical data for KOTAKBANK.NS (period=1y, interval=1d)
+2026-01-06 13:34:31 | INFO     | Fetched 249 candles for KOTAKBANK.NS
+2026-01-06 13:34:31 | INFO     | KOTAKBANK.NS: Rejected - Low confidence (46.3%)
+2026-01-06 13:34:31 | INFO     | Fetching historical data for LT.NS (period=1y, interval=1d)
+2026-01-06 13:34:32 | INFO     | Fetched 249 candles for LT.NS
+2026-01-06 13:34:32 | INFO     | LT.NS: Rejected - Low confidence (55.3%)
+2026-01-06 13:34:36 | INFO     | Fetching historical data for RELIANCE.NS (period=1y, interval=1d)
+2026-01-06 13:34:37 | INFO     | Fetched 249 candles for RELIANCE.NS
+2026-01-06 13:34:37 | INFO     | RELIANCE.NS: Rejected - Low confidence (42.1%)
+2026-01-06 13:34:37 | INFO     | Fetching historical data for TCS.NS (period=1y, interval=1d)
+2026-01-06 13:34:37 | INFO     | Fetched 249 candles for TCS.NS
+2026-01-06 13:34:38 | INFO     | TCS.NS: Rejected - Low confidence (55.0%)
+2026-01-06 13:34:38 | INFO     | Fetching historical data for INFY.NS (period=1y, interval=1d)
+2026-01-06 13:34:38 | INFO     | Fetched 249 candles for INFY.NS
+2026-01-06 13:34:38 | INFO     | Fetching historical data for HDFCBANK.NS (period=1y, interval=1d)
+2026-01-06 13:34:39 | INFO     | Fetched 249 candles for HDFCBANK.NS
+2026-01-06 13:34:39 | INFO     | HDFCBANK.NS: Rejected - Low confidence (39.2%)
+2026-01-06 13:34:39 | INFO     | Fetching historical data for ICICIBANK.NS (period=1y, interval=1d)
+2026-01-06 13:34:40 | INFO     | Fetched 249 candles for ICICIBANK.NS
+2026-01-06 13:34:40 | INFO     | Fetching historical data for SBIN.NS (period=1y, interval=1d)
+2026-01-06 13:34:40 | INFO     | Fetched 249 candles for SBIN.NS
+2026-01-06 13:34:40 | INFO     | SBIN.NS: Rejected - Low confidence (54.8%)
+2026-01-06 13:34:40 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1y, interval=1d)
+2026-01-06 13:34:40 | INFO     | Fetched 249 candles for BHARTIARTL.NS
+2026-01-06 13:34:41 | INFO     | BHARTIARTL.NS: Rejected - Low confidence (52.8%)
+2026-01-06 13:34:41 | INFO     | Fetching historical data for ITC.NS (period=1y, interval=1d)
+2026-01-06 13:34:41 | INFO     | Fetched 250 candles for ITC.NS
+2026-01-06 13:34:42 | INFO     | ITC.NS: Rejected - Low confidence (56.9%)
+2026-01-06 13:34:42 | INFO     | Fetching historical data for KOTAKBANK.NS (period=1y, interval=1d)
+2026-01-06 13:34:42 | INFO     | Fetched 249 candles for KOTAKBANK.NS
+2026-01-06 13:34:42 | INFO     | KOTAKBANK.NS: Rejected - Low confidence (50.0%)
+2026-01-06 13:34:42 | INFO     | Fetching historical data for LT.NS (period=1y, interval=1d)
+2026-01-06 13:34:43 | INFO     | Fetched 249 candles for LT.NS
+2026-01-06 13:34:43 | INFO     | LT.NS: Rejected - Low confidence (55.3%)
+2026-01-06 13:34:47 | INFO     | Fetching historical data for RELIANCE.NS (period=1y, interval=1d)
+2026-01-06 13:34:47 | INFO     | Fetched 249 candles for RELIANCE.NS
+2026-01-06 13:34:47 | INFO     | RELIANCE.NS: Rejected - Low confidence (42.1%)
+2026-01-06 13:34:47 | INFO     | Fetching historical data for TCS.NS (period=1y, interval=1d)
+2026-01-06 13:34:47 | INFO     | Fetched 249 candles for TCS.NS
+2026-01-06 13:34:48 | INFO     | TCS.NS: Rejected - Low confidence (55.0%)
+2026-01-06 13:34:48 | INFO     | Fetching historical data for INFY.NS (period=1y, interval=1d)
+2026-01-06 13:34:48 | INFO     | Fetched 249 candles for INFY.NS
+2026-01-06 13:34:48 | INFO     | Fetching historical data for HDFCBANK.NS (period=1y, interval=1d)
+2026-01-06 13:34:48 | INFO     | Fetched 249 candles for HDFCBANK.NS
+2026-01-06 13:34:49 | INFO     | HDFCBANK.NS: Rejected - Low confidence (39.2%)
+2026-01-06 13:34:49 | INFO     | Fetching historical data for ICICIBANK.NS (period=1y, interval=1d)
+2026-01-06 13:34:49 | INFO     | Fetched 249 candles for ICICIBANK.NS
+2026-01-06 13:34:49 | INFO     | Fetching historical data for SBIN.NS (period=1y, interval=1d)
+2026-01-06 13:34:49 | INFO     | Fetched 249 candles for SBIN.NS
+2026-01-06 13:34:49 | INFO     | SBIN.NS: Rejected - Low confidence (54.8%)
+2026-01-06 13:34:49 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1y, interval=1d)
+2026-01-06 13:34:49 | INFO     | Fetched 249 candles for BHARTIARTL.NS
+2026-01-06 13:34:50 | INFO     | BHARTIARTL.NS: Rejected - Low confidence (52.8%)
+2026-01-06 13:34:50 | INFO     | Fetching historical data for ITC.NS (period=1y, interval=1d)
+2026-01-06 13:34:50 | INFO     | Fetched 250 candles for ITC.NS
+2026-01-06 13:34:50 | INFO     | ITC.NS: Rejected - Low confidence (56.9%)
+2026-01-06 13:34:50 | INFO     | Fetching historical data for KOTAKBANK.NS (period=1y, interval=1d)
+2026-01-06 13:34:50 | INFO     | Fetched 249 candles for KOTAKBANK.NS
+2026-01-06 13:34:51 | INFO     | KOTAKBANK.NS: Rejected - Low confidence (50.0%)
+2026-01-06 13:34:51 | INFO     | Fetching historical data for LT.NS (period=1y, interval=1d)
+2026-01-06 13:34:51 | INFO     | Fetched 249 candles for LT.NS
+2026-01-06 13:34:51 | INFO     | LT.NS: Rejected - Low confidence (55.3%)
+2026-01-06 13:35:12 | INFO     | Fetching historical data for RELIANCE.NS (period=1y, interval=1d)
+2026-01-06 13:35:12 | INFO     | Fetched 249 candles for RELIANCE.NS
+2026-01-06 13:35:12 | INFO     | RELIANCE.NS: Rejected - Low confidence (42.1%)
+2026-01-06 13:35:12 | INFO     | Fetching historical data for TCS.NS (period=1y, interval=1d)
+2026-01-06 13:35:12 | INFO     | Fetched 249 candles for TCS.NS
+2026-01-06 13:35:13 | INFO     | TCS.NS: Rejected - Low confidence (55.0%)
+2026-01-06 13:35:13 | INFO     | Fetching historical data for INFY.NS (period=1y, interval=1d)
+2026-01-06 13:35:13 | INFO     | Fetched 249 candles for INFY.NS
+2026-01-06 13:35:13 | INFO     | Fetching historical data for HDFCBANK.NS (period=1y, interval=1d)
+2026-01-06 13:35:14 | INFO     | Fetched 249 candles for HDFCBANK.NS
+2026-01-06 13:35:14 | INFO     | HDFCBANK.NS: Rejected - Low confidence (39.2%)
+2026-01-06 13:35:14 | INFO     | Fetching historical data for ICICIBANK.NS (period=1y, interval=1d)
+2026-01-06 13:35:14 | INFO     | Fetched 249 candles for ICICIBANK.NS
+2026-01-06 13:35:14 | INFO     | Fetching historical data for SBIN.NS (period=1y, interval=1d)
+2026-01-06 13:35:15 | INFO     | Fetched 249 candles for SBIN.NS
+2026-01-06 13:35:15 | INFO     | SBIN.NS: Rejected - Low confidence (54.8%)
+2026-01-06 13:35:15 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1y, interval=1d)
+2026-01-06 13:35:15 | INFO     | Fetched 249 candles for BHARTIARTL.NS
+2026-01-06 13:35:15 | INFO     | BHARTIARTL.NS: Rejected - Low confidence (52.8%)
+2026-01-06 13:35:15 | INFO     | Fetching historical data for ITC.NS (period=1y, interval=1d)
+2026-01-06 13:35:16 | INFO     | Fetched 250 candles for ITC.NS
+2026-01-06 13:35:16 | INFO     | ITC.NS: Rejected - Low confidence (56.9%)
+2026-01-06 13:35:16 | INFO     | Fetching historical data for KOTAKBANK.NS (period=1y, interval=1d)
+2026-01-06 13:35:16 | INFO     | Fetched 249 candles for KOTAKBANK.NS
+2026-01-06 13:35:16 | INFO     | KOTAKBANK.NS: Rejected - Low confidence (50.0%)
+2026-01-06 13:35:16 | INFO     | Fetching historical data for LT.NS (period=1y, interval=1d)
+2026-01-06 13:35:17 | INFO     | Fetched 249 candles for LT.NS
+2026-01-06 13:35:17 | INFO     | LT.NS: Rejected - Low confidence (55.3%)
+2026-01-06 13:35:45 | INFO     | Fetching historical data for RELIANCE.NS (period=1y, interval=1d)
+2026-01-06 13:35:45 | INFO     | Fetched 249 candles for RELIANCE.NS
+2026-01-06 13:35:46 | INFO     | RELIANCE.NS: Rejected - Low confidence (42.1%)
+2026-01-06 13:35:46 | INFO     | Fetching historical data for TCS.NS (period=1y, interval=1d)
+2026-01-06 13:35:46 | INFO     | Fetched 249 candles for TCS.NS
+2026-01-06 13:35:46 | INFO     | TCS.NS: Rejected - Low confidence (55.0%)
+2026-01-06 13:35:46 | INFO     | Fetching historical data for INFY.NS (period=1y, interval=1d)
+2026-01-06 13:35:47 | INFO     | Fetched 249 candles for INFY.NS
+2026-01-06 13:35:47 | INFO     | Fetching historical data for HDFCBANK.NS (period=1y, interval=1d)
+2026-01-06 13:35:47 | INFO     | Fetched 249 candles for HDFCBANK.NS
+2026-01-06 13:35:48 | INFO     | HDFCBANK.NS: Rejected - Low confidence (39.2%)
+2026-01-06 13:35:48 | INFO     | Fetching historical data for ICICIBANK.NS (period=1y, interval=1d)
+2026-01-06 13:35:48 | INFO     | Fetched 249 candles for ICICIBANK.NS
+2026-01-06 13:35:48 | INFO     | Fetching historical data for SBIN.NS (period=1y, interval=1d)
+2026-01-06 13:35:48 | INFO     | Fetched 249 candles for SBIN.NS
+2026-01-06 13:35:48 | INFO     | SBIN.NS: Rejected - Low confidence (54.8%)
+2026-01-06 13:35:48 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1y, interval=1d)
+2026-01-06 13:35:49 | INFO     | Fetched 249 candles for BHARTIARTL.NS
+2026-01-06 13:35:49 | INFO     | BHARTIARTL.NS: Rejected - Low confidence (52.8%)
+2026-01-06 13:35:49 | INFO     | Fetching historical data for ITC.NS (period=1y, interval=1d)
+2026-01-06 13:35:49 | INFO     | Fetched 250 candles for ITC.NS
+2026-01-06 13:35:50 | INFO     | ITC.NS: Rejected - Low confidence (56.9%)
+2026-01-06 13:35:50 | INFO     | Fetching historical data for KOTAKBANK.NS (period=1y, interval=1d)
+2026-01-06 13:35:50 | INFO     | Fetched 249 candles for KOTAKBANK.NS
+2026-01-06 13:35:50 | INFO     | KOTAKBANK.NS: Rejected - Low confidence (50.0%)
+2026-01-06 13:35:50 | INFO     | Fetching historical data for LT.NS (period=1y, interval=1d)
+2026-01-06 13:35:50 | INFO     | Fetched 249 candles for LT.NS
+2026-01-06 13:35:51 | INFO     | LT.NS: Rejected - Low confidence (55.3%)
+2026-01-06 13:36:45 | INFO     | Fetching historical data for RELIANCE.NS (period=1y, interval=1d)
+2026-01-06 13:36:45 | INFO     | Fetched 249 candles for RELIANCE.NS
+2026-01-06 13:36:46 | INFO     | RELIANCE.NS: Rejected - Low confidence (42.1%)
+2026-01-06 13:36:46 | INFO     | Fetching historical data for TCS.NS (period=1y, interval=1d)
+2026-01-06 13:36:46 | INFO     | Fetched 249 candles for TCS.NS
+2026-01-06 13:36:46 | INFO     | TCS.NS: Rejected - Low confidence (55.0%)
+2026-01-06 13:36:46 | INFO     | Fetching historical data for INFY.NS (period=1y, interval=1d)
+2026-01-06 13:36:47 | INFO     | Fetched 249 candles for INFY.NS
+2026-01-06 13:36:47 | INFO     | Fetching historical data for HDFCBANK.NS (period=1y, interval=1d)
+2026-01-06 13:36:47 | INFO     | Fetched 249 candles for HDFCBANK.NS
+2026-01-06 13:36:48 | INFO     | HDFCBANK.NS: Rejected - Low confidence (39.2%)
+2026-01-06 13:36:48 | INFO     | Fetching historical data for ICICIBANK.NS (period=1y, interval=1d)
+2026-01-06 13:36:48 | INFO     | Fetched 249 candles for ICICIBANK.NS
+2026-01-06 13:36:48 | INFO     | Fetching historical data for SBIN.NS (period=1y, interval=1d)
+2026-01-06 13:36:49 | INFO     | Fetched 249 candles for SBIN.NS
+2026-01-06 13:36:49 | INFO     | SBIN.NS: Rejected - Low confidence (54.8%)
+2026-01-06 13:36:49 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1y, interval=1d)
+2026-01-06 13:36:49 | INFO     | Fetched 249 candles for BHARTIARTL.NS
+2026-01-06 13:36:50 | INFO     | BHARTIARTL.NS: Rejected - Low confidence (52.8%)
+2026-01-06 13:36:50 | INFO     | Fetching historical data for ITC.NS (period=1y, interval=1d)
+2026-01-06 13:36:50 | INFO     | Fetched 250 candles for ITC.NS
+2026-01-06 13:36:50 | INFO     | ITC.NS: Rejected - Low confidence (56.9%)
+2026-01-06 13:36:50 | INFO     | Fetching historical data for KOTAKBANK.NS (period=1y, interval=1d)
+2026-01-06 13:36:51 | INFO     | Fetched 249 candles for KOTAKBANK.NS
+2026-01-06 13:36:51 | INFO     | KOTAKBANK.NS: Rejected - Low confidence (50.0%)
+2026-01-06 13:36:51 | INFO     | Fetching historical data for LT.NS (period=1y, interval=1d)
+2026-01-06 13:36:51 | INFO     | Fetched 249 candles for LT.NS
+2026-01-06 13:36:52 | INFO     | LT.NS: Rejected - Low confidence (55.3%)
+2026-01-06 13:37:03 | INFO     | Fetching historical data for RELIANCE.NS (period=1y, interval=1d)
+2026-01-06 13:37:03 | INFO     | Fetched 249 candles for RELIANCE.NS
+2026-01-06 13:37:04 | INFO     | RELIANCE.NS: Rejected - Low confidence (42.1%)
+2026-01-06 13:37:04 | INFO     | Fetching historical data for TCS.NS (period=1y, interval=1d)
+2026-01-06 13:37:04 | INFO     | Fetched 249 candles for TCS.NS
+2026-01-06 13:37:04 | INFO     | TCS.NS: Rejected - Low confidence (55.0%)
+2026-01-06 13:37:04 | INFO     | Fetching historical data for INFY.NS (period=1y, interval=1d)
+2026-01-06 13:37:04 | INFO     | Fetched 249 candles for INFY.NS
+2026-01-06 13:37:05 | INFO     | Fetching historical data for HDFCBANK.NS (period=1y, interval=1d)
+2026-01-06 13:37:05 | INFO     | Fetched 249 candles for HDFCBANK.NS
+2026-01-06 13:37:05 | INFO     | HDFCBANK.NS: Rejected - Low confidence (39.2%)
+2026-01-06 13:37:05 | INFO     | Fetching historical data for ICICIBANK.NS (period=1y, interval=1d)
+2026-01-06 13:37:06 | INFO     | Fetched 249 candles for ICICIBANK.NS
+2026-01-06 13:37:06 | INFO     | Fetching historical data for SBIN.NS (period=1y, interval=1d)
+2026-01-06 13:37:06 | INFO     | Fetched 249 candles for SBIN.NS
+2026-01-06 13:37:06 | INFO     | SBIN.NS: Rejected - Low confidence (54.8%)
+2026-01-06 13:37:06 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1y, interval=1d)
+2026-01-06 13:37:07 | INFO     | Fetched 249 candles for BHARTIARTL.NS
+2026-01-06 13:37:07 | INFO     | BHARTIARTL.NS: Rejected - Low confidence (52.8%)
+2026-01-06 13:37:07 | INFO     | Fetching historical data for ITC.NS (period=1y, interval=1d)
+2026-01-06 13:37:07 | INFO     | Fetched 250 candles for ITC.NS
+2026-01-06 13:37:07 | INFO     | ITC.NS: Rejected - Low confidence (56.9%)
+2026-01-06 13:37:07 | INFO     | Fetching historical data for KOTAKBANK.NS (period=1y, interval=1d)
+2026-01-06 13:37:08 | INFO     | Fetched 249 candles for KOTAKBANK.NS
+2026-01-06 13:37:08 | INFO     | KOTAKBANK.NS: Rejected - Low confidence (50.0%)
+2026-01-06 13:37:08 | INFO     | Fetching historical data for LT.NS (period=1y, interval=1d)
+2026-01-06 13:37:08 | INFO     | Fetched 249 candles for LT.NS
+2026-01-06 13:37:08 | INFO     | LT.NS: Rejected - Low confidence (55.3%)
+2026-01-06 13:37:29 | INFO     | Added IDEA to watchlist
+2026-01-06 13:37:45 | INFO     | Fetching historical data for RELIANCE.NS (period=1y, interval=1d)
+2026-01-06 13:37:45 | INFO     | Fetched 249 candles for RELIANCE.NS
+2026-01-06 13:37:46 | INFO     | RELIANCE.NS: Rejected - Low confidence (42.1%)
+2026-01-06 13:37:46 | INFO     | Fetching historical data for TCS.NS (period=1y, interval=1d)
+2026-01-06 13:37:46 | INFO     | Fetched 249 candles for TCS.NS
+2026-01-06 13:37:46 | INFO     | TCS.NS: Rejected - Low confidence (55.0%)
+2026-01-06 13:37:46 | INFO     | Fetching historical data for INFY.NS (period=1y, interval=1d)
+2026-01-06 13:37:46 | INFO     | Fetched 249 candles for INFY.NS
+2026-01-06 13:37:47 | INFO     | Fetching historical data for HDFCBANK.NS (period=1y, interval=1d)
+2026-01-06 13:37:47 | INFO     | Fetched 249 candles for HDFCBANK.NS
+2026-01-06 13:37:47 | INFO     | HDFCBANK.NS: Rejected - Low confidence (39.2%)
+2026-01-06 13:37:47 | INFO     | Fetching historical data for ICICIBANK.NS (period=1y, interval=1d)
+2026-01-06 13:37:47 | INFO     | Fetched 249 candles for ICICIBANK.NS
+2026-01-06 13:37:48 | INFO     | Fetching historical data for SBIN.NS (period=1y, interval=1d)
+2026-01-06 13:37:48 | INFO     | Fetched 249 candles for SBIN.NS
+2026-01-06 13:37:48 | INFO     | SBIN.NS: Rejected - Low confidence (54.8%)
+2026-01-06 13:37:48 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1y, interval=1d)
+2026-01-06 13:37:48 | INFO     | Fetched 249 candles for BHARTIARTL.NS
+2026-01-06 13:37:49 | INFO     | BHARTIARTL.NS: Rejected - Low confidence (52.8%)
+2026-01-06 13:37:49 | INFO     | Fetching historical data for ITC.NS (period=1y, interval=1d)
+2026-01-06 13:37:49 | INFO     | Fetched 250 candles for ITC.NS
+2026-01-06 13:37:49 | INFO     | ITC.NS: Rejected - Low confidence (56.9%)
+2026-01-06 13:37:49 | INFO     | Fetching historical data for KOTAKBANK.NS (period=1y, interval=1d)
+2026-01-06 13:37:50 | INFO     | Fetched 249 candles for KOTAKBANK.NS
+2026-01-06 13:37:50 | INFO     | KOTAKBANK.NS: Rejected - Low confidence (50.0%)
+2026-01-06 13:37:50 | INFO     | Fetching historical data for LT.NS (period=1y, interval=1d)
+2026-01-06 13:37:50 | INFO     | Fetched 249 candles for LT.NS
+2026-01-06 13:37:51 | INFO     | LT.NS: Rejected - Low confidence (55.3%)
+2026-01-06 13:37:51 | INFO     | Fetching historical data for IDEA.NS (period=1y, interval=1d)
+2026-01-06 13:37:51 | INFO     | Fetched 249 candles for IDEA.NS
+2026-01-06 13:37:51 | INFO     | IDEA: Rejected - Low confidence (52.6%)
+2026-01-06 13:38:45 | INFO     | Fetching historical data for RELIANCE.NS (period=1y, interval=1d)
+2026-01-06 13:38:45 | INFO     | Fetched 249 candles for RELIANCE.NS
+2026-01-06 13:38:45 | INFO     | RELIANCE.NS: Rejected - Low confidence (42.1%)
+2026-01-06 13:38:45 | INFO     | Fetching historical data for TCS.NS (period=1y, interval=1d)
+2026-01-06 13:38:46 | INFO     | Fetched 249 candles for TCS.NS
+2026-01-06 13:38:46 | INFO     | TCS.NS: Rejected - Low confidence (55.0%)
+2026-01-06 13:38:46 | INFO     | Fetching historical data for INFY.NS (period=1y, interval=1d)
+2026-01-06 13:38:46 | INFO     | Fetched 249 candles for INFY.NS
+2026-01-06 13:38:47 | INFO     | Fetching historical data for HDFCBANK.NS (period=1y, interval=1d)
+2026-01-06 13:38:47 | INFO     | Fetched 249 candles for HDFCBANK.NS
+2026-01-06 13:38:47 | INFO     | HDFCBANK.NS: Rejected - Low confidence (39.2%)
+2026-01-06 13:38:47 | INFO     | Fetching historical data for ICICIBANK.NS (period=1y, interval=1d)
+2026-01-06 13:38:48 | INFO     | Fetched 249 candles for ICICIBANK.NS
+2026-01-06 13:38:48 | INFO     | Fetching historical data for SBIN.NS (period=1y, interval=1d)
+2026-01-06 13:38:48 | INFO     | Fetched 249 candles for SBIN.NS
+2026-01-06 13:38:48 | INFO     | SBIN.NS: Rejected - Low confidence (54.8%)
+2026-01-06 13:38:48 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1y, interval=1d)
+2026-01-06 13:38:49 | INFO     | Fetched 249 candles for BHARTIARTL.NS
+2026-01-06 13:38:49 | INFO     | BHARTIARTL.NS: Rejected - Low confidence (52.8%)
+2026-01-06 13:38:49 | INFO     | Fetching historical data for ITC.NS (period=1y, interval=1d)
+2026-01-06 13:38:49 | INFO     | Fetched 250 candles for ITC.NS
+2026-01-06 13:38:49 | INFO     | ITC.NS: Rejected - Low confidence (56.9%)
+2026-01-06 13:38:49 | INFO     | Fetching historical data for KOTAKBANK.NS (period=1y, interval=1d)
+2026-01-06 13:38:50 | INFO     | Fetched 249 candles for KOTAKBANK.NS
+2026-01-06 13:38:50 | INFO     | KOTAKBANK.NS: Rejected - Low confidence (50.0%)
+2026-01-06 13:38:50 | INFO     | Fetching historical data for LT.NS (period=1y, interval=1d)
+2026-01-06 13:38:50 | INFO     | Fetched 249 candles for LT.NS
+2026-01-06 13:38:50 | INFO     | LT.NS: Rejected - Low confidence (55.3%)
+2026-01-06 13:38:50 | INFO     | Fetching historical data for IDEA.NS (period=1y, interval=1d)
+2026-01-06 13:38:51 | INFO     | Fetched 249 candles for IDEA.NS
+2026-01-06 13:38:51 | INFO     | IDEA: Rejected - Low confidence (52.6%)
+2026-01-06 13:38:58 | INFO     | Fetching historical data for RELIANCE.NS (period=1y, interval=1d)
+2026-01-06 13:38:58 | INFO     | Fetched 249 candles for RELIANCE.NS
+2026-01-06 13:38:58 | INFO     | RELIANCE.NS: Rejected - Low confidence (42.1%)
+2026-01-06 13:38:58 | INFO     | Fetching historical data for TCS.NS (period=1y, interval=1d)
+2026-01-06 13:38:58 | INFO     | Fetched 249 candles for TCS.NS
+2026-01-06 13:38:59 | INFO     | TCS.NS: Rejected - Low confidence (55.0%)
+2026-01-06 13:38:59 | INFO     | Fetching historical data for INFY.NS (period=1y, interval=1d)
+2026-01-06 13:38:59 | INFO     | Fetched 249 candles for INFY.NS
+2026-01-06 13:38:59 | INFO     | Fetching historical data for HDFCBANK.NS (period=1y, interval=1d)
+2026-01-06 13:39:00 | INFO     | Fetched 249 candles for HDFCBANK.NS
+2026-01-06 13:39:00 | INFO     | HDFCBANK.NS: Rejected - Low confidence (39.2%)
+2026-01-06 13:39:00 | INFO     | Fetching historical data for ICICIBANK.NS (period=1y, interval=1d)
+2026-01-06 13:39:00 | INFO     | Fetched 249 candles for ICICIBANK.NS
+2026-01-06 13:39:00 | INFO     | Fetching historical data for SBIN.NS (period=1y, interval=1d)
+2026-01-06 13:39:00 | INFO     | Fetched 249 candles for SBIN.NS
+2026-01-06 13:39:01 | INFO     | SBIN.NS: Rejected - Low confidence (54.8%)
+2026-01-06 13:39:01 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1y, interval=1d)
+2026-01-06 13:39:01 | INFO     | Fetched 249 candles for BHARTIARTL.NS
+2026-01-06 13:39:01 | INFO     | BHARTIARTL.NS: Rejected - Low confidence (52.8%)
+2026-01-06 13:39:01 | INFO     | Fetching historical data for ITC.NS (period=1y, interval=1d)
+2026-01-06 13:39:02 | INFO     | Fetched 250 candles for ITC.NS
+2026-01-06 13:39:02 | INFO     | ITC.NS: Rejected - Low confidence (56.9%)
+2026-01-06 13:39:02 | INFO     | Fetching historical data for KOTAKBANK.NS (period=1y, interval=1d)
+2026-01-06 13:39:02 | INFO     | Fetched 249 candles for KOTAKBANK.NS
+2026-01-06 13:39:02 | INFO     | KOTAKBANK.NS: Rejected - Low confidence (50.0%)
+2026-01-06 13:39:02 | INFO     | Fetching historical data for LT.NS (period=1y, interval=1d)
+2026-01-06 13:39:03 | INFO     | Fetched 249 candles for LT.NS
+2026-01-06 13:39:03 | INFO     | LT.NS: Rejected - Low confidence (55.3%)
+2026-01-06 13:39:03 | INFO     | Fetching historical data for IDEA.NS (period=1y, interval=1d)
+2026-01-06 13:39:03 | INFO     | Fetched 249 candles for IDEA.NS
+2026-01-06 13:39:04 | INFO     | IDEA: Rejected - Low confidence (52.6%)
+2026-01-06 13:39:45 | INFO     | Fetching historical data for RELIANCE.NS (period=1y, interval=1d)
+2026-01-06 13:39:45 | INFO     | Fetched 249 candles for RELIANCE.NS
+2026-01-06 13:39:46 | INFO     | RELIANCE.NS: Rejected - Low confidence (42.1%)
+2026-01-06 13:39:46 | INFO     | Fetching historical data for TCS.NS (period=1y, interval=1d)
+2026-01-06 13:39:46 | INFO     | Fetched 249 candles for TCS.NS
+2026-01-06 13:39:46 | INFO     | TCS.NS: Rejected - Low confidence (55.0%)
+2026-01-06 13:39:46 | INFO     | Fetching historical data for INFY.NS (period=1y, interval=1d)
+2026-01-06 13:39:46 | INFO     | Fetched 249 candles for INFY.NS
+2026-01-06 13:39:47 | INFO     | Fetching historical data for HDFCBANK.NS (period=1y, interval=1d)
+2026-01-06 13:39:47 | INFO     | Fetched 249 candles for HDFCBANK.NS
+2026-01-06 13:39:47 | INFO     | HDFCBANK.NS: Rejected - Low confidence (39.2%)
+2026-01-06 13:39:47 | INFO     | Fetching historical data for ICICIBANK.NS (period=1y, interval=1d)
+2026-01-06 13:39:48 | INFO     | Fetched 249 candles for ICICIBANK.NS
+2026-01-06 13:39:48 | INFO     | Fetching historical data for SBIN.NS (period=1y, interval=1d)
+2026-01-06 13:39:48 | INFO     | Fetched 249 candles for SBIN.NS
+2026-01-06 13:39:48 | INFO     | SBIN.NS: Rejected - Low confidence (54.8%)
+2026-01-06 13:39:48 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1y, interval=1d)
+2026-01-06 13:39:48 | INFO     | Fetched 249 candles for BHARTIARTL.NS
+2026-01-06 13:39:49 | INFO     | BHARTIARTL.NS: Rejected - Low confidence (52.8%)
+2026-01-06 13:39:49 | INFO     | Fetching historical data for ITC.NS (period=1y, interval=1d)
+2026-01-06 13:39:49 | INFO     | Fetched 250 candles for ITC.NS
+2026-01-06 13:39:49 | INFO     | ITC.NS: Rejected - Low confidence (56.9%)
+2026-01-06 13:39:49 | INFO     | Fetching historical data for KOTAKBANK.NS (period=1y, interval=1d)
+2026-01-06 13:39:50 | INFO     | Fetched 249 candles for KOTAKBANK.NS
+2026-01-06 13:39:50 | INFO     | KOTAKBANK.NS: Rejected - Low confidence (50.0%)
+2026-01-06 13:39:50 | INFO     | Fetching historical data for LT.NS (period=1y, interval=1d)
+2026-01-06 13:39:50 | INFO     | Fetched 249 candles for LT.NS
+2026-01-06 13:39:50 | INFO     | LT.NS: Rejected - Low confidence (55.3%)
+2026-01-06 13:39:50 | INFO     | Fetching historical data for IDEA.NS (period=1y, interval=1d)
+2026-01-06 13:39:51 | INFO     | Fetched 249 candles for IDEA.NS
+2026-01-06 13:39:51 | INFO     | IDEA: Rejected - Low confidence (52.6%)
+2026-01-06 13:40:45 | INFO     | Fetching historical data for RELIANCE.NS (period=1y, interval=1d)
+2026-01-06 13:40:45 | INFO     | Fetched 249 candles for RELIANCE.NS
+2026-01-06 13:40:46 | INFO     | RELIANCE.NS: Rejected - Low confidence (42.1%)
+2026-01-06 13:40:46 | INFO     | Fetching historical data for TCS.NS (period=1y, interval=1d)
+2026-01-06 13:40:46 | INFO     | Fetched 249 candles for TCS.NS
+2026-01-06 13:40:46 | INFO     | TCS.NS: Rejected - Low confidence (55.0%)
+2026-01-06 13:40:46 | INFO     | Fetching historical data for INFY.NS (period=1y, interval=1d)
+2026-01-06 13:40:47 | INFO     | Fetched 249 candles for INFY.NS
+2026-01-06 13:40:47 | INFO     | Fetching historical data for HDFCBANK.NS (period=1y, interval=1d)
+2026-01-06 13:40:47 | INFO     | Fetched 249 candles for HDFCBANK.NS
+2026-01-06 13:40:47 | INFO     | HDFCBANK.NS: Rejected - Low confidence (39.2%)
+2026-01-06 13:40:47 | INFO     | Fetching historical data for ICICIBANK.NS (period=1y, interval=1d)
+2026-01-06 13:40:48 | INFO     | Fetched 249 candles for ICICIBANK.NS
+2026-01-06 13:40:48 | INFO     | Fetching historical data for SBIN.NS (period=1y, interval=1d)
+2026-01-06 13:40:48 | INFO     | Fetched 249 candles for SBIN.NS
+2026-01-06 13:40:48 | INFO     | SBIN.NS: Rejected - Low confidence (54.8%)
+2026-01-06 13:40:48 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1y, interval=1d)
+2026-01-06 13:40:48 | INFO     | Fetched 249 candles for BHARTIARTL.NS
+2026-01-06 13:40:49 | INFO     | BHARTIARTL.NS: Rejected - Low confidence (52.8%)
+2026-01-06 13:40:49 | INFO     | Fetching historical data for ITC.NS (period=1y, interval=1d)
+2026-01-06 13:40:49 | INFO     | Fetched 250 candles for ITC.NS
+2026-01-06 13:40:49 | INFO     | ITC.NS: Rejected - Low confidence (56.9%)
+2026-01-06 13:40:49 | INFO     | Fetching historical data for KOTAKBANK.NS (period=1y, interval=1d)
+2026-01-06 13:40:50 | INFO     | Fetched 249 candles for KOTAKBANK.NS
+2026-01-06 13:40:50 | INFO     | KOTAKBANK.NS: Rejected - Low confidence (50.0%)
+2026-01-06 13:40:50 | INFO     | Fetching historical data for LT.NS (period=1y, interval=1d)
+2026-01-06 13:40:50 | INFO     | Fetched 249 candles for LT.NS
+2026-01-06 13:40:50 | INFO     | LT.NS: Rejected - Low confidence (55.3%)
+2026-01-06 13:40:50 | INFO     | Fetching historical data for IDEA.NS (period=1y, interval=1d)
+2026-01-06 13:40:51 | INFO     | Fetched 249 candles for IDEA.NS
+2026-01-06 13:40:51 | INFO     | IDEA: Rejected - Low confidence (54.9%)
+2026-01-06 13:41:45 | INFO     | Fetching historical data for RELIANCE.NS (period=1y, interval=1d)
+2026-01-06 13:41:45 | INFO     | Fetched 249 candles for RELIANCE.NS
+2026-01-06 13:41:46 | INFO     | RELIANCE.NS: Rejected - Low confidence (42.1%)
+2026-01-06 13:41:46 | INFO     | Fetching historical data for TCS.NS (period=1y, interval=1d)
+2026-01-06 13:41:46 | INFO     | Fetched 249 candles for TCS.NS
+2026-01-06 13:41:46 | INFO     | TCS.NS: Rejected - Low confidence (55.0%)
+2026-01-06 13:41:46 | INFO     | Fetching historical data for INFY.NS (period=1y, interval=1d)
+2026-01-06 13:41:46 | INFO     | Fetched 249 candles for INFY.NS
+2026-01-06 13:41:47 | INFO     | Fetching historical data for HDFCBANK.NS (period=1y, interval=1d)
+2026-01-06 13:41:47 | INFO     | Fetched 249 candles for HDFCBANK.NS
+2026-01-06 13:41:48 | INFO     | HDFCBANK.NS: Rejected - Low confidence (39.2%)
+2026-01-06 13:41:48 | INFO     | Fetching historical data for ICICIBANK.NS (period=1y, interval=1d)
+2026-01-06 13:41:48 | INFO     | Fetched 249 candles for ICICIBANK.NS
+2026-01-06 13:41:48 | INFO     | Fetching historical data for SBIN.NS (period=1y, interval=1d)
+2026-01-06 13:41:48 | INFO     | Fetched 249 candles for SBIN.NS
+2026-01-06 13:41:49 | INFO     | SBIN.NS: Rejected - Low confidence (54.8%)
+2026-01-06 13:41:49 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1y, interval=1d)
+2026-01-06 13:41:49 | INFO     | Fetched 249 candles for BHARTIARTL.NS
+2026-01-06 13:41:50 | INFO     | BHARTIARTL.NS: Rejected - Low confidence (52.8%)
+2026-01-06 13:41:50 | INFO     | Fetching historical data for ITC.NS (period=1y, interval=1d)
+2026-01-06 13:41:50 | INFO     | Fetched 250 candles for ITC.NS
+2026-01-06 13:41:50 | INFO     | ITC.NS: Rejected - Low confidence (56.9%)
+2026-01-06 13:41:50 | INFO     | Fetching historical data for KOTAKBANK.NS (period=1y, interval=1d)
+2026-01-06 13:41:50 | INFO     | Fetched 249 candles for KOTAKBANK.NS
+2026-01-06 13:41:51 | INFO     | KOTAKBANK.NS: Rejected - Low confidence (50.0%)
+2026-01-06 13:41:51 | INFO     | Fetching historical data for LT.NS (period=1y, interval=1d)
+2026-01-06 13:41:51 | INFO     | Fetched 249 candles for LT.NS
+2026-01-06 13:41:51 | INFO     | LT.NS: Rejected - Low confidence (55.3%)
+2026-01-06 13:41:51 | INFO     | Fetching historical data for IDEA.NS (period=1y, interval=1d)
+2026-01-06 13:41:52 | INFO     | Fetched 249 candles for IDEA.NS
+2026-01-06 13:41:52 | INFO     | IDEA: Rejected - Low confidence (54.9%)
+2026-01-06 13:42:45 | INFO     | Fetching historical data for RELIANCE.NS (period=1y, interval=1d)
+2026-01-06 13:42:45 | INFO     | Fetched 249 candles for RELIANCE.NS
+2026-01-06 13:42:46 | INFO     | RELIANCE.NS: Rejected - Low confidence (42.1%)
+2026-01-06 13:42:46 | INFO     | Fetching historical data for TCS.NS (period=1y, interval=1d)
+2026-01-06 13:42:46 | INFO     | Fetched 249 candles for TCS.NS
+2026-01-06 13:42:46 | INFO     | TCS.NS: Rejected - Low confidence (55.0%)
+2026-01-06 13:42:46 | INFO     | Fetching historical data for INFY.NS (period=1y, interval=1d)
+2026-01-06 13:42:46 | INFO     | Fetched 249 candles for INFY.NS
+2026-01-06 13:42:47 | INFO     | Fetching historical data for HDFCBANK.NS (period=1y, interval=1d)
+2026-01-06 13:42:47 | INFO     | Fetched 249 candles for HDFCBANK.NS
+2026-01-06 13:42:48 | INFO     | HDFCBANK.NS: Rejected - Low confidence (39.2%)
+2026-01-06 13:42:48 | INFO     | Fetching historical data for ICICIBANK.NS (period=1y, interval=1d)
+2026-01-06 13:42:48 | INFO     | Fetched 249 candles for ICICIBANK.NS
+2026-01-06 13:42:48 | INFO     | Fetching historical data for SBIN.NS (period=1y, interval=1d)
+2026-01-06 13:42:48 | INFO     | Fetched 249 candles for SBIN.NS
+2026-01-06 13:42:49 | INFO     | SBIN.NS: Rejected - Low confidence (54.8%)
+2026-01-06 13:42:49 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1y, interval=1d)
+2026-01-06 13:42:49 | INFO     | Fetched 249 candles for BHARTIARTL.NS
+2026-01-06 13:42:50 | INFO     | BHARTIARTL.NS: Rejected - Low confidence (52.8%)
+2026-01-06 13:42:50 | INFO     | Fetching historical data for ITC.NS (period=1y, interval=1d)
+2026-01-06 13:42:50 | INFO     | Fetched 250 candles for ITC.NS
+2026-01-06 13:42:50 | INFO     | ITC.NS: Rejected - Low confidence (56.9%)
+2026-01-06 13:42:50 | INFO     | Fetching historical data for KOTAKBANK.NS (period=1y, interval=1d)
+2026-01-06 13:42:51 | INFO     | Fetched 249 candles for KOTAKBANK.NS
+2026-01-06 13:42:51 | INFO     | KOTAKBANK.NS: Rejected - Low confidence (50.0%)
+2026-01-06 13:42:51 | INFO     | Fetching historical data for LT.NS (period=1y, interval=1d)
+2026-01-06 13:42:51 | INFO     | Fetched 249 candles for LT.NS
+2026-01-06 13:42:52 | INFO     | LT.NS: Rejected - Low confidence (55.3%)
+2026-01-06 13:42:52 | INFO     | Fetching historical data for IDEA.NS (period=1y, interval=1d)
+2026-01-06 13:42:52 | INFO     | Fetched 249 candles for IDEA.NS
+2026-01-06 13:42:52 | INFO     | IDEA: Rejected - Low confidence (54.9%)
+2026-01-06 13:43:45 | INFO     | Fetching historical data for RELIANCE.NS (period=1y, interval=1d)
+2026-01-06 13:43:45 | INFO     | Fetched 249 candles for RELIANCE.NS
+2026-01-06 13:43:46 | INFO     | RELIANCE.NS: Rejected - Low confidence (42.1%)
+2026-01-06 13:43:46 | INFO     | Fetching historical data for TCS.NS (period=1y, interval=1d)
+2026-01-06 13:43:46 | INFO     | Fetched 249 candles for TCS.NS
+2026-01-06 13:43:46 | INFO     | TCS.NS: Rejected - Low confidence (55.0%)
+2026-01-06 13:43:46 | INFO     | Fetching historical data for INFY.NS (period=1y, interval=1d)
+2026-01-06 13:43:46 | INFO     | Fetched 249 candles for INFY.NS
+2026-01-06 13:43:47 | INFO     | Fetching historical data for HDFCBANK.NS (period=1y, interval=1d)
+2026-01-06 13:43:47 | INFO     | Fetched 249 candles for HDFCBANK.NS
+2026-01-06 13:43:47 | INFO     | HDFCBANK.NS: Rejected - Low confidence (39.2%)
+2026-01-06 13:43:47 | INFO     | Fetching historical data for ICICIBANK.NS (period=1y, interval=1d)
+2026-01-06 13:43:48 | INFO     | Fetched 249 candles for ICICIBANK.NS
+2026-01-06 13:43:48 | INFO     | Fetching historical data for SBIN.NS (period=1y, interval=1d)
+2026-01-06 13:43:48 | INFO     | Fetched 249 candles for SBIN.NS
+2026-01-06 13:43:49 | INFO     | SBIN.NS: Rejected - Low confidence (54.8%)
+2026-01-06 13:43:49 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1y, interval=1d)
+2026-01-06 13:43:49 | INFO     | Fetched 249 candles for BHARTIARTL.NS
+2026-01-06 13:43:49 | INFO     | BHARTIARTL.NS: Rejected - Low confidence (52.8%)
+2026-01-06 13:43:49 | INFO     | Fetching historical data for ITC.NS (period=1y, interval=1d)
+2026-01-06 13:43:50 | INFO     | Fetched 250 candles for ITC.NS
+2026-01-06 13:43:50 | INFO     | ITC.NS: Rejected - Low confidence (56.9%)
+2026-01-06 13:43:50 | INFO     | Fetching historical data for KOTAKBANK.NS (period=1y, interval=1d)
+2026-01-06 13:43:50 | INFO     | Fetched 249 candles for KOTAKBANK.NS
+2026-01-06 13:43:51 | INFO     | KOTAKBANK.NS: Rejected - Low confidence (50.0%)
+2026-01-06 13:43:51 | INFO     | Fetching historical data for LT.NS (period=1y, interval=1d)
+2026-01-06 13:43:51 | INFO     | Fetched 249 candles for LT.NS
+2026-01-06 13:43:51 | INFO     | LT.NS: Rejected - Low confidence (55.3%)
+2026-01-06 13:43:51 | INFO     | Fetching historical data for IDEA.NS (period=1y, interval=1d)
+2026-01-06 13:43:52 | INFO     | Fetched 249 candles for IDEA.NS
+2026-01-06 13:43:52 | INFO     | IDEA: Rejected - Low confidence (54.9%)
+2026-01-06 13:44:45 | INFO     | Fetching historical data for RELIANCE.NS (period=1y, interval=1d)
+2026-01-06 13:44:45 | INFO     | Fetched 249 candles for RELIANCE.NS
+2026-01-06 13:44:46 | INFO     | RELIANCE.NS: Rejected - Low confidence (42.1%)
+2026-01-06 13:44:46 | INFO     | Fetching historical data for TCS.NS (period=1y, interval=1d)
+2026-01-06 13:44:46 | INFO     | Fetched 249 candles for TCS.NS
+2026-01-06 13:44:46 | INFO     | TCS.NS: Rejected - Low confidence (55.0%)
+2026-01-06 13:44:46 | INFO     | Fetching historical data for INFY.NS (period=1y, interval=1d)
+2026-01-06 13:44:46 | INFO     | Fetched 249 candles for INFY.NS
+2026-01-06 13:44:47 | INFO     | Fetching historical data for HDFCBANK.NS (period=1y, interval=1d)
+2026-01-06 13:44:47 | INFO     | Fetched 249 candles for HDFCBANK.NS
+2026-01-06 13:44:47 | INFO     | HDFCBANK.NS: Rejected - Low confidence (39.2%)
+2026-01-06 13:44:47 | INFO     | Fetching historical data for ICICIBANK.NS (period=1y, interval=1d)
+2026-01-06 13:44:48 | INFO     | Fetched 249 candles for ICICIBANK.NS
+2026-01-06 13:44:48 | INFO     | Fetching historical data for SBIN.NS (period=1y, interval=1d)
+2026-01-06 13:44:48 | INFO     | Fetched 249 candles for SBIN.NS
+2026-01-06 13:44:48 | INFO     | SBIN.NS: Rejected - Low confidence (54.8%)
+2026-01-06 13:44:48 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1y, interval=1d)
+2026-01-06 13:44:49 | INFO     | Fetched 249 candles for BHARTIARTL.NS
+2026-01-06 13:44:49 | INFO     | BHARTIARTL.NS: Rejected - Low confidence (52.8%)
+2026-01-06 13:44:49 | INFO     | Fetching historical data for ITC.NS (period=1y, interval=1d)
+2026-01-06 13:44:49 | INFO     | Fetched 250 candles for ITC.NS
+2026-01-06 13:44:50 | INFO     | ITC.NS: Rejected - Low confidence (56.9%)
+2026-01-06 13:44:50 | INFO     | Fetching historical data for KOTAKBANK.NS (period=1y, interval=1d)
+2026-01-06 13:44:50 | INFO     | Fetched 249 candles for KOTAKBANK.NS
+2026-01-06 13:44:51 | INFO     | KOTAKBANK.NS: Rejected - Low confidence (50.0%)
+2026-01-06 13:44:51 | INFO     | Fetching historical data for LT.NS (period=1y, interval=1d)
+2026-01-06 13:44:51 | INFO     | Fetched 249 candles for LT.NS
+2026-01-06 13:44:51 | INFO     | LT.NS: Rejected - Low confidence (55.3%)
+2026-01-06 13:44:51 | INFO     | Fetching historical data for IDEA.NS (period=1y, interval=1d)
+2026-01-06 13:44:51 | INFO     | Fetched 249 candles for IDEA.NS
+2026-01-06 13:44:52 | INFO     | IDEA: Rejected - Low confidence (52.6%)
+2026-01-06 13:45:45 | INFO     | Fetching historical data for RELIANCE.NS (period=1y, interval=1d)
+2026-01-06 13:45:45 | INFO     | Fetched 249 candles for RELIANCE.NS
+2026-01-06 13:45:46 | INFO     | RELIANCE.NS: Rejected - Low confidence (42.1%)
+2026-01-06 13:45:46 | INFO     | Fetching historical data for TCS.NS (period=1y, interval=1d)
+2026-01-06 13:45:46 | INFO     | Fetched 249 candles for TCS.NS
+2026-01-06 13:45:46 | INFO     | TCS.NS: Rejected - Low confidence (55.0%)
+2026-01-06 13:45:46 | INFO     | Fetching historical data for INFY.NS (period=1y, interval=1d)
+2026-01-06 13:45:47 | INFO     | Fetched 249 candles for INFY.NS
+2026-01-06 13:45:47 | INFO     | Fetching historical data for HDFCBANK.NS (period=1y, interval=1d)
+2026-01-06 13:45:47 | INFO     | Fetched 249 candles for HDFCBANK.NS
+2026-01-06 13:45:48 | INFO     | HDFCBANK.NS: Rejected - Low confidence (39.2%)
+2026-01-06 13:45:48 | INFO     | Fetching historical data for ICICIBANK.NS (period=1y, interval=1d)
+2026-01-06 13:45:48 | INFO     | Fetched 249 candles for ICICIBANK.NS
+2026-01-06 13:45:48 | INFO     | Fetching historical data for SBIN.NS (period=1y, interval=1d)
+2026-01-06 13:45:48 | INFO     | Fetched 249 candles for SBIN.NS
+2026-01-06 13:45:49 | INFO     | SBIN.NS: Rejected - Low confidence (54.8%)
+2026-01-06 13:45:49 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1y, interval=1d)
+2026-01-06 13:45:49 | INFO     | Fetched 249 candles for BHARTIARTL.NS
+2026-01-06 13:45:50 | INFO     | BHARTIARTL.NS: Rejected - Low confidence (52.8%)
+2026-01-06 13:45:50 | INFO     | Fetching historical data for ITC.NS (period=1y, interval=1d)
+2026-01-06 13:45:50 | INFO     | Fetched 250 candles for ITC.NS
+2026-01-06 13:45:50 | INFO     | ITC.NS: Rejected - Low confidence (56.9%)
+2026-01-06 13:45:50 | INFO     | Fetching historical data for KOTAKBANK.NS (period=1y, interval=1d)
+2026-01-06 13:45:51 | INFO     | Fetched 249 candles for KOTAKBANK.NS
+2026-01-06 13:45:51 | INFO     | KOTAKBANK.NS: Rejected - Low confidence (50.0%)
+2026-01-06 13:45:51 | INFO     | Fetching historical data for LT.NS (period=1y, interval=1d)
+2026-01-06 13:45:52 | INFO     | Fetched 249 candles for LT.NS
+2026-01-06 13:45:52 | INFO     | LT.NS: Rejected - Low confidence (55.3%)
+2026-01-06 13:45:52 | INFO     | Fetching historical data for IDEA.NS (period=1y, interval=1d)
+2026-01-06 13:45:52 | INFO     | Fetched 249 candles for IDEA.NS
+2026-01-06 13:45:53 | INFO     | IDEA: Rejected - Low confidence (52.6%)
+2026-01-06 13:46:45 | INFO     | Fetching historical data for RELIANCE.NS (period=1y, interval=1d)
+2026-01-06 13:46:45 | INFO     | Fetched 249 candles for RELIANCE.NS
+2026-01-06 13:46:46 | INFO     | RELIANCE.NS: Rejected - Low confidence (42.1%)
+2026-01-06 13:46:46 | INFO     | Fetching historical data for TCS.NS (period=1y, interval=1d)
+2026-01-06 13:46:46 | INFO     | Fetched 249 candles for TCS.NS
+2026-01-06 13:46:46 | INFO     | TCS.NS: Rejected - Low confidence (55.0%)
+2026-01-06 13:46:46 | INFO     | Fetching historical data for INFY.NS (period=1y, interval=1d)
+2026-01-06 13:46:47 | INFO     | Fetched 249 candles for INFY.NS
+2026-01-06 13:46:47 | INFO     | Fetching historical data for HDFCBANK.NS (period=1y, interval=1d)
+2026-01-06 13:46:47 | INFO     | Fetched 249 candles for HDFCBANK.NS
+2026-01-06 13:46:48 | INFO     | HDFCBANK.NS: Rejected - Low confidence (39.2%)
+2026-01-06 13:46:48 | INFO     | Fetching historical data for ICICIBANK.NS (period=1y, interval=1d)
+2026-01-06 13:46:48 | INFO     | Fetched 249 candles for ICICIBANK.NS
+2026-01-06 13:46:48 | INFO     | Fetching historical data for SBIN.NS (period=1y, interval=1d)
+2026-01-06 13:46:49 | INFO     | Fetched 249 candles for SBIN.NS
+2026-01-06 13:46:49 | INFO     | SBIN.NS: Rejected - Low confidence (54.8%)
+2026-01-06 13:46:49 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1y, interval=1d)
+2026-01-06 13:46:49 | INFO     | Fetched 249 candles for BHARTIARTL.NS
+2026-01-06 13:46:50 | INFO     | BHARTIARTL.NS: Rejected - Low confidence (52.8%)
+2026-01-06 13:46:50 | INFO     | Fetching historical data for ITC.NS (period=1y, interval=1d)
+2026-01-06 13:46:50 | INFO     | Fetched 250 candles for ITC.NS
+2026-01-06 13:46:50 | INFO     | ITC.NS: Rejected - Low confidence (56.9%)
+2026-01-06 13:46:50 | INFO     | Fetching historical data for KOTAKBANK.NS (period=1y, interval=1d)
+2026-01-06 13:46:51 | INFO     | Fetched 249 candles for KOTAKBANK.NS
+2026-01-06 13:46:51 | INFO     | KOTAKBANK.NS: Rejected - Low confidence (50.0%)
+2026-01-06 13:46:51 | INFO     | Fetching historical data for LT.NS (period=1y, interval=1d)
+2026-01-06 13:46:51 | INFO     | Fetched 249 candles for LT.NS
+2026-01-06 13:46:51 | INFO     | LT.NS: Rejected - Low confidence (55.3%)
+2026-01-06 13:46:51 | INFO     | Fetching historical data for IDEA.NS (period=1y, interval=1d)
+2026-01-06 13:46:52 | INFO     | Fetched 249 candles for IDEA.NS
+2026-01-06 13:46:52 | INFO     | IDEA: Rejected - Low confidence (52.6%)
+2026-01-06 13:47:45 | INFO     | Fetching historical data for RELIANCE.NS (period=1y, interval=1d)
+2026-01-06 13:47:45 | INFO     | Fetched 249 candles for RELIANCE.NS
+2026-01-06 13:47:46 | INFO     | RELIANCE.NS: Rejected - Low confidence (42.1%)
+2026-01-06 13:47:46 | INFO     | Fetching historical data for TCS.NS (period=1y, interval=1d)
+2026-01-06 13:47:46 | INFO     | Fetched 249 candles for TCS.NS
+2026-01-06 13:47:46 | INFO     | TCS.NS: Rejected - Low confidence (55.0%)
+2026-01-06 13:47:46 | INFO     | Fetching historical data for INFY.NS (period=1y, interval=1d)
+2026-01-06 13:47:47 | INFO     | Fetched 249 candles for INFY.NS
+2026-01-06 13:47:47 | INFO     | Fetching historical data for HDFCBANK.NS (period=1y, interval=1d)
+2026-01-06 13:47:47 | INFO     | Fetched 249 candles for HDFCBANK.NS
+2026-01-06 13:47:48 | INFO     | HDFCBANK.NS: Rejected - Low confidence (39.2%)
+2026-01-06 13:47:48 | INFO     | Fetching historical data for ICICIBANK.NS (period=1y, interval=1d)
+2026-01-06 13:47:48 | INFO     | Fetched 249 candles for ICICIBANK.NS
+2026-01-06 13:47:48 | INFO     | Fetching historical data for SBIN.NS (period=1y, interval=1d)
+2026-01-06 13:47:49 | INFO     | Fetched 249 candles for SBIN.NS
+2026-01-06 13:47:49 | INFO     | SBIN.NS: Rejected - Low confidence (54.8%)
+2026-01-06 13:47:49 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1y, interval=1d)
+2026-01-06 13:47:49 | INFO     | Fetched 249 candles for BHARTIARTL.NS
+2026-01-06 13:47:49 | INFO     | BHARTIARTL.NS: Rejected - Low confidence (52.8%)
+2026-01-06 13:47:49 | INFO     | Fetching historical data for ITC.NS (period=1y, interval=1d)
+2026-01-06 13:47:50 | INFO     | Fetched 250 candles for ITC.NS
+2026-01-06 13:47:50 | INFO     | ITC.NS: Rejected - Low confidence (56.9%)
+2026-01-06 13:47:50 | INFO     | Fetching historical data for KOTAKBANK.NS (period=1y, interval=1d)
+2026-01-06 13:47:51 | INFO     | Fetched 249 candles for KOTAKBANK.NS
+2026-01-06 13:47:51 | INFO     | KOTAKBANK.NS: Rejected - Low confidence (50.0%)
+2026-01-06 13:47:51 | INFO     | Fetching historical data for LT.NS (period=1y, interval=1d)
+2026-01-06 13:47:51 | INFO     | Fetched 249 candles for LT.NS
+2026-01-06 13:47:51 | INFO     | LT.NS: Rejected - Low confidence (55.3%)
+2026-01-06 13:47:51 | INFO     | Fetching historical data for IDEA.NS (period=1y, interval=1d)
+2026-01-06 13:47:52 | INFO     | Fetched 249 candles for IDEA.NS
+2026-01-06 13:47:52 | INFO     | IDEA: Rejected - Low confidence (52.6%)
+2026-01-06 13:48:45 | INFO     | Fetching historical data for RELIANCE.NS (period=1y, interval=1d)
+2026-01-06 13:48:45 | INFO     | Fetched 249 candles for RELIANCE.NS
+2026-01-06 13:48:46 | INFO     | RELIANCE.NS: Rejected - Low confidence (42.1%)
+2026-01-06 13:48:46 | INFO     | Fetching historical data for TCS.NS (period=1y, interval=1d)
+2026-01-06 13:48:46 | INFO     | Fetched 249 candles for TCS.NS
+2026-01-06 13:48:46 | INFO     | TCS.NS: Rejected - Low confidence (55.0%)
+2026-01-06 13:48:46 | INFO     | Fetching historical data for INFY.NS (period=1y, interval=1d)
+2026-01-06 13:48:46 | INFO     | Fetched 249 candles for INFY.NS
+2026-01-06 13:48:47 | INFO     | Fetching historical data for HDFCBANK.NS (period=1y, interval=1d)
+2026-01-06 13:48:47 | INFO     | Fetched 249 candles for HDFCBANK.NS
+2026-01-06 13:48:47 | INFO     | HDFCBANK.NS: Rejected - Low confidence (39.2%)
+2026-01-06 13:48:47 | INFO     | Fetching historical data for ICICIBANK.NS (period=1y, interval=1d)
+2026-01-06 13:48:48 | INFO     | Fetched 249 candles for ICICIBANK.NS
+2026-01-06 13:48:48 | INFO     | Fetching historical data for SBIN.NS (period=1y, interval=1d)
+2026-01-06 13:48:48 | INFO     | Fetched 249 candles for SBIN.NS
+2026-01-06 13:48:49 | INFO     | SBIN.NS: Rejected - Low confidence (54.8%)
+2026-01-06 13:48:49 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1y, interval=1d)
+2026-01-06 13:48:49 | INFO     | Fetched 249 candles for BHARTIARTL.NS
+2026-01-06 13:48:49 | INFO     | BHARTIARTL.NS: Rejected - Low confidence (52.8%)
+2026-01-06 13:48:49 | INFO     | Fetching historical data for ITC.NS (period=1y, interval=1d)
+2026-01-06 13:48:49 | INFO     | Fetched 250 candles for ITC.NS
+2026-01-06 13:48:50 | INFO     | ITC.NS: Rejected - Low confidence (56.9%)
+2026-01-06 13:48:50 | INFO     | Fetching historical data for KOTAKBANK.NS (period=1y, interval=1d)
+2026-01-06 13:48:50 | INFO     | Fetched 249 candles for KOTAKBANK.NS
+2026-01-06 13:48:50 | INFO     | KOTAKBANK.NS: Rejected - Low confidence (50.0%)
+2026-01-06 13:48:50 | INFO     | Fetching historical data for LT.NS (period=1y, interval=1d)
+2026-01-06 13:48:51 | INFO     | Fetched 249 candles for LT.NS
+2026-01-06 13:48:51 | INFO     | LT.NS: Rejected - Low confidence (55.3%)
+2026-01-06 13:48:51 | INFO     | Fetching historical data for IDEA.NS (period=1y, interval=1d)
+2026-01-06 13:48:51 | INFO     | Fetched 249 candles for IDEA.NS
+2026-01-06 13:48:52 | INFO     | IDEA: Rejected - Low confidence (52.6%)
+2026-01-06 13:49:35 | INFO     | Trading Engine GUI initialized with Enhanced Stability
+2026-01-06 13:49:36 | INFO     | Fetching historical data for RELIANCE.NS (period=1y, interval=1d)
+2026-01-06 13:49:38 | INFO     | Fetched 249 candles for RELIANCE.NS
+2026-01-06 13:49:38 | INFO     | RELIANCE.NS: Rejected - Low confidence (42.1%)
+2026-01-06 13:49:38 | INFO     | Fetching historical data for TCS.NS (period=1y, interval=1d)
+2026-01-06 13:49:39 | INFO     | Fetched 249 candles for TCS.NS
+2026-01-06 13:49:39 | INFO     | TCS.NS: Rejected - Low confidence (55.0%)
+2026-01-06 13:49:39 | INFO     | Fetching historical data for INFY.NS (period=1y, interval=1d)
+2026-01-06 13:49:39 | INFO     | Fetched 249 candles for INFY.NS
+2026-01-06 13:49:39 | INFO     | Fetching historical data for HDFCBANK.NS (period=1y, interval=1d)
+2026-01-06 13:49:40 | INFO     | Fetched 249 candles for HDFCBANK.NS
+2026-01-06 13:49:40 | INFO     | HDFCBANK.NS: Rejected - Low confidence (39.2%)
+2026-01-06 13:49:40 | INFO     | Fetching historical data for ICICIBANK.NS (period=1y, interval=1d)
+2026-01-06 13:49:40 | INFO     | Fetched 249 candles for ICICIBANK.NS
+2026-01-06 13:49:40 | INFO     | Fetching historical data for SBIN.NS (period=1y, interval=1d)
+2026-01-06 13:49:41 | INFO     | Fetched 249 candles for SBIN.NS
+2026-01-06 13:49:41 | INFO     | Generated signal for ICICIBANK.NS: BUY
+2026-01-06 13:49:41 | INFO     | SBIN.NS: Rejected - Low confidence (54.8%)
+2026-01-06 13:49:41 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1y, interval=1d)
+2026-01-06 13:49:41 | INFO     | Fetched 249 candles for BHARTIARTL.NS
+2026-01-06 13:49:41 | INFO     | BHARTIARTL.NS: Rejected - Low confidence (52.8%)
+2026-01-06 13:49:41 | INFO     | Fetching historical data for ITC.NS (period=1y, interval=1d)
+2026-01-06 13:49:42 | INFO     | Fetched 250 candles for ITC.NS
+2026-01-06 13:49:42 | INFO     | ITC.NS: Rejected - Low confidence (56.9%)
+2026-01-06 13:49:42 | INFO     | Fetching historical data for KOTAKBANK.NS (period=1y, interval=1d)
+2026-01-06 13:49:42 | INFO     | Fetched 249 candles for KOTAKBANK.NS
+2026-01-06 13:49:43 | INFO     | KOTAKBANK.NS: Rejected - Low confidence (50.0%)
+2026-01-06 13:49:43 | INFO     | Fetching historical data for LT.NS (period=1y, interval=1d)
+2026-01-06 13:49:43 | INFO     | Fetched 249 candles for LT.NS
+2026-01-06 13:49:43 | INFO     | LT.NS: Rejected - Low confidence (55.3%)
+2026-01-06 13:49:52 | INFO     | Trading Engine GUI initialized with Enhanced Stability
+2026-01-06 13:49:53 | INFO     | Fetching historical data for RELIANCE.NS (period=1y, interval=1d)
+2026-01-06 13:49:55 | INFO     | Fetched 249 candles for RELIANCE.NS
+2026-01-06 13:49:55 | INFO     | RELIANCE.NS: Rejected - Low confidence (42.1%)
+2026-01-06 13:49:55 | INFO     | Fetching historical data for TCS.NS (period=1y, interval=1d)
+2026-01-06 13:49:55 | INFO     | Fetched 249 candles for TCS.NS
+2026-01-06 13:49:55 | INFO     | TCS.NS: Rejected - Low confidence (55.0%)
+2026-01-06 13:49:55 | INFO     | Fetching historical data for INFY.NS (period=1y, interval=1d)
+2026-01-06 13:49:56 | INFO     | Fetched 249 candles for INFY.NS
+2026-01-06 13:49:56 | INFO     | Fetching historical data for HDFCBANK.NS (period=1y, interval=1d)
+2026-01-06 13:49:56 | INFO     | Fetched 249 candles for HDFCBANK.NS
+2026-01-06 13:49:57 | INFO     | HDFCBANK.NS: Rejected - Low confidence (39.2%)
+2026-01-06 13:49:57 | INFO     | Fetching historical data for ICICIBANK.NS (period=1y, interval=1d)
+2026-01-06 13:49:57 | INFO     | Fetched 249 candles for ICICIBANK.NS
+2026-01-06 13:49:57 | INFO     | Fetching historical data for SBIN.NS (period=1y, interval=1d)
+2026-01-06 13:49:57 | INFO     | Generated signal for ICICIBANK.NS: BUY
+2026-01-06 13:49:57 | INFO     | Fetched 249 candles for SBIN.NS
+2026-01-06 13:49:58 | INFO     | SBIN.NS: Rejected - Low confidence (54.8%)
+2026-01-06 13:49:58 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1y, interval=1d)
+2026-01-06 13:49:58 | INFO     | Fetched 249 candles for BHARTIARTL.NS
+2026-01-06 13:49:58 | INFO     | BHARTIARTL.NS: Rejected - Low confidence (50.9%)
+2026-01-06 13:49:58 | INFO     | Fetching historical data for ITC.NS (period=1y, interval=1d)
+2026-01-06 13:49:59 | INFO     | Fetched 250 candles for ITC.NS
+2026-01-06 13:49:59 | INFO     | ITC.NS: Rejected - Low confidence (56.9%)
+2026-01-06 13:49:59 | INFO     | Fetching historical data for KOTAKBANK.NS (period=1y, interval=1d)
+2026-01-06 13:49:59 | INFO     | Fetched 249 candles for KOTAKBANK.NS
+2026-01-06 13:49:59 | INFO     | KOTAKBANK.NS: Rejected - Low confidence (50.0%)
+2026-01-06 13:49:59 | INFO     | Fetching historical data for LT.NS (period=1y, interval=1d)
+2026-01-06 13:50:00 | INFO     | Fetched 249 candles for LT.NS
+2026-01-06 13:50:00 | INFO     | LT.NS: Rejected - Low confidence (55.3%)
+2026-01-06 13:51:04 | INFO     | Trading Engine GUI initialized with Enhanced Stability
+2026-01-06 13:51:05 | INFO     | Fetching historical data for RELIANCE.NS (period=1y, interval=1d)
+2026-01-06 13:51:08 | INFO     | Fetched 249 candles for RELIANCE.NS
+2026-01-06 13:51:08 | INFO     | RELIANCE.NS: Rejected - Low confidence (43.0%)
+2026-01-06 13:51:08 | INFO     | Fetching historical data for TCS.NS (period=1y, interval=1d)
+2026-01-06 13:51:08 | INFO     | Fetched 249 candles for TCS.NS
+2026-01-06 13:51:08 | INFO     | TCS.NS: Rejected - Low confidence (55.0%)
+2026-01-06 13:51:08 | INFO     | Fetching historical data for INFY.NS (period=1y, interval=1d)
+2026-01-06 13:51:09 | INFO     | Fetched 249 candles for INFY.NS
+2026-01-06 13:51:09 | INFO     | Fetching historical data for HDFCBANK.NS (period=1y, interval=1d)
+2026-01-06 13:51:09 | INFO     | Fetched 249 candles for HDFCBANK.NS
+2026-01-06 13:51:10 | INFO     | HDFCBANK.NS: Rejected - Low confidence (39.2%)
+2026-01-06 13:51:10 | INFO     | Fetching historical data for ICICIBANK.NS (period=1y, interval=1d)
+2026-01-06 13:51:10 | INFO     | Fetched 249 candles for ICICIBANK.NS
+2026-01-06 13:51:10 | INFO     | Fetching historical data for SBIN.NS (period=1y, interval=1d)
+2026-01-06 13:51:10 | INFO     | Generated signal for ICICIBANK.NS: BUY
+2026-01-06 13:51:10 | INFO     | Fetched 249 candles for SBIN.NS
+2026-01-06 13:51:11 | INFO     | SBIN.NS: Rejected - Low confidence (54.8%)
+2026-01-06 13:51:11 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1y, interval=1d)
+2026-01-06 13:51:11 | INFO     | Fetched 249 candles for BHARTIARTL.NS
+2026-01-06 13:51:11 | INFO     | BHARTIARTL.NS: Rejected - Low confidence (50.9%)
+2026-01-06 13:51:11 | INFO     | Fetching historical data for ITC.NS (period=1y, interval=1d)
+2026-01-06 13:51:11 | INFO     | Fetched 250 candles for ITC.NS
+2026-01-06 13:51:12 | INFO     | ITC.NS: Rejected - Low confidence (56.9%)
+2026-01-06 13:51:12 | INFO     | Fetching historical data for KOTAKBANK.NS (period=1y, interval=1d)
+2026-01-06 13:51:12 | INFO     | Fetched 249 candles for KOTAKBANK.NS
+2026-01-06 13:51:12 | INFO     | KOTAKBANK.NS: Rejected - Low confidence (50.0%)
+2026-01-06 13:51:12 | INFO     | Fetching historical data for LT.NS (period=1y, interval=1d)
+2026-01-06 13:51:12 | INFO     | Fetched 249 candles for LT.NS
+2026-01-06 13:51:13 | INFO     | LT.NS: Rejected - Low confidence (55.3%)
+2026-01-06 13:55:36 | INFO     | ============================================================
+2026-01-06 13:55:36 | INFO     | Starting NSE Trading Engine GUI
+2026-01-06 13:55:36 | INFO     | ============================================================
+2026-01-06 13:55:39 | INFO     | GUI Initialized Successfully
+2026-01-06 13:55:39 | INFO     | Accuracy Target: 80%+ confidence signals only
+2026-01-06 13:55:39 | INFO     | Risk-Reward: Minimum 2.5:1
+2026-01-06 13:55:41 | INFO     | Fetching historical data for RELIANCE.NS (period=1y, interval=1d)
+2026-01-06 13:55:43 | INFO     | Fetched 249 candles for RELIANCE.NS
+2026-01-06 13:55:43 | INFO     | RELIANCE.NS: Rejected - Low confidence (43.0%)
+2026-01-06 13:55:43 | INFO     | Fetching historical data for TCS.NS (period=1y, interval=1d)
+2026-01-06 13:55:43 | INFO     | Fetched 249 candles for TCS.NS
+2026-01-06 13:55:44 | INFO     | TCS.NS: Rejected - Low confidence (55.0%)
+2026-01-06 13:55:44 | INFO     | Fetching historical data for INFY.NS (period=1y, interval=1d)
+2026-01-06 13:55:44 | INFO     | Fetched 249 candles for INFY.NS
+2026-01-06 13:55:44 | INFO     | INFY.NS: Rejected - Low confidence (63.4%)
+2026-01-06 13:55:44 | INFO     | Fetching historical data for HDFCBANK.NS (period=1y, interval=1d)
+2026-01-06 13:55:45 | INFO     | Fetched 249 candles for HDFCBANK.NS
+2026-01-06 13:55:45 | INFO     | HDFCBANK.NS: Rejected - Low confidence (39.2%)
+2026-01-06 13:55:45 | INFO     | Fetching historical data for ICICIBANK.NS (period=1y, interval=1d)
+2026-01-06 13:55:45 | INFO     | Fetched 249 candles for ICICIBANK.NS
+2026-01-06 13:55:46 | INFO     | ICICIBANK.NS: Rejected - Low confidence (62.7%)
+2026-01-06 13:55:46 | INFO     | Fetching historical data for SBIN.NS (period=1y, interval=1d)
+2026-01-06 13:55:46 | INFO     | Fetched 249 candles for SBIN.NS
+2026-01-06 13:55:46 | INFO     | SBIN.NS: Rejected - Low confidence (54.8%)
+2026-01-06 13:55:46 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1y, interval=1d)
+2026-01-06 13:55:47 | INFO     | Fetched 249 candles for BHARTIARTL.NS
+2026-01-06 13:55:47 | INFO     | BHARTIARTL.NS: Rejected - Low confidence (50.9%)
+2026-01-06 13:55:47 | INFO     | Fetching historical data for ITC.NS (period=1y, interval=1d)
+2026-01-06 13:55:47 | INFO     | Fetched 250 candles for ITC.NS
+2026-01-06 13:55:47 | INFO     | ITC.NS: Rejected - Low confidence (56.9%)
+2026-01-06 13:55:47 | INFO     | Fetching historical data for KOTAKBANK.NS (period=1y, interval=1d)
+2026-01-06 13:55:48 | INFO     | Fetched 249 candles for KOTAKBANK.NS
+2026-01-06 13:55:48 | INFO     | KOTAKBANK.NS: Rejected - Low confidence (50.0%)
+2026-01-06 13:55:48 | INFO     | Fetching historical data for LT.NS (period=1y, interval=1d)
+2026-01-06 13:55:48 | INFO     | Fetched 249 candles for LT.NS
+2026-01-06 13:55:49 | INFO     | LT.NS: Rejected - Low confidence (55.3%)
+2026-01-06 13:58:09 | INFO     | ============================================================
+2026-01-06 13:58:09 | INFO     | Starting NSE Trading Engine GUI
+2026-01-06 13:58:09 | INFO     | ============================================================
+2026-01-06 13:58:10 | INFO     | GUI Initialized Successfully
+2026-01-06 13:58:10 | INFO     | Accuracy Target: 80%+ confidence signals only
+2026-01-06 13:58:10 | INFO     | Risk-Reward: Minimum 2.5:1
+2026-01-06 13:58:12 | INFO     | Fetching historical data for RELIANCE.NS (period=1y, interval=1d)
+2026-01-06 13:58:14 | INFO     | Fetched 249 candles for RELIANCE.NS
+2026-01-06 13:58:15 | INFO     | RELIANCE.NS: Rejected - Low confidence (42.1%)
+2026-01-06 13:58:15 | INFO     | Fetching historical data for TCS.NS (period=1y, interval=1d)
+2026-01-06 13:58:15 | INFO     | Fetched 249 candles for TCS.NS
+2026-01-06 13:58:15 | INFO     | TCS.NS: Rejected - Low confidence (55.0%)
+2026-01-06 13:58:15 | INFO     | Fetching historical data for INFY.NS (period=1y, interval=1d)
+2026-01-06 13:58:15 | INFO     | Fetched 249 candles for INFY.NS
+2026-01-06 13:58:16 | INFO     | INFY.NS: Rejected - Low confidence (63.4%)
+2026-01-06 13:58:16 | INFO     | Fetching historical data for HDFCBANK.NS (period=1y, interval=1d)
+2026-01-06 13:58:16 | INFO     | Fetched 249 candles for HDFCBANK.NS
+2026-01-06 13:58:16 | INFO     | HDFCBANK.NS: Rejected - Low confidence (39.2%)
+2026-01-06 13:58:16 | INFO     | Fetching historical data for ICICIBANK.NS (period=1y, interval=1d)
+2026-01-06 13:58:16 | INFO     | Fetched 249 candles for ICICIBANK.NS
+2026-01-06 13:58:17 | INFO     | ICICIBANK.NS: Rejected - Low confidence (63.8%)
+2026-01-06 13:58:17 | INFO     | Fetching historical data for SBIN.NS (period=1y, interval=1d)
+2026-01-06 13:58:17 | INFO     | Fetched 249 candles for SBIN.NS
+2026-01-06 13:58:17 | INFO     | SBIN.NS: Rejected - Low confidence (54.8%)
+2026-01-06 13:58:17 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1y, interval=1d)
+2026-01-06 13:58:17 | INFO     | Fetched 249 candles for BHARTIARTL.NS
+2026-01-06 13:58:18 | INFO     | BHARTIARTL.NS: Rejected - Low confidence (50.9%)
+2026-01-06 13:58:18 | INFO     | Fetching historical data for ITC.NS (period=1y, interval=1d)
+2026-01-06 13:58:18 | INFO     | Fetched 250 candles for ITC.NS
+2026-01-06 13:58:18 | INFO     | ITC.NS: Rejected - Low confidence (56.9%)
+2026-01-06 13:58:18 | INFO     | Fetching historical data for KOTAKBANK.NS (period=1y, interval=1d)
+2026-01-06 13:58:19 | INFO     | Fetched 249 candles for KOTAKBANK.NS
+2026-01-06 13:58:19 | INFO     | KOTAKBANK.NS: Rejected - Low confidence (50.0%)
+2026-01-06 13:58:19 | INFO     | Fetching historical data for LT.NS (period=1y, interval=1d)
+2026-01-06 13:58:19 | INFO     | Fetched 249 candles for LT.NS
+2026-01-06 13:58:19 | INFO     | LT.NS: Rejected - Low confidence (55.3%)
+2026-01-06 14:02:51 | INFO     | ============================================================
+2026-01-06 14:02:51 | INFO     | Starting NSE Trading Engine GUI
+2026-01-06 14:02:51 | INFO     | ============================================================
+2026-01-06 14:02:53 | INFO     | GUI Initialized Successfully
+2026-01-06 14:02:53 | INFO     | Accuracy Target: 80%+ confidence signals only
+2026-01-06 14:02:53 | INFO     | Risk-Reward: Minimum 2.5:1
+2026-01-06 14:02:55 | INFO     | Fetching historical data for RELIANCE.NS (period=1y, interval=1d)
+2026-01-06 14:02:57 | INFO     | Fetched 249 candles for RELIANCE.NS
+2026-01-06 14:02:57 | INFO     | RELIANCE.NS: Rejected - Low confidence (42.1%)
+2026-01-06 14:02:57 | INFO     | Fetching historical data for TCS.NS (period=1y, interval=1d)
+2026-01-06 14:02:58 | INFO     | Fetched 249 candles for TCS.NS
+2026-01-06 14:02:58 | INFO     | TCS.NS: Rejected - Low confidence (55.0%)
+2026-01-06 14:02:58 | INFO     | Fetching historical data for INFY.NS (period=1y, interval=1d)
+2026-01-06 14:02:58 | INFO     | Fetched 249 candles for INFY.NS
+2026-01-06 14:02:59 | INFO     | INFY.NS: Rejected - Low confidence (63.4%)
+2026-01-06 14:02:59 | INFO     | Fetching historical data for HDFCBANK.NS (period=1y, interval=1d)
+2026-01-06 14:02:59 | INFO     | Fetched 249 candles for HDFCBANK.NS
+2026-01-06 14:02:59 | INFO     | HDFCBANK.NS: Rejected - Low confidence (39.2%)
+2026-01-06 14:02:59 | INFO     | Fetching historical data for ICICIBANK.NS (period=1y, interval=1d)
+2026-01-06 14:02:59 | INFO     | Fetched 249 candles for ICICIBANK.NS
+2026-01-06 14:03:00 | INFO     | ICICIBANK.NS: Rejected - Low confidence (63.8%)
+2026-01-06 14:03:00 | INFO     | Fetching historical data for SBIN.NS (period=1y, interval=1d)
+2026-01-06 14:03:00 | INFO     | Fetched 249 candles for SBIN.NS
+2026-01-06 14:03:00 | INFO     | SBIN.NS: Rejected - Low confidence (54.8%)
+2026-01-06 14:03:00 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1y, interval=1d)
+2026-01-06 14:03:00 | INFO     | Fetched 249 candles for BHARTIARTL.NS
+2026-01-06 14:03:01 | INFO     | BHARTIARTL.NS: Rejected - Low confidence (50.9%)
+2026-01-06 14:03:01 | INFO     | Fetching historical data for ITC.NS (period=1y, interval=1d)
+2026-01-06 14:03:01 | INFO     | Fetched 250 candles for ITC.NS
+2026-01-06 14:03:01 | INFO     | ITC.NS: Rejected - Low confidence (56.9%)
+2026-01-06 14:03:01 | INFO     | Fetching historical data for KOTAKBANK.NS (period=1y, interval=1d)
+2026-01-06 14:03:01 | INFO     | Fetched 249 candles for KOTAKBANK.NS
+2026-01-06 14:03:02 | INFO     | KOTAKBANK.NS: Rejected - Low confidence (50.0%)
+2026-01-06 14:03:02 | INFO     | Fetching historical data for LT.NS (period=1y, interval=1d)
+2026-01-06 14:03:02 | INFO     | Fetched 249 candles for LT.NS
+2026-01-06 14:03:02 | INFO     | LT.NS: Rejected - Low confidence (55.3%)
+2026-01-06 14:06:41 | INFO     | ============================================================
+2026-01-06 14:06:41 | INFO     | Starting NSE Trading Engine GUI
+2026-01-06 14:06:41 | INFO     | ============================================================
+2026-01-06 14:06:43 | INFO     | GUI Initialized Successfully
+2026-01-06 14:06:43 | INFO     | Accuracy Target: 80%+ confidence signals only
+2026-01-06 14:06:43 | INFO     | Risk-Reward: Minimum 2.5:1
+2026-01-06 14:06:45 | INFO     | Fetching historical data for RELIANCE.NS (period=1y, interval=1d)
+2026-01-06 14:06:47 | INFO     | Fetched 249 candles for RELIANCE.NS
+2026-01-06 14:06:47 | INFO     | RELIANCE.NS: Rejected - Low confidence (42.1%)
+2026-01-06 14:06:47 | INFO     | Fetching historical data for TCS.NS (period=1y, interval=1d)
+2026-01-06 14:06:47 | INFO     | Fetched 249 candles for TCS.NS
+2026-01-06 14:06:48 | INFO     | TCS.NS: Rejected - Low confidence (55.0%)
+2026-01-06 14:06:48 | INFO     | Fetching historical data for INFY.NS (period=1y, interval=1d)
+2026-01-06 14:06:48 | INFO     | Fetched 249 candles for INFY.NS
+2026-01-06 14:06:48 | INFO     | INFY.NS: Rejected - Low confidence (63.4%)
+2026-01-06 14:06:48 | INFO     | Fetching historical data for HDFCBANK.NS (period=1y, interval=1d)
+2026-01-06 14:06:49 | INFO     | Fetched 249 candles for HDFCBANK.NS
+2026-01-06 14:06:49 | INFO     | HDFCBANK.NS: Rejected - Low confidence (39.2%)
+2026-01-06 14:06:49 | INFO     | Fetching historical data for ICICIBANK.NS (period=1y, interval=1d)
+2026-01-06 14:06:49 | INFO     | Fetched 249 candles for ICICIBANK.NS
+2026-01-06 14:06:49 | INFO     | ICICIBANK.NS: Rejected - Low confidence (63.8%)
+2026-01-06 14:06:49 | INFO     | Fetching historical data for SBIN.NS (period=1y, interval=1d)
+2026-01-06 14:06:50 | INFO     | Fetched 249 candles for SBIN.NS
+2026-01-06 14:06:50 | INFO     | SBIN.NS: Rejected - Low confidence (54.8%)
+2026-01-06 14:06:50 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1y, interval=1d)
+2026-01-06 14:06:50 | INFO     | Fetched 249 candles for BHARTIARTL.NS
+2026-01-06 14:06:50 | INFO     | BHARTIARTL.NS: Rejected - Low confidence (50.9%)
+2026-01-06 14:06:50 | INFO     | Fetching historical data for ITC.NS (period=1y, interval=1d)
+2026-01-06 14:06:51 | INFO     | Fetched 250 candles for ITC.NS
+2026-01-06 14:06:51 | INFO     | ITC.NS: Rejected - Low confidence (56.9%)
+2026-01-06 14:06:51 | INFO     | Fetching historical data for KOTAKBANK.NS (period=1y, interval=1d)
+2026-01-06 14:06:51 | INFO     | Fetched 249 candles for KOTAKBANK.NS
+2026-01-06 14:06:52 | INFO     | KOTAKBANK.NS: Rejected - Low confidence (50.0%)
+2026-01-06 14:06:52 | INFO     | Fetching historical data for LT.NS (period=1y, interval=1d)
+2026-01-06 14:06:52 | INFO     | Fetched 249 candles for LT.NS
+2026-01-06 14:06:52 | INFO     | LT.NS: Rejected - Low confidence (55.3%)
+2026-01-06 14:08:36 | INFO     | ============================================================
+2026-01-06 14:08:36 | INFO     | Starting NSE Trading Engine GUI
+2026-01-06 14:08:36 | INFO     | ============================================================
+2026-01-06 14:08:37 | INFO     | GUI Initialized Successfully
+2026-01-06 14:08:37 | INFO     | Accuracy Target: 80%+ confidence signals only
+2026-01-06 14:08:37 | INFO     | Risk-Reward: Minimum 2.5:1
+2026-01-06 14:08:37 | INFO     | Fetching historical data for RELIANCE.NS (period=1y, interval=1d)
+2026-01-06 14:08:39 | INFO     | Fetched 249 candles for RELIANCE.NS
+2026-01-06 14:08:40 | INFO     | RELIANCE.NS: Rejected - Low confidence (42.1%)
+2026-01-06 14:08:40 | INFO     | Fetching historical data for TCS.NS (period=1y, interval=1d)
+2026-01-06 14:08:40 | INFO     | Fetched 249 candles for TCS.NS
+2026-01-06 14:08:40 | INFO     | TCS.NS: Rejected - Low confidence (55.0%)
+2026-01-06 14:08:40 | INFO     | Fetching historical data for INFY.NS (period=1y, interval=1d)
+2026-01-06 14:08:40 | INFO     | Fetched 249 candles for INFY.NS
+2026-01-06 14:08:41 | INFO     | INFY.NS: Rejected - Low confidence (63.4%)
+2026-01-06 14:08:41 | INFO     | Fetching historical data for HDFCBANK.NS (period=1y, interval=1d)
+2026-01-06 14:08:41 | INFO     | Fetched 249 candles for HDFCBANK.NS
+2026-01-06 14:08:41 | INFO     | HDFCBANK.NS: Rejected - Low confidence (39.2%)
+2026-01-06 14:08:41 | INFO     | Fetching historical data for ICICIBANK.NS (period=1y, interval=1d)
+2026-01-06 14:08:41 | INFO     | Fetched 249 candles for ICICIBANK.NS
+2026-01-06 14:08:42 | INFO     | ICICIBANK.NS: Rejected - Low confidence (63.8%)
+2026-01-06 14:08:42 | INFO     | Fetching historical data for SBIN.NS (period=1y, interval=1d)
+2026-01-06 14:08:42 | INFO     | Fetched 249 candles for SBIN.NS
+2026-01-06 14:08:42 | INFO     | SBIN.NS: Rejected - Low confidence (54.8%)
+2026-01-06 14:08:42 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1y, interval=1d)
+2026-01-06 14:08:43 | INFO     | Fetched 249 candles for BHARTIARTL.NS
+2026-01-06 14:08:43 | INFO     | BHARTIARTL.NS: Rejected - Low confidence (50.9%)
+2026-01-06 14:08:43 | INFO     | Fetching historical data for ITC.NS (period=1y, interval=1d)
+2026-01-06 14:08:43 | INFO     | Fetched 250 candles for ITC.NS
+2026-01-06 14:08:43 | INFO     | ITC.NS: Rejected - Low confidence (55.7%)
+2026-01-06 14:08:43 | INFO     | Fetching historical data for KOTAKBANK.NS (period=1y, interval=1d)
+2026-01-06 14:08:44 | INFO     | Fetched 249 candles for KOTAKBANK.NS
+2026-01-06 14:08:44 | INFO     | KOTAKBANK.NS: Rejected - Low confidence (50.0%)
+2026-01-06 14:08:44 | INFO     | Fetching historical data for LT.NS (period=1y, interval=1d)
+2026-01-06 14:08:44 | INFO     | Fetched 249 candles for LT.NS
+2026-01-06 14:08:44 | INFO     | LT.NS: Rejected - Low confidence (55.3%)
+2026-01-06 14:10:44 | INFO     | Fetching historical data for RELIANCE.NS (period=1y, interval=1d)
+2026-01-06 14:10:46 | INFO     | Fetched 249 candles for RELIANCE.NS
+2026-01-06 14:10:46 | INFO     | Fetching historical data for TCS.NS (period=1y, interval=1d)
+2026-01-06 14:10:46 | INFO     | Fetched 249 candles for TCS.NS
+2026-01-06 14:10:46 | INFO     | Fetching historical data for INFY.NS (period=1y, interval=1d)
+2026-01-06 14:10:46 | INFO     | Fetched 249 candles for INFY.NS
+2026-01-06 14:10:46 | INFO     | Fetching historical data for HDFCBANK.NS (period=1y, interval=1d)
+2026-01-06 14:10:47 | INFO     | Fetched 249 candles for HDFCBANK.NS
+2026-01-06 14:10:47 | INFO     | Fetching historical data for ICICIBANK.NS (period=1y, interval=1d)
+2026-01-06 14:10:47 | INFO     | Fetched 249 candles for ICICIBANK.NS
+2026-01-06 14:10:47 | INFO     | Fetching historical data for SBIN.NS (period=1y, interval=1d)
+2026-01-06 14:10:47 | INFO     | Fetched 249 candles for SBIN.NS
+2026-01-06 14:10:47 | INFO     | Fetching historical data for BHARTIARTL.NS (period=1y, interval=1d)
+2026-01-06 14:10:48 | INFO     | Fetched 249 candles for BHARTIARTL.NS
+2026-01-06 14:10:48 | INFO     | Fetching historical data for ITC.NS (period=1y, interval=1d)
+2026-01-06 14:10:48 | INFO     | Fetched 250 candles for ITC.NS
+2026-01-06 14:10:48 | INFO     | Fetching historical data for KOTAKBANK.NS (period=1y, interval=1d)
+2026-01-06 14:10:48 | INFO     | Fetched 249 candles for KOTAKBANK.NS
+2026-01-06 14:10:48 | INFO     | Fetching historical data for LT.NS (period=1y, interval=1d)
+2026-01-06 14:10:49 | INFO     | Fetched 249 candles for LT.NS

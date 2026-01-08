@@ -1,0 +1,28 @@
+# Core Data & Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+yfinance>=0.2.40
+pandas-ta
+requests
+nsepython>=0.3.14b
+
+# Database
+sqlalchemy>=2.0.0
+aiohttp>=3.9.0
+
+# GUI
+PyQt6>=6.5.0
+pyqtgraph>=0.13.0
+matplotlib>=3.7.0
+mplfinance>=0.12.10b0
+
+# Configuration
+PyYAML>=6.0
+
+# Utilities
+python-dateutil>=2.8.0
+
+# Web Dashboard
+streamlit>=1.30.0
+plotly>=5.18.0
+watchdog>=3.0.0

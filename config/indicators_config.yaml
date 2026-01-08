@@ -1,0 +1,74 @@
+# Technical Indicators Configuration
+
+# Trend Indicators
+trend:
+  ema:
+    periods: [9, 21, 50, 200]
+  vwap:
+    reset_period: "daily"  # daily or weekly
+    
+# Momentum Indicators
+momentum:
+  rsi:
+    period: 14
+    overbought: 70
+    oversold: 30
+  macd:
+    fast: 12
+    slow: 26
+    signal: 9
+  stochastic:
+    k_period: 14
+    d_period: 3
+    overbought: 80
+    oversold: 20
+
+# Volatility Indicators
+volatility:
+  atr:
+    period: 14
+    stop_loss_multiplier: 1.5
+    target_multipliers: [2.0, 3.0]
+  bollinger:
+    period: 20
+    std_dev: 2.0
+
+# Structure Analysis
+structure:
+  support_resistance:
+    lookback_periods: 50
+    proximity_percent: 0.5  # Within 0.5% is considered near S/R
+  volume_profile:
+    bins: 20
+
+# Market Regime Detection (ADX thresholds)
+regime:
+  adx:
+    period: 14
+    trend_threshold: 25
+    strong_trend_threshold: 40
+    range_threshold: 20
+
+# Indicator Weights by Regime
+weights:
+  trend:
+    trend_indicators: 0.40
+    momentum_indicators: 0.30
+    volatility_indicators: 0.15
+    structure_indicators: 0.15
+  range:
+    trend_indicators: 0.15
+    momentum_indicators: 0.40
+    volatility_indicators: 0.20
+    structure_indicators: 0.25
+  high_volatility:
+    trend_indicators: 0.20
+    momentum_indicators: 0.25
+    volatility_indicators: 0.25
+    structure_indicators: 0.30
+
+# Confluence Scoring
+confluence:
+  excellent_threshold: 80
+  good_threshold: 65
+  moderate_threshold: 50

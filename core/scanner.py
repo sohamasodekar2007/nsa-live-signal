@@ -110,7 +110,7 @@ class AsyncScanner:
         
         # Initialize resources
         timeout = aiohttp.ClientTimeout(total=5)
-        connector = aiohttp.TCPConnector(limit=50, ssl=False)
+        connector = aiohttp.TCPConnector(limit=200, ssl=False) # Optimized for speed
         self._session = aiohttp.ClientSession(connector=connector, headers=self.HEADERS, timeout=timeout)
         
         # Initialize Executor if needed (though _deep_analysis checks it, better to have it)
